@@ -4,7 +4,7 @@ theme = "hugo-titi"
 disqusShortname = "datasketch"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir="docs"
-canonifyURLs = "true"
+#canonifyURLs = "true"
 
 [blackfriday]
   hrefTargetBlank = true
