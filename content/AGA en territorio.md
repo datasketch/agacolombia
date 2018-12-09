@@ -7,7 +7,7 @@ menu: "nav"
 
 ## AGA en Antioquia
 
-![image](/images/AGA Antioquia.png)
+![image](../../images/AGA Antioquia.png)
 
 El encuentro subnacional se realizó en Medellín, Antioquia, el 04 de mayo de 2017, donde representantes de diferentes entidades y organizaciones locales priorizaron los desafíos del departamento en Gobierno Abierto. Posteriormente se realizaron encuentros virtuales con el equipo encargado de consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
@@ -21,7 +21,7 @@ El compromiso consolidado y que será validado por el Comité de la Alianza Gobi
 
 ## AGA en Bogotá
 
-![image] (/images/AGA Bogota.png)
+![image](../../images/AGA Bogota.png)
 
 En el encuentro subnacional realizado en Bogotá, participaron representantes de diferentes entidades y organizaciones locales quienes priorizaron los desafíos en Gobierno Abierto para consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
@@ -29,7 +29,7 @@ El compromiso consolidado y que será validado por el Comité de la Alianza Gobi
 
 ## AGA en Boyacá
 
-![image] (/images/AGA Boyaca.png)
+![image](../..//images/AGA Boyaca.png)
 
 El encuentro subnacional se realizó en Tunja, Boyacá, el 30 de marzo de 2017, donde representantes de diferentes entidades y organizaciones locales priorizaron los desafíos del departamento en Gobierno Abierto. Posteriormente se realizaron encuentros virtuales con el equipo encargado de consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
@@ -37,7 +37,7 @@ El compromiso consolidado y que será validado por el Comité de la Alianza Gobi
 
 ## AGA en Quindío
 
-![image](/images/AGA quindio.png)
+![image](../../images/AGA quindio.png)
 
 El encuentro subnacional se realizó en Armenia, Quindío, el 20 de abril de 2017, donde representantes de diferentes entidades y organizaciones locales priorizaron los desafíos del departamento en Gobierno Abierto. Posteriormente se realizaron encuentros virtuales con el equipo encargado de consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
@@ -45,7 +45,7 @@ El compromiso consolidado y que será validado por el Comité de la Alianza Gobi
 
 ## AGA en Nariño
 
-![image](/images/AGA narino.png)
+![image](../../images/AGA narino.png)
 
 El encuentro subnacional se realizó en Pasto, Nariño, el 04 de mayo de 2017, donde representantes de diferentes entidades y organizaciones locales priorizaron los desafíos del departamento en Gobierno Abierto. Posteriormente se realizaron encuentros virtuales con el equipo encargado de consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
