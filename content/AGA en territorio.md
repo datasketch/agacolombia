@@ -7,7 +7,7 @@ menu: "nav"
 
 ## AGA en Antioquia
 
-![image](../../images/AGA Antioquia.png)
+![image](/images/AGA Antioquia.png)
 
 El encuentro subnacional se realizó en Medellín, Antioquia, el 04 de mayo de 2017, donde representantes de diferentes entidades y organizaciones locales priorizaron los desafíos del departamento en Gobierno Abierto. Posteriormente se realizaron encuentros virtuales con el equipo encargado de consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
