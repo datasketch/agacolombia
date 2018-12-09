@@ -4,19 +4,25 @@ theme = "hugo-titi"
 disqusShortname = "datasketch"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+publishDir="docs"
+
 [blackfriday]
   hrefTargetBlank = true
 
 
 #Parametros de configuración
 [params]
+  [params.fonts]
+  body = "Arimoblog"
+  headings = "Didact Gothic"
   #Footer
   [params.footer]
-    text = "Fabuloso Footer. [Datasketch](https://www.datasketch.co)"
+    text = "Comité de la **Alianza para el Gobierno Abierto** en Colombia:"
     # footer background color
-    bg = "black"
+    bg = "white"
     # footer text color
-    color = "white"
+    color = "black"
+    
   [params.nav]
   bg = "#303030"
   color = "white"
@@ -25,14 +31,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   fixed = false
   [[params.social]]
   icon = "twitter"
-  url = "https://twitter.com/datasketch"
+  url = "https://twitter.com/"
   [[params.social]]
   icon = "facebook"
-  url = "https://facebook.com/datasketch"
+  url = "https://facebook.com/"
     
     [[params.social]]
     icon = "instagram"
-    url = "https://instagram.com/datasketch"
+    url = "https://instagram.com/"
     
 #Barra de navegación
 [menu]
@@ -42,42 +48,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "http://agacolombia.org/"
     weight = 1
     
-    [[menu.nav]]
-    name = "Misión y objetivos"
-    url = "http://agacolombia.org/mision"
-    weight = 2
-    
-     [[menu.nav]]
-    name = "Blog"
-    url = "http://agacolombia.org/blog"
-    weight = 3
-    
-    [[menu.nav]]
-    name = "AGA en territorio"
-    url = "http://agacolombia.org/aga-en-territorio"
-    weight = 4
-    
-    [[menu.nav]]
-    name = "Preguntas frecuentes"
-    url = "http://agacolombia.org/preguntas-frecuentes"
-    weight = 5
-    
     [[menu.burger]]
     nname = "Inicio"
     url = "http://agacolombia.org/"
     
-      [[menu.burger]]
-    name = "Misión y objetivos"
-    url = "http://agacolombia.org/mision"
-    
-    [[menu.burger]]
-    name = "Blog"
-    url = "http://agacolombia.org/blog"
-    
-    [[menu.burger]]
-    name = "AGA en territorio"
-    url = "http://agacolombia.org/aga-en-territorio"
-    
-    [[menu.burger]]
-    name = "Preguntas frecuentes"
-    url = "http://agacolombia.org/preguntas-frecuentes"
+
