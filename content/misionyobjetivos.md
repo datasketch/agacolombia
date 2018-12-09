@@ -7,7 +7,7 @@ hideTitle: true
 ---
 
 
-![image](/images/bannermisionobjetivos.png)
+![image](/agacolombia/images/bannermisionobjetivos.png)
 
 
 

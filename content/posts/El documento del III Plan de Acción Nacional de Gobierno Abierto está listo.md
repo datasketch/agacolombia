@@ -7,7 +7,7 @@ cover: true
 highlight: ""
 menu: "burger"
 ---
-![image](/images/imágen tercer plan accion.png)
+![image](/agacolombia/images/imágen tercer plan accion.png)
 
 ## COLOMBIA ARTICULA ESFUERZOS HACIA LA CONSOLIDACIÓN DE UN GOBIERNO ABIERTO 
 
