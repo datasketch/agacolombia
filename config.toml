@@ -3,6 +3,7 @@ title = "Sitio"
 theme = "hugo-titi"
 disqusShortname = "datasketch"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+canonifyURLs = "true"
 
 publishDir="docs"
 
