@@ -1,4 +1,4 @@
-baseUrl = "/agacolombia/"
+baseUrl = "/"
 title = "Sitio"
 theme = "hugo-titi"
 disqusShortname = "datasketch"
