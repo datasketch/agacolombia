@@ -1,10 +1,9 @@
-baseURL = "https://datasketch.github.io/agacolombia/"
+# baseUrl = "https://datasketch.github.io/agacolombia/"
 title = "Sitio"
 theme = "hugo-titi"
 disqusShortname = "datasketch"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 canonifyURLs = "true"
-
 publishDir="docs"
 
 [blackfriday]
