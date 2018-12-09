@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "//datasketch.github.io/agacolombia"
 title = "Sitio"
 theme = "hugo-titi"
 disqusShortname = "datasketch"
