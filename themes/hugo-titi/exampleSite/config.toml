@@ -2,6 +2,7 @@ baseURL = "/"
 title = "Titi"
 theme = "hugo-titi"
 themesDir = "../.."
+publishDir = "docs"
 disqusShortname = "datasketch"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -9,10 +10,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   hrefTargetBlank = true
 
 [menu]
-  [[menu.burger]]
-    name = "Inicio"
-    url = "/"
-    weight = 1
   [[menu.nav]]
     name = "Metodología"
     url = "/metodologia"
@@ -23,16 +20,20 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   description = "Site SEO description"
 
   # Custom css and js
-  css = []
+  css = ['lideres.css']
   js = []
 
+  # External css and js
+  [params.vendors]
+    css = []
+    js = []
+
   [params.fonts]
-    body = "Merriweather:300,400"
-    headings = "Lato:300,400"
+    headings = "Patua One"
 
   [params.nav]
-    bg = "#eee"
-    color = "black"
+    bg = "#2a2a2a"
+    color = "#ffffff"
     logo = "images/ds-logo.svg"
     logoWidth = "150px"
     # Optional, true by default

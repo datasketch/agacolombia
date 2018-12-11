@@ -1,27 +1,23 @@
 ---
 title: Home
 ---
-
-<!-- {{< banner
-  h = "60"
-  title = "EDUCACIÓN TEMPRANA:"
-  subtitle = "Aprendizajes para toda la vida"
-  image = "images/banner_cover.png"
-  color = "white"
-  bg = "aliceblue"
->}}
-  El gran esfuerzo que debe hacer el Estado para incentivarla educación es crear unas buenas condiciones de infraestructura, recursos didácticos, ambiente socioafectivo, y alianzas internacionales.
-{{< /banner >}} -->
-<!-- {{< iframe url="https://randommonkey.shinyapps.io/elecciones-contratos-networks/" resize="" >}} -->
-{{< slider pagination="" navigation="" >}}
-  {{< slide title="Slide 1" bg="#0E0329" color="white">}}Texto de slide 1{{< /slide >}}
-  {{< slide title="Slide 2" image="https://images.unsplash.com/photo-1544175832-b30616df05db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80" color="white" >}}Texto de slide 2{{< /slide >}}
-  {{< slide title="Slide 3" >}}Texto de slide 3{{< /slide >}}
-  {{< slide title="Slide 4" >}}Texto de slide 4{{< /slide >}}
-  {{< slide title="Slide 5" >}}Texto de slide 5{{< /slide >}}
-{{< /slider >}}
+{{< title >}}Title{{< /title >}}
+{{< banner height="100" title="" subtitle="líderes sociales en Colombia han sido asesinados desde el primero de Enero de 2016. Conoce más sobre ellos" bg="#2a2a2a" color="#ffffff" >}}{{< /banner >}}
 {{< jump 20 >}}
-{{< boxes bg="#c4117f" color="white" height="50" justify="start" align="center" >}}
-  {{< box mobile="6" >}}1{{< /box >}}
-  {{< box mobile="6" >}}Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.{{< /box >}}
+{{< title align="center" size="32px" font="Lato"  >}}Líderes sociales{{< /title >}}
+{{< boxes justify="center" >}}
+  {{< box mobile="8" >}}Cada 3 días es asesinado un líder social en Colombia. Mientras las denuncias aumentan, el Gobierno se mantiene en su teoría de que son casos aislados. Cada vez se cuentan más víctimas, cada día la impunidad continúa.{{< /box >}}
 {{< /boxes >}}
+
+{{< container small>}}
+  {{< boxes >}}
+    {{< box mobile="12" >}}
+      {{< boxes >}}
+        {{< box mobile="2">}}
+          {{< img_coin url="https://res.cloudinary.com/randommonkey/image/upload/c_thumb,f_auto,g_face,h_100,w_100,z_0.7/v1533149904/datasketch/lideres/dnb4pbm3pe8musqro5gc.png" width="100" >}}
+        {{< /box >}}
+        {{< box mobile="10" >}}Ana María Cortés{{< /box >}}
+      {{< /boxes >}}
+    {{< /box >}}
+  {{< /boxes >}}
+{{< /container >}}

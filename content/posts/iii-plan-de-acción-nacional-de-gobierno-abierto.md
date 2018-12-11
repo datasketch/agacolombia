@@ -2,7 +2,7 @@
 title: "El Documento Del III Plan De Acción Nacional De Gobierno Abierto Está Listo"
 date: "2018-12-08T18:58:02-05:00"
 description: "Type SEO description here"
-hideTitle: false
+hideTitle: true
 cover: true
 highlight: ""
 menu: "burger"
@@ -53,7 +53,7 @@ Gobiernos subnacionales: una por cada región:
 
  
 
-Sobre la Alianza Gobierno Abierto Colombia (AGA)
+## Sobre la Alianza Gobierno Abierto Colombia (AGA)
 
 Es una iniciativa multilateral voluntaria en la que participan más de 60 países, que busca mejorar el desempeño gubernamental, fomentar la participación efectiva y mejorar la capacidad de respuesta de los gobiernos hacia sus ciudadanos, mediante la implementación de estrategias en materia de transparencia, acceso a la información, participación ciudadana y uso de nuevas tecnologías, que logren generar cambios concretos y visibles. Esta se consolidó en septiembre de 2011, y Colombia forma parte de ella desde 2012.
 
@@ -64,3 +64,15 @@ Es una iniciativa multilateral voluntaria en la que participan más de 60 paíse
 
 <iframe src="https://player.vimeo.com/video/235058375?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/235058375">Lanzamiento III Plan de Acci&oacute;n Nacional de Gobierno Abierto</a> from <a href="https://vimeo.com/somosmas">Somos Mas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+## Fotos
+
+{{< slider pagination="" navigation="" height="90"  loop="true">}}
+  {{< slide title="" image="/images/1.jpg" >}}{{< /slide >}}
+  {{< slide title="" image="/images/2.jpg" >}}{{< /slide >}}
+  {{< slide title="" image="/images/3.jpg" >}}{{< /slide >}}
+  {{< slide title="" image="/images/4.jpg" >}}{{< /slide >}}
+  {{< slide title="" image="/images/5.jpg" >}}{{< /slide >}}
+  {{< slide title="" image="/images/6.jpg" >}}{{< /slide >}}
+  {{< slide title="" image="/images/7.jpg" >}}{{< /slide >}}
+{{< /slider >}}

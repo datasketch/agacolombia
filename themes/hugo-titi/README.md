@@ -103,6 +103,22 @@ Configure the footer content.
     # footer text color
     color = ""
 ```
+
+### Fonts
+The site will automatically load fonts from [Google Fonts](https://fonts.google.com/). The weight of the fonts can be requested appending a colon after the font's name and then writing the values separated by a comma.
+
+```toml
+# config.toml
+[params]
+  [params.fonts]
+    # fonts for headings
+    headings = "Lato"
+    # fonts for body
+    body = "Merriweather:300,400"
+```
+
+:information_source: Notice that there is no space after the comma when differents font weights are requested.
+
 ## Shortcodes
 ## anchor
 The anchor shortcode changes the color of the `<a>` tag returned by the markdown parser. It works along with the `higlight` color parameter, if available, in the front matter configuration of your posts.
@@ -164,7 +180,7 @@ By default, the width is set to 100%, however, if you set a different value, the
 
 ```md
 <!-- Embed iframe with 100% width -->
-{{ < iframe url="http://example.com" >}}
+{{< iframe url="http://example.com" >}}
 <!-- Embed iframe with 80% width -->
 {{< iframe url="http://example.com" width="80" >}}
 <!-- Embed iframe with 100% width and auto resize -->
