@@ -76,7 +76,7 @@ Acta (Fecha
 
 ![](/images/bannerplanaccion2.png)
 
-{{< iframe url="http://api.ning.com/files/nVKQoCuI46x1rU2bBbNfcEfNyM7tIBl7ammEitRDVPRVwjVhEN9uxiqLJsSJ53k684QheYCoPYjrcfmjhjlsHrSszOKL-Ze7/IIPlandeAccinAGAColombia.pdf#toolbar=0%20noresize=" width="60" >}}
+{{< iframe url="/images/mri.pdf" width="60" >}}
 
 {{< iframe url="https://somosmas.org/aga/docs/Informe_final_MRI_Colombia.pdf#toolbar=0%20noresize=" width="60" >}}
 
