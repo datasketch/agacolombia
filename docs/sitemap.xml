@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-09T14:26:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/planes-de-accion/</loc>
+    <lastmod>2019-12-09T14:26:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/acerca-de/</loc>
+    <lastmod>2019-12-09T14:00:20-05:00</lastmod>
+  </url>
   
   <url>
     <loc>/preguntas-frecuentes/</loc>
@@ -10,6 +25,11 @@
   <url>
     <loc>/aga-territorio/</loc>
     <lastmod>2018-12-08T19:40:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2018-12-08T19:27:53-05:00</lastmod>
   </url>
   
   <url>
@@ -38,13 +58,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-12-08T20:07:33-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -52,14 +66,7 @@
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2018-12-08T19:27:53-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

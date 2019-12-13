@@ -12,43 +12,41 @@ publishDir="docs"
 #Parametros de configuración
 [params]
   [params.fonts]
-  body = "Arimoblog"
-  headings = "Didact Gothic"
-  #Footer
+    body = "Arimoblog"
+    headings = "Didact Gothic"
   [params.footer]
-    text = "Comité de la **Alianza para el Gobierno Abierto** en Colombia:"
-    # footer background color
-    bg = "white"
-    # footer text color
-    color = "black"
-    
+    text = "Comité de la **Alianza para el Gobierno Abierto** en Colombia"
+    bg = "black"
+    color = "white"
   [params.nav]
-  bg = "#303030"
-  color = "white"
-  logo = "images/logoaga.jpg"
-  logowidth = "150px"
-  fixed = false
+    bg = "#303030"
+    color = "white"
+    logo = "images/logoaga.jpg"
+    logowidth = "80px"
+    fixed = false
   [[params.social]]
-  icon = "twitter"
-  url = "https://twitter.com/"
+    icon = "twitter"
+    url = "https://twitter.com/aga_colombia"
   [[params.social]]
-  icon = "facebook"
-  url = "https://facebook.com/"
-    
-    [[params.social]]
-    icon = "instagram"
-    url = "https://instagram.com/"
+    icon = "facebook"
+    url = "https://www.facebook.com/gobiernoabiertocolombia/?fref=ts"
     
 #Barra de navegación
 [menu]
-    
-    [[menu.nav]]
+  [[menu.nav]]
     name = "Inicio"
-    url = "http://agacolombia.org/"
+    url = "/"
     weight = 1
-    
-    [[menu.burger]]
-    nname = "Inicio"
-    url = "http://agacolombia.org/"
-    
-
+  # [[menu.burger]]
+  #   name = "Inicio"
+  #   url = "/"
+  #   weight = 1
+  # [[menu.burger]]
+  #   name = "Acerca de"
+  #   url = "/acerca-de"
+  # [[menu.burger]]
+  #   name = "Planes de Acción"
+  #   url = "/planes-de-accion"
+  # [[menu.burger]]
+  #   name = "Blog"
+  #   url = "/blog"

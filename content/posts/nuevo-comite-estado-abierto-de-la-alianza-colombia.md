@@ -4,7 +4,6 @@ date: "2018-12-08T18:39:50-05:00"
 description: "Type SEO description here"
 hideTitle: false
 cover: true
-menu: "burger"
 highlight: ""
 ---
 Publicado por **Alianza Gobierno Abierto** el 21 de Junio de 2018 a las 11:07am

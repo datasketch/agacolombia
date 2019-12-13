@@ -5,7 +5,6 @@ description: "Type SEO description here"
 hideTitle: true
 cover: true
 highlight: ""
-menu: "burger"
 ---
 ![image](/images/imágen tercer plan accion.png)
 

@@ -2,8 +2,8 @@
 title: "Mision y Objetivos"
 date: "2018-12-08T18:03:57-05:00"
 draft: false
-menu: "nav"
 hideTitle: true
+menu: "nav"
 ---
 
 
@@ -76,7 +76,7 @@ Acta (Fecha
 
 ![](/images/bannerplanaccion2.png)
 
-{{< iframe url="/images/mri.pdf" width="60" >}}
+{{< iframe url="/documents/mri.pdf" width="60" >}}
 
 {{< iframe url="https://somosmas.org/aga/docs/Informe_final_MRI_Colombia.pdf#toolbar=0%20noresize=" width="60" >}}
 

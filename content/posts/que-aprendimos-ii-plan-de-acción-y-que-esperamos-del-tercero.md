@@ -5,7 +5,6 @@ description: "Type SEO description here"
 hideTitle: false
 cover: true
 highlight: ""
-menu: "burger"
 ---
 Publicado por **Alianza Gobierno Abierto** el 17 de Abril de 2017 a las 11:06am
 
