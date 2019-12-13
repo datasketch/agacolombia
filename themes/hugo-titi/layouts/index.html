@@ -1,3 +1,33 @@
 {{ define "main" }}
   {{ .Content }}
+
+  <div style="padding: 2rem 0">
+    <div class="post">
+      {{ range where .Site.RegularPages "Section" "blog" }}
+        <div class="article">
+          <h1 class="post-list-item__title">{{ .Title }}</h1>
+          <p class="post-list-item__summary">{{ or .Description .Content | truncate 300 }}</p>
+          <a class="post-list-item__button" href="{{ .URL }}" style="background-color: {{ .Params.highlight | default `inherit` | safeCSS }};color: {{ .Params.color | default `inherit` | safeCSS }}">Leer más</a>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="post">
+    <h2>
+      <a href="{{relref . "acerca-de.md"}}">AGA Colombia</a>
+    </h2>
+
+    <p>
+      La Alianza para el Gobierno Abierto (AGA/OGP por sus siglas en inglés) es una iniciativa multilateral que busca mejorar el desempeño gubernamental, fomentar la participación efectiva y mejorar la capacidad de respuesta de los gobiernos hacia sus ciudadanos mediante la implementación de estrategias en materia de transparencia, acceso a la información, participación ciudadana, innovación y uso de nuevas tecnologías que logren generar cambios concretos y visibles.
+    </p>
+
+    <p>
+      Colombia hace parte de AGA desde el 2012 cuando presentó el primer Plan de Acción Nacional de Gobierno Abierto, desde entonces diferentes organizaciones sociales se han articulado a través del Comité de Estado Abierto con el propósito de participar en el proceso de implementación y seguimiento a esta iniciativa.
+    </p>
+
+    <p>
+      <a href="https://datasketch.github.io/aga-indicators/">Ver indicadores</a>
+    </p>
+  </div>
 {{ end }}
