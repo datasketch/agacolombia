@@ -1,12 +1,13 @@
 ---
-title: "El Documento Del III Plan De Acción Nacional De Gobierno Abierto Está Listo"
+title: "El documento del III Plan de Acción Nacional de Gobierno Abierto está listo"
 date: "2018-12-08T18:58:02-05:00"
-description: "Type SEO description here"
 hideTitle: true
 cover: true
 highlight: ""
 ---
-![image](/images/imágen tercer plan accion.png)
+Publicado por Alianza Gobierno Abierto el 2 de Octubre de 2017 a las 11:33am
+
+![image](/images/tercer_plan_accion.png)
 
 ## COLOMBIA ARTICULA ESFUERZOS HACIA LA CONSOLIDACIÓN DE UN GOBIERNO ABIERTO 
 

@@ -1,17 +1,14 @@
 {{ define "main" }}
-  {{ .Content }}
-  <div class="container">
-    {{ range where .Site.RegularPages "Section" "posts" }}
-      <div class="post-list-item">
-        <div class="post-list-item__image">
-        </div>
-        <div class="post-list-item__info">
+  <div style="padding: 2rem 0">
+    {{ .Content }}
+    <div class="container">
+      {{ range where .Site.RegularPages "Section" "blog" }}
+        <div class="article">
           <h1 class="post-list-item__title">{{ .Title }}</h1>
-          <small class="post-list-item__date">{{ .Date }}</small>
-          <p class="post-list-item__summary">{{ .Description | truncate 300 }}</p>
+          <p class="post-list-item__summary">{{ or .Description .Content | truncate 300 }}</p>
           <a class="post-list-item__button" href="{{ .URL }}" style="background-color: {{ .Params.highlight | default `inherit` | safeCSS }};color: {{ .Params.color | default `inherit` | safeCSS }}">Leer más</a>
         </div>
-      </div>
-    {{ end }}
+      {{ end }}
+    </div>
   </div>
 {{ end }}

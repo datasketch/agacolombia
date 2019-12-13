@@ -1,7 +1,6 @@
 ---
 title: "¿Qué Aprendimos Con El II Plan De Acción Y Qué Esperamos Del Tercero?"
 date: "2018-12-08T19:27:53-05:00"
-description: "Type SEO description here"
 hideTitle: false
 cover: true
 highlight: ""

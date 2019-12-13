@@ -1,7 +1,6 @@
 ---
 title: "Nuevo Comité De Estado Abierto De La Alianza en Colombia"
 date: "2018-12-08T18:39:50-05:00"
-description: "Type SEO description here"
 hideTitle: false
 cover: true
 highlight: ""
