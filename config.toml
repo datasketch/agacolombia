@@ -16,12 +16,12 @@ publishDir="docs"
     headings = "Didact Gothic"
   [params.footer]
     text = "Comité de la **Alianza para el Gobierno Abierto** en Colombia"
-    bg = "black"
-    color = "white"
+    bg = "white"
+    color = "black"
   [params.nav]
     bg = "#303030"
     color = "white"
-    logo = "images/logoaga.jpg"
+    logo = "images/Logo_AGA.png"
     logowidth = "80px"
     fixed = false
   [[params.social]]
@@ -43,7 +43,7 @@ publishDir="docs"
   #   weight = 1
   # [[menu.burger]]
   #   name = "Acerca de"
-  #   url = "/acerca-de"
+  #   url = "/que-es"
   # [[menu.burger]]
   #   name = "Planes de Acción"
   #   url = "/planes-de-accion"

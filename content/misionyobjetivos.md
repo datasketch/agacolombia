@@ -4,6 +4,7 @@ date: "2018-12-08T18:03:57-05:00"
 draft: false
 hideTitle: true
 menu: "nav"
+weight: 3
 ---
 
 

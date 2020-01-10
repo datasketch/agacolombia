@@ -1,9 +1,10 @@
 ---
-title: "Acerca de"
+title: "¿Qué es?"
 date: "2019-12-09T14:00:20-05:00"
 draft: false
 menu: "nav"
 hideTitle: true
+weight: 2
 ---
 
 {{< banner
