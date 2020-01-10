@@ -3,6 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/que-es/</loc>
+    <lastmod>2019-12-09T14:00:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/misionyobjetivos/</loc>
+    <lastmod>2018-12-08T18:03:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/planes-de-accion/</loc>
+    <lastmod>2019-12-09T14:26:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-12-13T17:00:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/aga-territorio/</loc>
+    <lastmod>2018-12-08T19:40:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/recursos/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-12-13T17:00:58-05:00</lastmod>
   </url>
@@ -13,33 +42,13 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2019-12-13T17:00:58-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/iv-plan-de-accion-hacia-un-estado-abierto/</loc>
     <lastmod>2019-12-13T16:55:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/planes-de-accion/</loc>
-    <lastmod>2019-12-09T14:26:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/que-es/</loc>
-    <lastmod>2019-12-09T14:00:20-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/preguntas-frecuentes/</loc>
     <lastmod>2018-12-08T20:07:33-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/aga-territorio/</loc>
-    <lastmod>2018-12-08T19:40:32-05:00</lastmod>
   </url>
   
   <url>
@@ -55,11 +64,6 @@
   <url>
     <loc>/blog/nuevo-comite-estado-abierto-de-la-alianza-colombia/</loc>
     <lastmod>2018-12-08T18:39:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/misionyobjetivos/</loc>
-    <lastmod>2018-12-08T18:03:57-05:00</lastmod>
   </url>
   
   <url>
