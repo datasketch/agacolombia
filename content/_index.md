@@ -3,8 +3,8 @@ title: AGA Colombia
 ---
 
 {{< banner
-  height = "50"
-  image = "images/bannerAGAencolombia.png"
+  height = "70"
+  image = "images/new_banner_home.png"
   color = "white"
   bg = "aliceblue"
 >}}{{< /banner >}}
