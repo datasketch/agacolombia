@@ -5,10 +5,30 @@
     <link>/blog/</link>
     <description>Recent content in Blog on AGA Colombia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Dec 2019 17:00:58 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 12:51:27 -0500</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Estamos co-creando el IV Plan de Estado Abierto: Conversacion virtual con expertos en ambiente</title>
+      <link>/blog/conversacion-virtual-expertos-ambiente/</link>
+      <pubDate>Thu, 13 Feb 2020 12:51:27 -0500</pubDate>
+      
+      <guid>/blog/conversacion-virtual-expertos-ambiente/</guid>
+      <description>Publicado por Alianza Gobierno Abierto el 13 de Febrero de 2020
+En el marco del Proceso de Co-Creacion del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para un Estado Abierto. Una de las primeras acciones a llevar a cabo es el desarrollo de Conversaciones Virtuales con Expertos de cada una de las temáticas identificadas, buscando identificar problemáticas desde un nivel mucho más técnico.</description>
+    </item>
+    
+    <item>
+      <title>Estamos co-creando el IV Plan de Estado Abierto: Taller de ambiente</title>
+      <link>/blog/taller-co-creacion-ambiente/</link>
+      <pubDate>Thu, 13 Feb 2020 12:28:47 -0500</pubDate>
+      
+      <guid>/blog/taller-co-creacion-ambiente/</guid>
+      <description>Publicado por Alianza Gobierno Abierto el 13 de Febrero de 2020
+En el marco del Proceso de Cocreación del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para el Estado Abierto. Una acción fundamental en éste proceso es el desarrollo de talleres de cocreación para la identificación de problemáticas y acciones, entre entidades públicas relacionadas con las temáticas priorizadas, y sociedad civil experta en éstas temáticas.</description>
+    </item>
     
     <item>
       <title>Avances hacia el IV Plan de Acción</title>
