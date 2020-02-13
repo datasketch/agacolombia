@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iv Plan De Accion on AGA Colombia</title>
+    <link>/planes-de-accion/iv-plan-de-accion/</link>
+    <description>Recent content in Iv Plan De Accion on AGA Colombia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Feb 2020 13:38:26 -0500</lastBuildDate>
+    
+	<atom:link href="/planes-de-accion/iv-plan-de-accion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talleres</title>
+      <link>/planes-de-accion/iv-plan-de-accion/talleres/</link>
+      <pubDate>Thu, 13 Feb 2020 14:01:08 -0500</pubDate>
+      
+      <guid>/planes-de-accion/iv-plan-de-accion/talleres/</guid>
+      <description>Taller de Ambiente En el marco del Proceso de Cocreación del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para el Estado Abierto. Una acción fundamental en éste proceso es el desarrollo de talleres de cocreación para la identificación de problemáticas y acciones, entre entidades públicas relacionadas con las temáticas priorizadas, y sociedad civil experta en éstas temáticas.</description>
+    </item>
+    
+    <item>
+      <title>Metodologia</title>
+      <link>/planes-de-accion/iv-plan-de-accion/metodologia/</link>
+      <pubDate>Thu, 13 Feb 2020 13:41:49 -0500</pubDate>
+      
+      <guid>/planes-de-accion/iv-plan-de-accion/metodologia/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Cronograma</title>
+      <link>/planes-de-accion/iv-plan-de-accion/cronograma/</link>
+      <pubDate>Thu, 13 Feb 2020 13:35:15 -0500</pubDate>
+      
+      <guid>/planes-de-accion/iv-plan-de-accion/cronograma/</guid>
+      <description>  Este cronograma es orientativo, puede sufrir variaciones a lo largo del proceso por decisión del Comité de Estado Abierto
+  </description>
+    </item>
+    
+  </channel>
+</rss>
