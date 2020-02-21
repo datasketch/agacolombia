@@ -12,3 +12,9 @@ Colombia cuenta con el compromiso de diseñar e implementar su IV Plan de Acció
 [Ambiente](/planes-de-accion/iv-plan-de-accion/ambiente)
 
 [Finanzas Públicas](/planes-de-accion/iv-plan-de-accion/finanzas-publicas)
+
+[Lucha contra la corrupción](/planes-de-accion/iv-plan-de-accion/lucha-contra-la-corrupcion)
+
+[Salud](/planes-de-accion/iv-plan-de-accion/salud)
+
+{{< iframe url="https://docs.google.com/forms/d/e/1FAIpQLSeSNMIvslzDEuQnuAHB_duVi62bk_2fbfcwgU1Jce5JySgy8A/viewform?embedded=true">}}
