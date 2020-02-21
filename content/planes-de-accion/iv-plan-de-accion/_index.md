@@ -9,4 +9,6 @@ Colombia cuenta con el compromiso de diseñar e implementar su IV Plan de Acció
 
 [Metodología](/planes-de-accion/iv-plan-de-accion/metodologia)
 
-[Talleres](/planes-de-accion/iv-plan-de-accion/talleres)
+[Ambiente](/planes-de-accion/iv-plan-de-accion/ambiente)
+
+[Finanzas Públicas](/planes-de-accion/iv-plan-de-accion/finanzas-publicas)
