@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{ $style := resources.Get "css/tailwind.pcss" | toCSS | postCSS }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+  {{ if .Title }}
+  <title>{{ .Title }} · {{ .Site.Title }}</title>
+  {{ else }}
+  <title>{{ .Site.Title }}</title>
+  {{ end }}
+</head>
+
+<body class="font-helvetica font-medium">
+  {{ partial "header.html" . }}
+  {{ block "main" . }}{{ end }}
+  {{ partial "footer.html" . }}
+</body>
+
+</html>

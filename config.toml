@@ -1,52 +1,7 @@
 baseUrl = "/"
 title = "AGA Colombia"
-theme = "hugo-titi"
-disqusShortname = "datasketch"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir="docs"
 
 [blackfriday]
   hrefTargetBlank = true
-
-
-#Parametros de configuración
-[params]
-  [params.fonts]
-    body = "Arimoblog"
-    headings = "Didact Gothic"
-  [params.footer]
-    text = "Comité de la **Alianza para el Gobierno Abierto** en Colombia"
-    bg = "white"
-    color = "black"
-  [params.nav]
-    bg = "#303030"
-    color = "white"
-    logo = "images/Logo_AGA.png"
-    logowidth = "80px"
-    fixed = false
-  [[params.social]]
-    icon = "twitter"
-    url = "https://twitter.com/aga_colombia"
-  [[params.social]]
-    icon = "facebook"
-    url = "https://www.facebook.com/gobiernoabiertocolombia/?fref=ts"
-    
-#Barra de navegación
-[menu]
-  [[menu.nav]]
-    name = "Inicio"
-    url = "/"
-    weight = 1
-  # [[menu.burger]]
-  #   name = "Inicio"
-  #   url = "/"
-  #   weight = 1
-  # [[menu.burger]]
-  #   name = "Acerca de"
-  #   url = "/que-es"
-  # [[menu.burger]]
-  #   name = "Planes de Acción"
-  #   url = "/planes-de-accion"
-  # [[menu.burger]]
-  #   name = "Blog"
-  #   url = "/blog"
