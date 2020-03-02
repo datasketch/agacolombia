@@ -1,11 +1,11 @@
 ---
 title: "El documento del III Plan de Acción Nacional de Gobierno Abierto está listo"
-date: "2018-12-08T18:58:02-05:00"
+date: "2017-10-02T18:58:02-05:00"
+author: Alianza Gobierno Abierto
 hideTitle: true
 cover: true
 highlight: ""
 ---
-Publicado por Alianza Gobierno Abierto el 2 de Octubre de 2017 a las 11:33am
 
 ![image](/images/tercer_plan_accion.png)
 
@@ -64,13 +64,3 @@ Es una iniciativa multilateral voluntaria en la que participan más de 60 paíse
 <p><a href="https://vimeo.com/235058375">Lanzamiento III Plan de Acci&oacute;n Nacional de Gobierno Abierto</a> from <a href="https://vimeo.com/somosmas">Somos Mas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Fotos
-
-{{< slider pagination="" navigation="" height="90"  loop="true">}}
-  {{< slide title="" image="/images/1.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/2.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/3.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/4.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/5.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/6.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/7.jpg" >}}{{< /slide >}}
-{{< /slider >}}

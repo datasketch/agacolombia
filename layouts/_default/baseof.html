@@ -15,8 +15,15 @@
 
 <body class="font-helvetica font-medium">
   {{ partial "header.html" . }}
-  {{ block "main" . }}{{ end }}
+  <main class="flex">
+    <div class="w-full md:w-3/4">
+      {{ block "main" . }}{{ end }}
+    </div>
+    <div class="hidden md:block md:w-1/4">
+    </div>
+  </main>
   {{ partial "footer.html" . }}
+  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
 </body>
 
 </html>
