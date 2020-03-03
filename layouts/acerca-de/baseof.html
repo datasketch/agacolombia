@@ -13,12 +13,14 @@
   {{ end }}
 </head>
 
-<body class="font-helvetica font-medium">
+<body class="font-helvetica font-medium" x-data="setup()" @scroll.window="handleScroll(event)">
   {{ partial "header.html" . }}
   <main>
     {{ block "main" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
+  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+  <script src='{{ "js/site.js" | absURL }}'></script>
 </body>
 
 </html>

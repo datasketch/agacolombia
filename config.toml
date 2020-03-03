@@ -5,3 +5,24 @@ publishDir="docs"
 
 [blackfriday]
   hrefTargetBlank = true
+[menu]
+  [[menu.main]]
+    url = "/acerca-de/"
+    name = "Acerca de"
+    weight = 1
+  [[menu.main]]
+    url = "/planes-de-accion/"
+    name = "Planes de acción"
+    weight = 2
+  [[menu.main]]
+    url = "/blog/"
+    name = "Blog"
+    weight = 3
+  [[menu.main]]
+    url = "/cronograma/"
+    name = "Cronograma"
+    weight = 4
+  [[menu.main]]
+    url = "/datos-abiertos/"
+    name = "Datos abiertos"
+    weight = 5
