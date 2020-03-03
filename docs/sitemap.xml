@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-03-03T08:35:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/acerca-de/</loc>
+    <lastmod>2020-03-03T08:07:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-03T08:07:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/conversacion-virtual-expertos-ambiente/</loc>
+    <lastmod>2020-02-13T12:51:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/taller-co-creacion-ambiente/</loc>
+    <lastmod>2020-02-13T12:28:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/iv-plan-de-accion-hacia-un-estado-abierto/</loc>
+    <lastmod>2019-10-25T16:55:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/avances-hacia-el-iv-plan-de-accion/</loc>
+    <lastmod>2019-08-12T17:00:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/nuevo-comite-estado-abierto-de-la-alianza-colombia/</loc>
+    <lastmod>2018-06-21T18:39:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/iii-plan-de-acci%C3%B3n-nacional-de-gobierno-abierto/</loc>
+    <lastmod>2017-10-02T18:58:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/que-aprendimos-ii-plan-de-acci%C3%B3n-y-que-esperamos-del-tercero/</loc>
+    <lastmod>2017-04-17T19:27:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
