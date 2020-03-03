@@ -16,10 +16,10 @@
 <body class="font-helvetica font-medium">
   {{ partial "header.html" . }}
   <main class="flex">
-    <div class="w-full md:w-3/4">
+    <div class="w-full lg:w-3/4">
       {{ block "main" . }}{{ end }}
     </div>
-    <div class="hidden md:block md:w-1/4">
+    <div class="hidden lg:block lg:w-1/4">
     </div>
   </main>
   {{ partial "footer.html" . }}
