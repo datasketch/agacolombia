@@ -9,7 +9,8 @@ module.exports = {
         'wild-sand': '#f5f5f5',
         'orange-peel': '#ff9a00',
         'blue-stone': '#006667',
-        'alto': '#dbdbdb'
+        'alto': '#dbdbdb',
+        'surfie-green': '#0f827f'
       }
     }
   },

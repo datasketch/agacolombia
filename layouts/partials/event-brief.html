@@ -1,0 +1,25 @@
+<h3 class="font-bold text-2xl leading-tight">{{ .Title }}</h3>
+<div class="mt-4">
+{{ if .Params.start_date }}
+  {{ $start_date := time .Params.start_date }}
+    <p class="italic">
+      <strong>Fecha: </strong>
+      <span>{{ index .Site.Data.months (printf "%d" $start_date.Month) }} {{ $start_date.Day }}, {{ $start_date.Year }}</span>
+      {{ if .Params.end_date }}
+        {{ $end_date := time .Params.end_date }}
+        <span> - {{ index .Site.Data.months (printf "%d" $end_date.Month) }} {{ $end_date.Day }}, {{ $end_date.Year }}</span>
+      {{ end }}
+    </p>
+{{ end }}
+{{ if .Params.time }}
+  <p class="italic">
+    <strong>Hora: </strong>
+    {{ .Params.time }}
+  </p>
+{{ end }}
+{{ if .Params.location }}
+  <p class="italic">
+    <strong>Lugar: </strong>
+    {{ .Params.location }}
+  </p>
+{{ end }}
