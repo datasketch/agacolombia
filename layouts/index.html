@@ -4,26 +4,12 @@
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
   <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
     <h2 class="text-4xl leading-none md:text-6xl">Lo último</h2>
-    <a href=""
-      class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver
-      todo</a>
+    <a href="" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver todo</a>
   </div>
-  <div class="w-full mx-auto md:w-11/12">
+  <div class="w-full mx-auto mt-16 md:w-11/12">
+    {{ $IsHome := .IsHome }}
     {{ range first 2 (where .Site.RegularPages "Section" "blog") }}
-    <div class="mt-10 first:mt-16">
-      <h3 class="font-bold text-2xl leading-tight hover:text-gray-800">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </h3>
-      <p class="italic">{{ .Params.author }}</p>
-      <p class="italic">
-        {{ index .Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Day }}, {{ .Date.Year }}
-      </p>
-      {{ if .Description }}
-      <div class="mt-4 text-lg">{{ .Description }}</div>
-      {{ else }}
-      <div class="mt-4 text-lg">{{ truncate 180 .Content }}</div>
-      {{ end }}
-    </div>
+      {{ partial "post-brief.html" (dict "Page" . "IsHome" $IsHome) }}
     {{ end }}
   </div>
 </div>
@@ -31,35 +17,25 @@
 <div class="bg-blue-stone px-4 py-16 md:p-16 text-white">
   <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
     <h2 class="text-4xl leading-none md:text-6xl">Cronograma</h2>
-    <a href=""
-      class="inline-block bg-white text-blue-stone px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver
-      todo</a>
+    <a href="" class="inline-block bg-white text-blue-stone px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver todo</a>
   </div>
 </div>
 <!-- ¿Qué es estado abierto? -->
 <div class="bg-orange-peel px-4 py-16 md:p-16 text-white">
   <h2 class="text-4xl leading-none md:text-6xl font-bold">¿Qué es Estado Abierto?</h2>
   <div class="w-full mx-auto mt-16 md:w-11/12">
-    <p class="max-w-lg text-lg">
-      Una cultura de lo público más dialogante con mayor equilibrio entre el poder y la ciudadanía, basada en la transparencia, el acceso a la información, la participación ciudadana la rendición de cuentas y la innovación y la tecnología.
-    </p>
+    <p class="max-w-lg text-lg">Una cultura de lo público más dialogante con mayor equilibrio entre el poder y la ciudadanía, basada en la transparencia, el acceso a la información, la participación ciudadana la rendición de cuentas y la innovación y la tecnología.</p>
   </div>
 </div>
 <!-- ¿Qué es AGA? -->
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
   <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
     <h2 class="text-mine-shaft text-4xl leading-none md:text-6xl">¿Qué es AGA?</h2>
-    <a href=""
-      class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver
-      todo</a>
+    <a href="" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver todo</a>
   </div>
   <div class="w-full mt-16 mx-auto md:w-11/12 text-lg">
-    <p>
-      La Alianza para el Gobierno Abierto (AGA/OGP por sus siglas en inglés) es una iniciativa multilateral que busca mejorar el desempeño gubernamental, fomentar la participación efectiva y mejorar la capacidad de respuesta de los gobiernos hacia sus ciudadanos mediante la implementación de estrategias en materia de transparencia, acceso a la información, participación ciudadana, innovación y uso de nuevas tecnologías que logren generar cambios concretos y visibles.
-    </p>
-    <p class="mt-6">
-      Colombia hace parte de AGA desde el 2012 cuando presentó el primer Plan de Acción Nacional de Gobierno Abierto, desde entonces diferentes organizaciones sociales se han articulado a través del Comité de Estado Abierto con el propósito de participar en el proceso de implementación y seguimiento a esta iniciativa.
-    </p>
+    <p>La Alianza para el Gobierno Abierto (AGA/OGP por sus siglas en inglés) es una iniciativa multilateral que busca mejorar el desempeño gubernamental, fomentar la participación efectiva y mejorar la capacidad de respuesta de los gobiernos hacia sus ciudadanos mediante la implementación de estrategias en materia de transparencia, acceso a la información, participación ciudadana, innovación y uso de nuevas tecnologías que logren generar cambios concretos y visibles.</p>
+    <p class="mt-6">Colombia hace parte de AGA desde el 2012 cuando presentó el primer Plan de Acción Nacional de Gobierno Abierto, desde entonces diferentes organizaciones sociales se han articulado a través del Comité de Estado Abierto con el propósito de participar en el proceso de implementación y seguimiento a esta iniciativa.</p>
   </div>
 </div>
 {{ end }}

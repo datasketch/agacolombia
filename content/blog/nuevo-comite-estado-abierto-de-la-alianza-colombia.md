@@ -7,7 +7,7 @@ cover: true
 highlight: ""
 ---
 
-![Image](/images/AGAnuevocomite.jpg)
+<!--![Image](/images/AGAnuevocomite.jpg)-->
 
 El pasado miércoles 6 de junio se conocieron los nombres de los representantes de la sociedad civil y del Gobierno que integrarán durante los próximos 2 años el Comité de Estado Abierto de la Alianza para Gobierno Abierto en Colombia.
 

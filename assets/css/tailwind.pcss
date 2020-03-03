@@ -18,5 +18,21 @@
   src: url(/fonts/HelveticaNeueBold.ttf);
 }
 
+.single-post-content > *:not(:first-child) {
+  @apply mt-6;
+}
+
+.single-post-content a {
+  @apply underline font-bold;
+}
+
+.single-post-content ul {
+  @apply list-disc pl-4
+}
+
+.single-post-content li:not(:first-child) {
+  @apply mt-2;
+}
+
 @tailwind components;
 @tailwind utilities;

@@ -7,7 +7,7 @@ cover: true
 highlight: ""
 ---
 
-![image](/images/tercer_plan_accion.png)
+<!--![image](/images/tercer_plan_accion.png)-->
 
 ## COLOMBIA ARTICULA ESFUERZOS HACIA LA CONSOLIDACIÓN DE UN GOBIERNO ABIERTO 
 

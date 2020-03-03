@@ -1,0 +1,19 @@
+{{ with .Page }}
+<div class="mt-10 first:mt-0 text-mine-shaft">
+  <h3 class="font-bold text-2xl leading-tight hover:text-gray-800">
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </h3>
+  <p class="italic">{{ .Params.author }}</p>
+  <p class="italic">
+    {{ index .Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Day }}, {{ .Date.Year }}
+  </p>
+  {{ if .Description }}
+    <div class="mt-4 text-lg">{{ .Description }}</div>
+  {{ else }}
+    <div class="mt-4 text-lg">{{ truncate 180 .Content }}</div>
+  {{ end }}
+  {{ if not $.IsHome}}
+    <a href="{{ .Permalink }}" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none text-sm mt-6 md:text-base">Leer más</a>
+  {{ end }}
+</div>
+{{ end }}
