@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
   <div class="w-full md:w-2/3">
-    <h2 class="text-4xl leading-none md:text-6xl font-bold">¿Qué es la Alianza para el Gobierno Abierto?</h2>
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">¿Qué es la Alianza para el Gobierno Abierto?</h2>
     <div class="mt-16 text-lg">
       <p>
         La Alianza para Gobierno Abierto (AGA), es una iniciativa multilateral voluntaria en la que participan más de 70
@@ -14,10 +14,14 @@
     </div>
   </div>
 </div>
-<!--Foto-->
+<!---->
+<div class="relative w-full h-0" style="padding-bottom: 33.33%;">
+  <img src='{{ "images/about_page.webp" | absURL }}' class="absolute top-0 left-0 w-full h-full object-cover object-center">
+</div>
+<!---->
 <div class="bg-orange-peel px-4 py-16 md:p-16 text-white">
   <div class="w-full md:w-2/3 ml-auto">
-    <h2 class="text-4xl leading-none md:text-6xl font-bold">¿Cómo inicia la participación de Colombia en AGA?</h2>
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">¿Cómo inicia la participación de Colombia en AGA?</h2>
     <div class="mt-16 text-lg">
       <p>
         Desde la consolidación de la AGA, en septiembre de 2011, Colombia manifestó el interés de participar en esta
@@ -36,7 +40,7 @@
 <!---->
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
   <div class="w-full md:w-2/3">
-    <h2 class="text-4xl leading-none md:text-6xl font-bold">¿Qué es el comité de Estado Abierto?</h2>
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">¿Qué es el comité de Estado Abierto?</h2>
     <div class="mt-16 text-lg">
       <p>
         El Comité de Estado Abierto de Colombia es el foro multiactor del país, actualmente está conformado por: la Secretaría de Transparencia de la Presidencia de la República, el Ministerio de Tecnologías de la Información y las Comunicaciones, el Ministerio de Ambiente y Desarrollo Sostenible, el Ministerio de Hacienda, el Departamento Administrativo de la Función Pública, la Alcaldía de Cali, la Corporación Somos Más, la Fundación Corona y Datasketch. Se orienta a partir de las siguientes funciones y responsabilidades.
@@ -44,18 +48,101 @@
     </div>
   </div>
 </div>
-<!-- Funciones -->
+<!---->
+<div class="flex flex-col text-white md:flex-row">
+  <div class="w-full bg-surfie-green px-4 py-16 md:w-1/2 md:p-16">
+    <h3 class="font-bold text-3xl leading-tight lg:text-5xl">Funciones</h3>
+    <ul class="mt-16 pl-4 list-disc text-lg">
+      <li>
+        Definir e implementar la metodología de elaboración de los Planes de Acción de Gobierno Abierto.
+      </li>
+      <li class="mt-6">
+        Diseñar estrategias para divulgar y socializar información relativa a los principios de la Alianza para Gobierno Abierto y los Planes de Acción.
+      </li>
+      <li class="mt-6">
+        Consolidar y redactar los Planes de Acción
+      </li>
+      <li class="mt-6">
+        Realizar seguimiento a los compromisos establecidos en el Plan de Acción.
+      </li>
+      <li class="mt-6">
+        Dar lineamientos para promover la participación activa de la sociedad civil, otras ramas del poder público, academia, órganos independientes, etc. en la formulación y seguimiento a los Planes de Acción.
+      </li>
+      <li class="mt-6">
+        Implementar las Mesas de Trabajo que se requieran.
+      </li>
+      <li class="mt-6">
+        Reportar periódicamente a la comunidad los avances en el Plan de Acción.
+      </li>
+      <li class="mt-6">
+        Participar activamente en cada una de las reuniones programadas.
+      </li>
+    </ul>
+  </div>
+  <div class="w-full bg-rage-orange px-4 py-16 md:w-1/2 md:p-16">
+    <h3 class="font-bold text-3xl leading-tight lg:text-5xl">Responsabilidades</h3>
+    <ul class="mt-16 pl-4 list-disc text-lg">
+      <li>
+        Cumplir con las funciones asignadas dentro del Comité.
+      </li>
+      <li class="mt-6">
+        Participar activamente en todas las sesiones programadas, presenciales o virtuales.
+      </li>
+      <li class="mt-6">
+        Participar en la autoevaluación que se llevará a cabo anualmente y en la construcción de los documentos oficiales
+      </li>
+      <li class="mt-6">
+        Permanencia de 2 años en el Comité.
+      </li>
+      <li class="mt-6">
+        Otras que puedan surgir
+      </li>
+    </ul>
+  </div>
+</div>
+<!---->
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
   <div class="w-full">
-    <h2 class="text-4xl leading-none md:text-6xl font-bold">Nuestros miembros</h2>
-    <div class="mt-16">
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">Nuestros miembros</h2>
+    <div class="mt-16 flex flex-col">
+      <div class="flex items-center justify-center flex-wrap md:-mx-6">
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='{{ "images/org/logo_gc.webp" | absURL }}' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='{{ "images/org/logo_mt.webp" | absURL }}' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='{{ "images/org/logo_ma.webp" | absURL }}' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='{{ "images/org/logo_mh.webp" | absURL }}' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='{{ "images/org/logo_fp.webp" | absURL }}' alt="">
+        </div>
+      </div>
+      <div class="flex items-center justify-center flex-wrap mt-0 md:mt-8 md:-mx-6">
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='{{ "images/org/logo_ac.webp" | absURL }}' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='{{ "images/org/logo_sm.webp" | absURL }}' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='{{ "images/org/logo_fc.webp" | absURL }}' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='{{ "images/org/logo_ds.webp" | absURL }}' alt="">
+        </div>
+      </div>
     </div>
   </div>
 </div>
 <!---->
 <div class="bg-orange-peel px-4 py-16 md:p-16 text-white">
   <div class="w-full md:w-2/3">
-    <h2 class="text-4xl leading-none md:text-6xl font-bold">¿Qué impacto ha tenido la participación de Colombia en la alianza para gobierno abierto?</h2>
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">¿Qué impacto ha tenido la participación de Colombia en la alianza para gobierno abierto?</h2>
     <div class="mt-16 text-lg">
       <p>Participar en la Alianza para Gobierno Abierto facilita el acercamiento entre el Gobierno Nacional y la Sociedad Civil, poniendo énfasis en garantizar un real respeto de los derechos fundamentales y niveles cada vez más altos de calidad de vida.</p>
       <p class="mt-6">En Colombia, tal como lo ha señalado la Comisión Nacional Ciudadana para la Lucha Contra la Corrupción, el país ha logrado avances positivos en materia de fortalecimiento de plataformas electrónicas de divulgación de información como el Portal del Estado Colombiano, un mayor desarrollo de Gobierno en Línea, la aprobación de la Ley 1712 sobre Transparencia y Acceso a la Información Pública y de la Política Integral de Lucha contra la Corrupción (CONPES 167), avances en el programa Colombia Compra Eficiente, la creación de la plataforma Mapa Regalías y el inicio del proceso de implementación de la Iniciativa de Transparencia en las Industrias Extractivas (EITI por sus siglas en inglés), la ratificación de la Política Pública Departamental de Gobierno Abierto de la Gobernación de Nariño.</p>

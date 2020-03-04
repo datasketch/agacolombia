@@ -3,7 +3,7 @@
 <!-- Blog -->
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
   <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
-    <h2 class="text-4xl leading-none md:text-6xl">Lo último</h2>
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl">Lo último</h2>
     <a href='{{.Site.BaseURL}}blog' class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver todo</a>
   </div>
   <div class="w-full mx-auto mt-16 md:w-11/12">
@@ -16,7 +16,7 @@
 <!-- Cronograma -->
 <div class="bg-blue-stone px-4 py-16 md:p-16 text-white">
   <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
-    <h2 class="text-4xl leading-none md:text-6xl">Cronograma</h2>
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl">Cronograma</h2>
     <a href="{{.Site.BaseURL}}cronograma" class="inline-block bg-white text-blue-stone px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver todo</a>
   </div>
   {{ $events := (where .Site.RegularPages "Section" "cronograma") }}
@@ -35,7 +35,7 @@
 </div>
 <!-- ¿Qué es estado abierto? -->
 <div class="bg-orange-peel px-4 py-16 md:p-16 text-white">
-  <h2 class="text-4xl leading-none md:text-6xl font-bold">¿Qué es Estado Abierto?</h2>
+  <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">¿Qué es Estado Abierto?</h2>
   <div class="w-full mx-auto mt-16 md:w-11/12">
     <p class="max-w-lg text-lg">Una cultura de lo público más dialogante con mayor equilibrio entre el poder y la ciudadanía, basada en la transparencia, el acceso a la información, la participación ciudadana la rendición de cuentas y la innovación y la tecnología.</p>
   </div>
@@ -43,7 +43,7 @@
 <!-- ¿Qué es AGA? -->
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
   <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
-    <h2 class="text-mine-shaft text-4xl leading-none md:text-6xl">¿Qué es AGA?</h2>
+    <h2 class="text-mine-shaft text-4xl leading-none md:text-5xl lg:text-6xl">¿Qué es AGA?</h2>
     <a href="{{.Site.BaseURL}}acerca-de" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver todo</a>
   </div>
   <div class="w-full mt-16 mx-auto md:w-11/12 text-lg">
