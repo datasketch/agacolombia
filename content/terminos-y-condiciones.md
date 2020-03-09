@@ -2,7 +2,7 @@
 title: "Términos Y Condiciones"
 date: 2020-03-04T10:46:40-05:00
 draft: false
-type: terms
+type: singular
 ---
 
 El Cómite de Estado Abierto de la Alianza en Colombiaha avanzado en la concertación de una hoja de ruta y de las directrices para el diseño del IV Plan de Acción Nacional de Gobierno Abierto de Colombia para el período Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum aliquam debitis officiis natus reprehenderit maiores, doloribus tempora optio explicabo, porro dolorum adipisci veritatis ducimus totam?

@@ -27,11 +27,21 @@
 }
 
 .single-post-content ul {
-  @apply list-disc pl-4
+  @apply list-disc pl-8
 }
 
 .single-post-content li:not(:first-child) {
   @apply mt-2;
+}
+
+.single-post-content h2 {
+  @apply font-bold text-xl;
+}
+
+@screen md {
+  .single-post-content h2 {
+    @apply text-3xl;
+  }
 }
 
 @tailwind components;

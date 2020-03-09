@@ -1,14 +1,9 @@
 ---
-title: "Mision y Objetivos"
+title: "Misión y Objetivos"
 date: "2018-12-08T18:03:57-05:00"
 draft: false
-hideTitle: true
-menu: "nav"
-weight: 3
+type: singular
 ---
-
-
-![image](/images/bannermisionobjetivos.png)
 
 La Alianza para Gobierno Abierto le apuesta a cinco grandes desafíos:
 

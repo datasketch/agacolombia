@@ -2,13 +2,10 @@
 title: "Territorio"
 date: "2018-12-08T19:40:32-05:00"
 draft: false
-menu: "nav"
-weight: 6
+type: singular
 ---
 
 ## AGA en Antioquia
-
-![image](/images/AGA_Antioquia.png)
 
 El encuentro subnacional se realizó en Medellín, Antioquia, el 04 de mayo de 2017, donde representantes de diferentes entidades y organizaciones locales priorizaron los desafíos del departamento en Gobierno Abierto. Posteriormente se realizaron encuentros virtuales con el equipo encargado de consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
@@ -22,15 +19,11 @@ El compromiso consolidado y que será validado por el Comité de la Alianza Gobi
 
 ## AGA en Bogotá
 
-![image](/images/AGA_Bogota.png)
-
 En el encuentro subnacional realizado en Bogotá, participaron representantes de diferentes entidades y organizaciones locales quienes priorizaron los desafíos en Gobierno Abierto para consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
 El compromiso consolidado y que será validado por el Comité de la Alianza Gobierno Abierto Colombia es "Promover y fortalecer los procesos de rendición de cuentas en las 20 localidades del Distrito Capital a través de una herramienta de seguimiento de los compromisos entre la administración local y los ciudadanos para mejorar los niveles de confianza y la eficiencia administrativa de las instituciones públicas locales"
 
 ## AGA en Boyacá
-
-![image](/images/AGA_Boyaca.png)
 
 El encuentro subnacional se realizó en Tunja, Boyacá, el 30 de marzo de 2017, donde representantes de diferentes entidades y organizaciones locales priorizaron los desafíos del departamento en Gobierno Abierto. Posteriormente se realizaron encuentros virtuales con el equipo encargado de consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
@@ -38,15 +31,11 @@ El compromiso consolidado y que será validado por el Comité de la Alianza Gobi
 
 ## AGA en Quindío
 
-![image](/images/AGA_quindio.png)
-
 El encuentro subnacional se realizó en Armenia, Quindío, el 20 de abril de 2017, donde representantes de diferentes entidades y organizaciones locales priorizaron los desafíos del departamento en Gobierno Abierto. Posteriormente se realizaron encuentros virtuales con el equipo encargado de consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
 El compromiso consolidado y que será validado por el Comité de la Alianza Gobierno Abierto Colombia es "Articulación de una red de actores para el seguimiento, difusión y retroalimentación de los procesos de contratación de la Gobernación".
 
 ## AGA en Nariño
-
-![image](/images/AGA_narino.png)
 
 El encuentro subnacional se realizó en Pasto, Nariño, el 04 de mayo de 2017, donde representantes de diferentes entidades y organizaciones locales priorizaron los desafíos del departamento en Gobierno Abierto. Posteriormente se realizaron encuentros virtuales con el equipo encargado de consolidar el compromiso a incluir en el III Plan de Acción Nacional período 20017-2019.
 
