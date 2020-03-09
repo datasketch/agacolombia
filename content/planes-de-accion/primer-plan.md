@@ -8,11 +8,11 @@ Para la construcción del I Plan de Acción de la Alianza para Gobierno Abierto 
 
 Los objetivos del I Plan fueron:
 
-1. fortalecer las iniciativas y programas con las que contaba el país;
+1. Fortalecer las iniciativas y programas con las que contaba el país;
 
-2. impulsar la implementación de las propuestas formuladas; y
+2. Impulsar la implementación de las propuestas formuladas; y
 
-3. generar nuevas iniciativas dentro de los principios del OGP.
+3. Generar nuevas iniciativas dentro de los principios del OGP.
 
 El Plan de Acción estuvo compuesto por diecisiete (17) compromisos, de los cuales catorce (14) de ellos, estuvieron de acuerdo con las metas y cronogramas establecidos, y en tres (3) de los compromisos (Gobierno en Línea, Datos Abiertos y Entidades más Eficientes),  algunas metas fueron superadas de acuerdo con los cronogramas establecidos.
 

@@ -30,12 +30,20 @@
   @apply list-disc pl-8
 }
 
+.single-post-content ol {
+  @apply list-decimal pl-8;
+}
+
 .single-post-content li:not(:first-child) {
   @apply mt-2;
 }
 
 .single-post-content h2 {
   @apply font-bold text-xl;
+}
+
+.single-post-content figcaption {
+  @apply text-sm text-center mt-1;
 }
 
 @screen md {
