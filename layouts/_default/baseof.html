@@ -19,7 +19,10 @@
     <div class="w-full lg:w-3/4">
       {{ block "main" . }}{{ end }}
     </div>
-    <div class="hidden lg:block lg:w-1/4">
+    <div class="hidden lg:block lg:w-1/4 relative">
+      <div class="absolute inset-0 overflow-y-scroll">
+        <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/AGA_Colombia?ref_src=twsrc%5Etfw">Tweets by AGA_Colombia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
     </div>
   </main>
   {{ partial "footer.html" . }}

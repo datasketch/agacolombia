@@ -1,7 +1,7 @@
 function setup() {
   return {
     open: false,
-    threshold: 150,
+    threshold: 80,
     onTop: true,
     toggleOpen() {
       this.open = !this.open;
