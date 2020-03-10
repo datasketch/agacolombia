@@ -2,6 +2,7 @@
 title: "I Plan De Accion"
 date: "2020-02-13T13:25:54-05:00"
 draft: false
+color: "#0f827f"
 ---
 
 Para la construcción del I Plan de Acción de la Alianza para Gobierno Abierto se creó un grupo de trabajo interinstitucional, coordinado desde la Alta Consejería Presidencial para el Buen Gobierno y la Eficiencia Administrativa, con la participación de la Secretaría de Transparencia de la Presidencia de la República, el Programa de Gobierno en Línea del Ministerio de las Tecnologías de la Información y las Comunicaciones y el Departamento Nacional de Planeación con el fin de proponer las acciones que se desarrollarán en el marco de gobierno abierto.

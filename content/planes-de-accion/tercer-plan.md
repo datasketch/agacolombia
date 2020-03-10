@@ -2,6 +2,7 @@
 title: "III Plan De Accion"
 date: "2020-02-13T13:31:08-05:00"
 draft: false
+color: "#ff9a00"
 ---
 
 El III Plan de Acción de la Alianza Gobierno Abierto Colombia extendió los compromisos a los poderes Ejecutivo, Legislativo y Judicial, los órganos del Estado, gobiernos subnacionales y la sociedad civil, como un aporte a la consolidación de la paz, la democracia y la equidad.
