@@ -24,7 +24,7 @@ paginatePath = 'pagina'
     url = "/cronograma/"
     name = "Cronograma"
     weight = 4
-  [[menu.main]]
-    url = "/datos-abiertos/"
-    name = "Datos abiertos"
-    weight = 5
+  # [[menu.main]]
+  #   url = "/datos-abiertos/"
+  #   name = "Datos abiertos"
+  #   weight = 5
