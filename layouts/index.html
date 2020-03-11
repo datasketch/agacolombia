@@ -25,12 +25,11 @@
       {{ range first 4 $events }}
         <div class="bg-surfie-green text-white p-8">
           {{ partial "event-brief.html" . }}
-          </div>
         </div>
       {{ end }}
     </div>
   {{ else }}
-    <p class="text-white">Aún no se han creado eventos</p>
+    <p class="mt-16 text-white">Aún no se han creado eventos</p>
   {{ end }}
 </div>
 <!-- ¿Qué es estado abierto? -->
