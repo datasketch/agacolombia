@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link rel="stylesheet" href="/css/tailwind.css">
+  
+  <title>Acerca de · AGA Colombia</title>
+  
+</head>
+
+<body class="font-helvetica font-medium" x-data="setup()" @scroll.window="handleScroll(event)">
+  <header :class="{ 'lg:items-center': !onTop }" class="bg-blue-stone text-white flex flex-col sticky top-0 z-10 lg:flex-row lg:justify-between lg:items-start">
+  <div class="flex items-center justify-between">
+    <a href="/">
+      <img x-show="onTop" class="h-20 md:h-32" src='/images/logos/logo_xl.svg' alt="Visitar página principal">
+      <img x-show="!onTop" class="h-auto" src='/images/logos/logo_sm.svg' alt="Visitar página principal">
+    </a>
+    <button class="text-gray-200 block lg:hidden pr-4 hover:text-white focus:text-white focus:outline-none" @click="toggleOpen()">
+      <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path x-show="open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+        <path x-show="!open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+      </svg>
+    </button>
+  </div>
+  <div :class="{ hidden: !open }" class="flex flex-col px-2 py-4 lg:flex lg:flex-row lg:items-center">
+    
+      <a href="/acerca-de/" class="px-2 py-1 hover:text-orange-peel">Acerca de</a>
+    
+      <a href="/planes-de-accion/" class="px-2 py-1 hover:text-orange-peel">Planes de acción</a>
+    
+      <a href="/blog/" class="px-2 py-1 hover:text-orange-peel">Blog</a>
+    
+      <a href="/cronograma/" class="px-2 py-1 hover:text-orange-peel">Cronograma</a>
+    
+      <a href="/datos-abiertos/" class="px-2 py-1 hover:text-orange-peel">Datos abiertos</a>
+    
+    <div class="flex flex-row items-center px-2 py-1 mt-1 ml-0 lg:mt-0 lg:ml-4">
+      <a href="">
+        <img class="h-4" src='/images/icons/twitter.svg' alt="Twitter AGA">
+      </a>
+      <a href="" class="ml-4">
+        <img class="h-4" src='/images/icons/facebook.svg' alt="Twitter AGA">
+      </a>
+    </div>
+  </div>
+</header>
+  <main>
+    
+<div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
+  <div class="w-full md:w-2/3">
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">¿Qué es la Alianza para el Gobierno Abierto?</h2>
+    <div class="mt-16 text-lg">
+      <p>
+        La Alianza para Gobierno Abierto (AGA), es una iniciativa multilateral voluntaria en la que participan más de 70
+        países, creada el 20 de septiembre de 2011 a través de la Declaración sobre Gobierno Abierto, que busca mejorar
+        el desempeño gubernamental, fomentar la participación efectiva y mejorar la capacidad de respuesta de los
+        gobiernos hacia sus ciudadanos, mediante la implementación de estrategias en materia de transparencia, acceso a
+        la información, participación ciudadana y uso de nuevas tecnologías, que logren generar cambios concretos y
+        visibles.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="relative w-full h-0" style="padding-bottom: 33.33%;">
+  <img src='/images/about_page.webp' class="absolute top-0 left-0 w-full h-full object-cover object-center">
+</div>
+
+<div class="bg-orange-peel px-4 py-16 md:p-16 text-white">
+  <div class="w-full md:w-2/3 ml-auto">
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">¿Cómo inicia la participación de Colombia en AGA?</h2>
+    <div class="mt-16 text-lg">
+      <p>
+        Desde la consolidación de la AGA, en septiembre de 2011, Colombia manifestó el interés de participar en esta
+        iniciativa. En 2012 nuestro país presentó el primer Plan de Acción Nacional de Gobierno Abierto relacionado con
+        los siguientes desafíos: mejora de los servicios públicos, aumento de la integridad pública y mejor gestión en
+        la inversión pública. A partir del 2012, diferentes organizaciones sociales se han articulado a través del <a href="https://www.opengovpartnership.org/es/members/colombia/">Comité de Estado Abierto</a> (AGA Colombia) con el propósito de participar en el proceso de implementación y seguimiento a esta iniciativa.
+      </p>
+      <p class="mt-6">
+        Participar en la Alianza para el Gobierno Abierto facilita el acercamiento entre el Gobierno Nacional y la
+        sociedad civil, haciendo énfasis en garantizar un real respeto de los derechos fundamentales y niveles cada vez
+        más altos de calidad de vida.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
+  <div class="w-full md:w-2/3">
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">¿Qué es el comité de Estado Abierto?</h2>
+    <div class="mt-16 text-lg">
+      <p>
+        El Comité de Estado Abierto de Colombia es el foro multiactor del país, actualmente está conformado por: la Secretaría de Transparencia de la Presidencia de la República, el Ministerio de Tecnologías de la Información y las Comunicaciones, el Ministerio de Ambiente y Desarrollo Sostenible, el Ministerio de Hacienda, el Departamento Administrativo de la Función Pública, la Alcaldía de Cali, la Corporación Somos Más, la Fundación Corona y Datasketch. Se orienta a partir de las siguientes funciones y responsabilidades.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="flex flex-col text-white md:flex-row">
+  <div class="w-full bg-surfie-green px-4 py-16 md:w-1/2 md:p-16">
+    <h3 class="font-bold text-3xl leading-tight lg:text-5xl">Funciones</h3>
+    <ul class="mt-16 pl-4 list-disc text-lg">
+      <li>
+        Definir e implementar la metodología de elaboración de los Planes de Acción de Gobierno Abierto.
+      </li>
+      <li class="mt-6">
+        Diseñar estrategias para divulgar y socializar información relativa a los principios de la Alianza para Gobierno Abierto y los Planes de Acción.
+      </li>
+      <li class="mt-6">
+        Consolidar y redactar los Planes de Acción
+      </li>
+      <li class="mt-6">
+        Realizar seguimiento a los compromisos establecidos en el Plan de Acción.
+      </li>
+      <li class="mt-6">
+        Dar lineamientos para promover la participación activa de la sociedad civil, otras ramas del poder público, academia, órganos independientes, etc. en la formulación y seguimiento a los Planes de Acción.
+      </li>
+      <li class="mt-6">
+        Implementar las Mesas de Trabajo que se requieran.
+      </li>
+      <li class="mt-6">
+        Reportar periódicamente a la comunidad los avances en el Plan de Acción.
+      </li>
+      <li class="mt-6">
+        Participar activamente en cada una de las reuniones programadas.
+      </li>
+    </ul>
+  </div>
+  <div class="w-full bg-rage-orange px-4 py-16 md:w-1/2 md:p-16">
+    <h3 class="font-bold text-3xl leading-tight lg:text-5xl">Responsabilidades</h3>
+    <ul class="mt-16 pl-4 list-disc text-lg">
+      <li>
+        Cumplir con las funciones asignadas dentro del Comité.
+      </li>
+      <li class="mt-6">
+        Participar activamente en todas las sesiones programadas, presenciales o virtuales.
+      </li>
+      <li class="mt-6">
+        Participar en la autoevaluación que se llevará a cabo anualmente y en la construcción de los documentos oficiales
+      </li>
+      <li class="mt-6">
+        Permanencia de 2 años en el Comité.
+      </li>
+      <li class="mt-6">
+        Otras que puedan surgir
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
+  <div class="w-full">
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">Nuestros miembros</h2>
+    <div class="mt-16 flex flex-col">
+      <div class="flex items-center justify-center flex-wrap md:-mx-6">
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='/images/org/logo_gc.webp' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='/images/org/logo_mt.webp' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='/images/org/logo_ma.webp' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='/images/org/logo_mh.webp' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='/images/org/logo_fp.webp' alt="">
+        </div>
+      </div>
+      <div class="flex items-center justify-center flex-wrap mt-0 md:mt-8 md:-mx-6">
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='/images/org/logo_ac.webp' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='/images/org/logo_sm.webp' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='/images/org/logo_fc.webp' alt="">
+        </div>
+        <div class="px-6 w-full mb-10 md:mb-0 md:w-1/5">
+          <img src='/images/org/logo_ds.webp' alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="bg-orange-peel px-4 py-16 md:p-16 text-white">
+  <div class="w-full md:w-2/3">
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl font-bold">¿Qué impacto ha tenido la participación de Colombia en la alianza para gobierno abierto?</h2>
+    <div class="mt-16 text-lg">
+      <p>Participar en la Alianza para Gobierno Abierto facilita el acercamiento entre el Gobierno Nacional y la Sociedad Civil, poniendo énfasis en garantizar un real respeto de los derechos fundamentales y niveles cada vez más altos de calidad de vida.</p>
+      <p class="mt-6">En Colombia, tal como lo ha señalado la Comisión Nacional Ciudadana para la Lucha Contra la Corrupción, el país ha logrado avances positivos en materia de fortalecimiento de plataformas electrónicas de divulgación de información como el Portal del Estado Colombiano, un mayor desarrollo de Gobierno en Línea, la aprobación de la Ley 1712 sobre Transparencia y Acceso a la Información Pública y de la Política Integral de Lucha contra la Corrupción (CONPES 167), avances en el programa Colombia Compra Eficiente, la creación de la plataforma Mapa Regalías y el inicio del proceso de implementación de la Iniciativa de Transparencia en las Industrias Extractivas (EITI por sus siglas en inglés), la ratificación de la Política Pública Departamental de Gobierno Abierto de la Gobernación de Nariño.</p>
+    </div>
+  </div>
+</div>
+
+  </main>
+  <footer class="text-white">
+  <div class="bg-mine-shaft text-center p-4">
+    <p>Cómite de la <strong>Alianza para el Gobierno Abierto</strong> en Colombia</p>
+  </div>
+  <div class="bg-white p-4 flex items-center flex-wrap justify-center md:justify-between">
+    <div class="w-56 mb-4 lg:mb-0">
+      <img src='/images/org/logo_gc.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='/images/org/logo_ac.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='/images/org/logo_sm.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='/images/org/logo_fc.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='/images/org/logo_ds.webp'>
+    </div>
+  </div>
+  <div class="bg-mine-shaft">
+    <div class="w-full mx-auto lg:w-5/6 p-4">
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between md:-mx-4">
+        <div class="w-full px-4 flex-shrink-0 md:w-1/3 lg:w-1/4">
+          <img class="w-48 mx-auto" src='/images/logos/logo_negro.webp' alt="Logo Alianza para el Gobierno Abierto">
+        </div>
+        <div class="w-full px-4 mt-10 md:mt-0 md:w-1/3 lg:w-1/4">
+          <p class="font-bold text-2xl">Comparte</p>
+          <div class="flex items-center mt-4">
+            <a href="" target="_blank" class="mr-4">
+              <img src='/images/icons/twitter.svg' alt="Twitter AGA">
+            </a>
+            <a href="" target="_blank" class="mr-4">
+              <img src='/images/icons/email.svg' alt="Correo electrónico AGA">
+            </a>
+            <a href="" target="_blank">
+              <img src='/images/icons/facebook.svg' alt="Facebook AGA">
+            </a>
+          </div>
+          <p class="font-bold text-2xl mt-8">Escríbenos</p>
+          <p>transparencia@aga.com</p>
+        </div>
+        <div class="w-full px-4 mt-10 md:w-1/3 md:mt-0 lg:w-1/4">
+          <img src='/images/icons/cc.svg' class="h-8">
+          <p class="text-sm mt-2 md:text-xs">Todo el material en esta página, cuando no se indique lo contrario, es
+            CC-BY-SA. Si reúsas o adaptas recursos de esta página por favor vincúlalos y referéncialos.</p>
+          <a href="/terminos-y-condiciones" class="font-bold underline mt-4 inline-block">Términos y condiciones</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+  <script src='/js/site.js'></script>
+</body>
+
+</html>

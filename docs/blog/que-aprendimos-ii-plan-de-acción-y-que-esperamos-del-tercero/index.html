@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link rel="stylesheet" href="/css/tailwind.css">
+  
+  <title>¿Qué Aprendimos Con El II Plan De Acción Y Qué Esperamos Del Tercero? · AGA Colombia</title>
+  
+</head>
+
+<body class="font-helvetica font-medium" x-data="setup()" @scroll.window="handleScroll(event)">
+  <header :class="{ 'lg:items-center': !onTop }" class="bg-blue-stone text-white flex flex-col sticky top-0 z-10 lg:flex-row lg:justify-between lg:items-start">
+  <div class="flex items-center justify-between">
+    <a href="/">
+      <img x-show="onTop" class="h-20 md:h-32" src='/images/logos/logo_xl.svg' alt="Visitar página principal">
+      <img x-show="!onTop" class="h-auto" src='/images/logos/logo_sm.svg' alt="Visitar página principal">
+    </a>
+    <button class="text-gray-200 block lg:hidden pr-4 hover:text-white focus:text-white focus:outline-none" @click="toggleOpen()">
+      <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path x-show="open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+        <path x-show="!open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+      </svg>
+    </button>
+  </div>
+  <div :class="{ hidden: !open }" class="flex flex-col px-2 py-4 lg:flex lg:flex-row lg:items-center">
+    
+      <a href="/acerca-de/" class="px-2 py-1 hover:text-orange-peel">Acerca de</a>
+    
+      <a href="/planes-de-accion/" class="px-2 py-1 hover:text-orange-peel">Planes de acción</a>
+    
+      <a href="/blog/" class="px-2 py-1 hover:text-orange-peel">Blog</a>
+    
+      <a href="/cronograma/" class="px-2 py-1 hover:text-orange-peel">Cronograma</a>
+    
+      <a href="/datos-abiertos/" class="px-2 py-1 hover:text-orange-peel">Datos abiertos</a>
+    
+    <div class="flex flex-row items-center px-2 py-1 mt-1 ml-0 lg:mt-0 lg:ml-4">
+      <a href="">
+        <img class="h-4" src='/images/icons/twitter.svg' alt="Twitter AGA">
+      </a>
+      <a href="" class="ml-4">
+        <img class="h-4" src='/images/icons/facebook.svg' alt="Twitter AGA">
+      </a>
+    </div>
+  </div>
+</header>
+  <main class="flex">
+    <div class="w-full lg:w-3/4">
+      
+<div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
+  <div class="w-full md:w-3/4">
+    <h2 class="text-2xl leading-none md:text-4xl font-bold">¿Qué Aprendimos Con El II Plan De Acción Y Qué Esperamos Del Tercero?</h2>
+    <div class="mt-6 text-lg font-bold">
+      <p class="italic">Alianza Gobierno Abierto</p>
+      <p class="italic text-alto">
+        Abril 17, 2017
+      </p>
+    </div>
+    <div class="mt-16 leading-relaxed text-lg single-post-content"><p>El pasado 23 de marzo se llevó a cabo el encuentro de lecciones aprendidas del II Plan de Acción de la Alianza para Gobierno Abierto en Colombia, representantes de gobierno y sociedad civil se reunieron para conocer los avances del proceso, dialogar sobre las lecciones aprendidas, y abrir la discusión acerca de los desafíos que se deberían abordar en el III Plan de Acción Nacional.</p>
+<p>Los xx asistentes al encuentro y los casi 100 participantes virtuales, conocieron de primera mano los avances del II Plan de Acción y dialogaron sobre las lecciones aprendidas con su implementación, entre las que se destacan: Relatoría Dani</p>
+<p>Los participantes además conocieron cómo será el proceso de construcción del III Plan de Acción de la Alianza, y profundizaron en los Fines que orientarán su construcción, a partir de las experiencias socializadas por Esteban Peláez, coordinador de proyectos de la Fundación Corona; Patricia Álvarez García, Vicepresidencia de Gobierno Institucional – Banca de Empresas y Gobierno de Bancolombia; Sergio Guarín de la Fundación Ideas para la Paz; Diego Maldonado, veedor distrital delegado para la participación y programas especiales; y Karen Hussman, coordinadora del Proyecto Anticorrupción y Transparencia de la Unión Europea para Colombia.</p>
+<p>Como insumo para la elaboración del III Plan se identificaron desafíos en materia de Transparencia en el uso de los recursos públicos, justicia, enfoque territorial, acceso a la información, medio ambiente, visibilidad de información pública, participación, servicios y género, para conocer los detalles de los desafíos propuestas haga clic aquí.</p>
+<p>Este encuentro ratificó el compromiso de la Alianza de fomentar la participación efectiva mediante la implementación de espacios de conexión presenciales y virtuales que fortalezcan la relación academia, gobierno, sector privado y sociedad civil en temas de gobierno abierto.</p>
+</div>
+    <a href="/blog" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none text-sm mt-10 md:text-base">Volver</a>
+  </div>
+</div>
+
+    </div>
+    <div class="hidden lg:block lg:w-1/4 relative">
+      <div class="absolute inset-0 overflow-y-scroll">
+        <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/AGA_Colombia?ref_src=twsrc%5Etfw">Tweets by AGA_Colombia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+    </div>
+  </main>
+  <footer class="text-white">
+  <div class="bg-mine-shaft text-center p-4">
+    <p>Cómite de la <strong>Alianza para el Gobierno Abierto</strong> en Colombia</p>
+  </div>
+  <div class="bg-white p-4 flex items-center flex-wrap justify-center md:justify-between">
+    <div class="w-56 mb-4 lg:mb-0">
+      <img src='/images/org/logo_gc.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='/images/org/logo_ac.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='/images/org/logo_sm.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='/images/org/logo_fc.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='/images/org/logo_ds.webp'>
+    </div>
+  </div>
+  <div class="bg-mine-shaft">
+    <div class="w-full mx-auto lg:w-5/6 p-4">
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between md:-mx-4">
+        <div class="w-full px-4 flex-shrink-0 md:w-1/3 lg:w-1/4">
+          <img class="w-48 mx-auto" src='/images/logos/logo_negro.webp' alt="Logo Alianza para el Gobierno Abierto">
+        </div>
+        <div class="w-full px-4 mt-10 md:mt-0 md:w-1/3 lg:w-1/4">
+          <p class="font-bold text-2xl">Comparte</p>
+          <div class="flex items-center mt-4">
+            <a href="" target="_blank" class="mr-4">
+              <img src='/images/icons/twitter.svg' alt="Twitter AGA">
+            </a>
+            <a href="" target="_blank" class="mr-4">
+              <img src='/images/icons/email.svg' alt="Correo electrónico AGA">
+            </a>
+            <a href="" target="_blank">
+              <img src='/images/icons/facebook.svg' alt="Facebook AGA">
+            </a>
+          </div>
+          <p class="font-bold text-2xl mt-8">Escríbenos</p>
+          <p>transparencia@aga.com</p>
+        </div>
+        <div class="w-full px-4 mt-10 md:w-1/3 md:mt-0 lg:w-1/4">
+          <img src='/images/icons/cc.svg' class="h-8">
+          <p class="text-sm mt-2 md:text-xs">Todo el material en esta página, cuando no se indique lo contrario, es
+            CC-BY-SA. Si reúsas o adaptas recursos de esta página por favor vincúlalos y referéncialos.</p>
+          <a href="/terminos-y-condiciones" class="font-bold underline mt-4 inline-block">Términos y condiciones</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+  <script src='/js/site.js'></script>
+</body>
+
+</html>
