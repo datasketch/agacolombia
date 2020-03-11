@@ -1,11 +1,11 @@
 ---
 title: "¿Qué Aprendimos Con El II Plan De Acción Y Qué Esperamos Del Tercero?"
-date: "2018-12-08T19:27:53-05:00"
+date: "2017-04-17T19:27:53-05:00"
+author: Alianza Gobierno Abierto
 hideTitle: false
 cover: true
 highlight: ""
 ---
-Publicado por **Alianza Gobierno Abierto** el 17 de Abril de 2017 a las 11:06am
 
 El pasado 23 de marzo se llevó a cabo el encuentro de lecciones aprendidas del II Plan de Acción de la Alianza para Gobierno Abierto en Colombia, representantes de gobierno y sociedad civil se reunieron para conocer los avances del proceso, dialogar sobre las lecciones aprendidas, y abrir la discusión acerca de los desafíos que se deberían abordar en el III Plan de Acción Nacional.
 

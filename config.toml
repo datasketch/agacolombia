@@ -1,52 +1,30 @@
 baseUrl = "/"
 title = "AGA Colombia"
-theme = "hugo-titi"
-disqusShortname = "datasketch"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir="docs"
+paginate = 5
+paginatePath = 'pagina'
 
 [blackfriday]
   hrefTargetBlank = true
-
-
-#Parametros de configuración
-[params]
-  [params.fonts]
-    body = "Arimoblog"
-    headings = "Didact Gothic"
-  [params.footer]
-    text = "Comité de la **Alianza para el Gobierno Abierto** en Colombia"
-    bg = "white"
-    color = "black"
-  [params.nav]
-    bg = "#303030"
-    color = "white"
-    logo = "images/Logo_AGA.png"
-    logowidth = "80px"
-    fixed = false
-  [[params.social]]
-    icon = "twitter"
-    url = "https://twitter.com/aga_colombia"
-  [[params.social]]
-    icon = "facebook"
-    url = "https://www.facebook.com/gobiernoabiertocolombia/?fref=ts"
-    
-#Barra de navegación
 [menu]
-  [[menu.nav]]
-    name = "Inicio"
-    url = "/"
+  [[menu.main]]
+    url = "/acerca-de/"
+    name = "Acerca de"
     weight = 1
-  # [[menu.burger]]
-  #   name = "Inicio"
-  #   url = "/"
-  #   weight = 1
-  # [[menu.burger]]
-  #   name = "Acerca de"
-  #   url = "/que-es"
-  # [[menu.burger]]
-  #   name = "Planes de Acción"
-  #   url = "/planes-de-accion"
-  # [[menu.burger]]
-  #   name = "Blog"
-  #   url = "/blog"
+  [[menu.main]]
+    url = "/planes-de-accion/"
+    name = "Planes de acción"
+    weight = 2
+  [[menu.main]]
+    url = "/blog/"
+    name = "Blog"
+    weight = 3
+  [[menu.main]]
+    url = "/cronograma/"
+    name = "Cronograma"
+    weight = 4
+  [[menu.main]]
+    url = "/datos-abiertos/"
+    name = "Datos abiertos"
+    weight = 5

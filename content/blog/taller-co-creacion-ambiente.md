@@ -2,9 +2,8 @@
 title: "Estamos co-creando el IV Plan de Estado Abierto: Taller de ambiente"
 date: "2020-02-13T12:28:47-05:00"
 draft: false
+author: Alianza Gobierno Abierto
 ---
-Publicado por **Alianza Gobierno Abierto** el 13 de Febrero de 2020
-
 
 En el marco del Proceso de Cocreación del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para el Estado Abierto. Una acción fundamental en éste proceso es el desarrollo de talleres de cocreación para la identificación de problemáticas y acciones, entre entidades públicas relacionadas con las temáticas priorizadas, y sociedad civil experta en éstas temáticas.
 

@@ -1,6 +1,6 @@
 ---
 title: Metodología
-author: Datasketch
+type: singular
 ---
 
 This is how we built this page.

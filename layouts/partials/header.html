@@ -1,0 +1,27 @@
+<header :class="{ 'lg:items-center': !onTop }" class="bg-blue-stone text-white flex flex-col sticky top-0 z-10 lg:flex-row lg:justify-between lg:items-start">
+  <div class="flex items-center justify-between">
+    <a href="{{.Site.BaseURL}}">
+      <img x-show="onTop" class="h-20 md:h-32" src='{{ "images/logos/logo_xl.svg" | absURL }}' alt="Visitar página principal">
+      <img x-show="!onTop" class="h-auto" src='{{ "images/logos/logo_sm.svg" | absURL }}' alt="Visitar página principal">
+    </a>
+    <button class="text-gray-200 block lg:hidden pr-4 hover:text-white focus:text-white focus:outline-none" @click="toggleOpen()">
+      <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path x-show="open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+        <path x-show="!open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+      </svg>
+    </button>
+  </div>
+  <div :class="{ hidden: !open }" class="flex flex-col px-2 py-4 lg:flex lg:flex-row lg:items-center">
+    {{ range .Site.Menus.main }}
+      <a href="{{.URL}}" class="px-2 py-1 hover:text-orange-peel">{{ .Name }}</a>
+    {{ end }}
+    <div class="flex flex-row items-center px-2 py-1 mt-1 ml-0 lg:mt-0 lg:ml-4">
+      <a href="">
+        <img class="h-4" src='{{ "images/icons/twitter.svg" | absURL }}' alt="Twitter AGA">
+      </a>
+      <a href="" class="ml-4">
+        <img class="h-4" src='{{ "images/icons/facebook.svg" | absURL }}' alt="Twitter AGA">
+      </a>
+    </div>
+  </div>
+</header>

@@ -1,13 +1,13 @@
 ---
 title: "Nuevo Comité De Estado Abierto De La Alianza en Colombia"
-date: "2018-12-08T18:39:50-05:00"
+date: "2018-06-21T18:39:50-05:00"
+author: Alianza Gobierno Abierto
 hideTitle: false
 cover: true
 highlight: ""
 ---
-Publicado por **Alianza Gobierno Abierto** el 21 de Junio de 2018 a las 11:07am
 
-![Image](/images/AGAnuevocomite.jpg)
+<!--![Image](/images/AGAnuevocomite.jpg)-->
 
 El pasado miércoles 6 de junio se conocieron los nombres de los representantes de la sociedad civil y del Gobierno que integrarán durante los próximos 2 años el Comité de Estado Abierto de la Alianza para Gobierno Abierto en Colombia.
 

@@ -2,8 +2,8 @@
 title: "Estamos co-creando el IV Plan de Estado Abierto: Conversación virtual con expertos en ambiente"
 date: "2020-02-13T12:51:27-05:00"
 draft: false
+author: Alianza Gobierno Abierto
 ---
-Publicado por **Alianza Gobierno Abierto** el 13 de Febrero de 2020
 
 En el marco del Proceso de Co-Creación del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para un Estado Abierto. Una de las primeras acciones a llevar a cabo es el desarrollo de Conversaciones Virtuales con Expertos de cada una de las temáticas seleccionadas, buscando identificar problemáticas desde un nivel mucho más técnico.
 

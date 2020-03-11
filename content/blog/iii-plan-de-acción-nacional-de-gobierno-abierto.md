@@ -1,19 +1,17 @@
 ---
 title: "El documento del III Plan de Acción Nacional de Gobierno Abierto está listo"
-date: "2018-12-08T18:58:02-05:00"
+date: "2017-10-02T18:58:02-05:00"
+author: Alianza Gobierno Abierto
 hideTitle: true
 cover: true
 highlight: ""
 ---
-Publicado por Alianza Gobierno Abierto el 2 de Octubre de 2017 a las 11:33am
 
-![image](/images/tercer_plan_accion.png)
+<!--![image](/images/tercer_plan_accion.png)-->
 
 ## COLOMBIA ARTICULA ESFUERZOS HACIA LA CONSOLIDACIÓN DE UN GOBIERNO ABIERTO 
 
-{{< boxes justify="center">}}
-{{< box mobile="12" >}}_El III Plan de Acción de la Alianza Gobierno Abierto Colombia extiende los compromisos a los poderes Ejecutivo, Legislativo y Judicial, los órganos del Estado, gobiernos subnacionales y la sociedad civil, como un aporte a la consolidación de la paz, la democracia y la equidad._{{< /box >}}
-{{< /boxes >}}
+_El III Plan de Acción de la Alianza Gobierno Abierto Colombia extiende los compromisos a los poderes Ejecutivo, Legislativo y Judicial, los órganos del Estado, gobiernos subnacionales y la sociedad civil, como un aporte a la consolidación de la paz, la democracia y la equidad._
 
 “Colombia, hacia un Estado Abierto” es el documento que recoge los compromisos del Gobierno Nacional y de seis gobiernos subnacionales en el marco de la Alianza Gobierno Abierto (AGA), y que confirman su voluntad política en la creación e implementación de acciones concretas que le permitan al país avanzar hacia un estado más abierto y, por lo tanto, garantizar la participación efectiva de los ciudadanos.
 
@@ -66,13 +64,3 @@ Es una iniciativa multilateral voluntaria en la que participan más de 60 paíse
 <p><a href="https://vimeo.com/235058375">Lanzamiento III Plan de Acci&oacute;n Nacional de Gobierno Abierto</a> from <a href="https://vimeo.com/somosmas">Somos Mas</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Fotos
-
-{{< slider pagination="" navigation="" height="90"  loop="true">}}
-  {{< slide title="" image="/images/1.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/2.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/3.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/4.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/5.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/6.jpg" >}}{{< /slide >}}
-  {{< slide title="" image="/images/7.jpg" >}}{{< /slide >}}
-{{< /slider >}}

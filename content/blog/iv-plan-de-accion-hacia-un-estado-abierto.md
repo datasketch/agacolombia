@@ -1,10 +1,9 @@
 ---
 title: "IV Plan de Acción. Hacia un Estado Abierto"
-date: "2019-12-13T16:55:03-05:00"
+date: "2019-10-25T16:55:03-05:00"
 draft: false
+author: Alianza Gobierno Abierto
 ---
-
-Publicado por **Alianza Gobierno Abierto** el 25 de Octubre de 2019 a las 11:09am
 
 Colombia arranca con el proceso de cocreación de su IV Plan de Acción Nacional de Gobierno Abierto. En este sentido, el Comité de Gobierno Abierto y el Gobierno colombiano, encabezado por la Secretaría de Transparencia, han mapeado una serie de temáticas relevantes en materia de Estado Abierto para el país.
 
