@@ -5,10 +5,20 @@
     <link>/blog/</link>
     <description>Recent content in Blog on AGA Colombia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Mar 2020 08:35:59 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 08:35:59 -0500</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Términos y condiciones de la Convocatoria de compromisos territoriales para el IV Plan de Acción Nacional de Estado Abierto</title>
+      <link>/blog/terminos-y-condiciones-compromisos-territoriales/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/terminos-y-condiciones-compromisos-territoriales/</guid>
+      <description>Descripción General El IV Plan de Acción de Estado Abierto será la hoja de ruta de las acciones que adelantan las entidades públicas de la mano de la sociedad civil durante los dos siguientes años, para garantizar la interacción ciudadana en la construcción de lo público.
+Por esta razón, y teniendo en cuenta que las mayores y mejores interacciones ciudadanas suceden en los entornos locales, se realiza esta convocatoria que tiene como fin llamar a las alcaldías y gobernaciones a postular compromisos que atendiendo las necesidades o requerimientos de los ciudadanos contribuya con la transparencia, la participación y la rendición de cuentas, usando tecnología e innovación, en los sectores priorizados por los ciudadanos de salud, ambiente, lucha contra la corrupción y finanzas públicas.</description>
+    </item>
     
     <item>
       <title>Estamos co-creando el IV Plan de Estado Abierto: Conversación virtual con expertos en ambiente</title>
