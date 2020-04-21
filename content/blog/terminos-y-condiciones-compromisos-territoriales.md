@@ -17,7 +17,7 @@ Como insumo las entidades interesadas podrán utilizar los resultados de las con
 
 ## Cronograma de postulación
 
-- Lanzamiento convocatoria: 13 de abril de 2020
+- Lanzamiento convocatoria: 24 de abril de 2020
 
 - Cierre de formulario: 31 de mayo de 2020
 
