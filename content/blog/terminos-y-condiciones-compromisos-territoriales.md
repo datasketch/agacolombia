@@ -19,9 +19,9 @@ Como insumo las entidades interesadas podrán utilizar los resultados de las con
 
 - Lanzamiento convocatoria: 24 de abril de 2020
 
-- Cierre de formulario: 31 de mayo de 2020
+- Cierre de formulario: 12 de junio de 2020
 
-- Publicación de resultados: 15 de junio de 2020
+- Publicación de resultados: 30 de junio de 2020
 
 Las inscripciones se deben hacer únicamente a través del formulario dispuesto para tal fin en el siguiente enlace: pendiente incluir enlace
 
