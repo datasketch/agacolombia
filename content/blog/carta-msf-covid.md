@@ -1,6 +1,6 @@
 ---
 title: "COVID 19 | Carta de Organizaciones de Sociedad Civil América Latina a Gobiernos y OGP"
-date: "2020-05-06T17:00:58-05:00"
+date: "2020-05-06"
 draft: false
 author: Miembros de sociedad civil Alianza Gobierno Abierto
 ---
