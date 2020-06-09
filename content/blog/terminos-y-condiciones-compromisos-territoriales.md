@@ -21,9 +21,9 @@ La postulación se puede hacer a través de https://urnadecristal.typeform.com/t
 
 - Lanzamiento convocatoria: 24 de abril de 2020
 
-- Cierre de formulario: 12 de junio de 2020
+- Cierre de formulario: 22 de junio de 2020
 
-- Publicación de resultados: 30 de junio de 2020
+- Publicación de resultados: 1 de ju1io de 2020
 
 Las inscripciones se deben hacer únicamente a través del formulario dispuesto para tal fin en el siguiente enlace: pendiente incluir enlace
 
