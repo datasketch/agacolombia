@@ -14,8 +14,6 @@ Estos compromisos, máximo siete, serán incluidos en el Cuarto Plan de Acción 
 
 Como insumo las entidades interesadas podrán utilizar los resultados de las consultas ciudadanas nacionales, así mismo, conocerán la metodología de creación del plan y los criterios de calidad que otorgan puntaje adicional. (relacionar enlace de metodología y criterios). Así mismo, deberán asociar estos compromisos a la planeación de sus hojas de ruta locales, garantizando así, la participación ciudadana en el ciclo de la gestión, la viabilidad técnica y financiera del compromiso y expresando su voluntad de constituirse en Gobiernos Abiertos.
 
-La postulación se puede hacer a través de https://urnadecristal.typeform.com/to/pYDW72
-
 
 ## Cronograma de postulación
 
@@ -25,6 +23,6 @@ La postulación se puede hacer a través de https://urnadecristal.typeform.com/t
 
 - Publicación de resultados: 1 de ju1io de 2020
 
-Las inscripciones se deben hacer únicamente a través del formulario dispuesto para tal fin en el siguiente enlace: pendiente incluir enlace
+Las inscripciones se deben hacer únicamente a través del formulario dispuesto para tal fin en el siguiente enlace: https://urnadecristal.typeform.com/to/pYDW72
 
 [Ver documento completo](/documents/terminos-convocatoria-territorial.pdf).
