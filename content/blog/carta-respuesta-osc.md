@@ -34,4 +34,4 @@ Ministerio de Hacienda y Crédito Público
 
 Secretaría de Transparencia de la Presidencia de la República
 
-Carta completa [**Aquí**](documents/carta-respuesta.pdf)
+Carta completa [**Aquí**](/documents/carta-respuesta.pdf)
