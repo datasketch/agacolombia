@@ -5,42 +5,12 @@ date: "2020-06-19"
 draft: false
 author: Datasketch
 ---
+En el marco de la apertura de la resolución "Por la cual se definen los estándares y directrices para publicar la información señalada en la Ley 1712 del 2014 y se definen los requisitos en materia de acceso a la información pública, accesibilidad web, seguridad digital y datos abiertos" publicado por el Ministerio de Tecnologías de la Información, desde Datasketch y Fundación Karisma quisimos emitir nuestros comentarios con el fin de mejorar el texto definitivo.
 
-Bogotá D.C., Junio 19 de 2020
+Nuestro objetivo es que la normativa que expida el Ministerio TIC responda a las necesidades y expectativas de quienes hemos trabajado en asuntos de información pública, seguridad digital, gobierno abierto, entre otros, frente a los temas que se abordan en este proyecto de resolución.
 
-Ministerio de Tecnologías de la Información y las Comunicaciones
+Queremos llamar la atención, entre otras cosas, que la resolución al tratar temas de transparencia en el acceso a la información a la ciudadanía debe responder a una estrategia transversal relacionada directamente con asuntos de gobierno abierto y en particular vincularse a los procesos de creación de acciones en torno a la Alianza de Estado Abierto de Colombia.
 
-Karen Abudinen
-Ministra
+Además, invitamos a que se enfoquen esfuerzos sobre la información digital archivada, la accesibilidad web por medio de sistemas de lectura automatizados, publicación y divulgación de información disponible para su correcto acceso, seguridad digital y datos abiertos relevantes y con enfoques diferenciales para la ciudadanía.
 
-Ref: Comentarios al “proyecto de resolución de transparencia en el acceso a la
-información
-
-Cordial saludo,
-
-Las organizaciones abajo firmantes remitimos de manera atenta a su despacho, comentarios
-sobre el texto del proyecto de resolución en transparencia en el acceso a la información para
-que sean considerados y permitan enriquecer y ajustar el texto definitivo del acto administrativo
-que se presentó como borrador.
-
-Como organizaciones suscriben Datasketch, una plataforma digital de periodismo de
-investigación y de datos Datasketch dedicada a la democratización y apropiación ciudadana de
-la información pública, así como miembro del comité de la Alianza por el Gobierno Abierto; y la
-Fundación Karisma, una organización de la sociedad civil colombiana que, guiada con un
-enfoque de justicia social, trabaja en la intersección entre tecnología y derechos humanos.
-
-Cualquier comentario o duda con relación a las observaciones que siguen a continuación,
-podrá ser remitida a los correos jpmarindiaz@datasketch.co y carobotero@karisma.org.co
-Atentamente,
-
-
-Juan Pablo Marín
-Director
-Datasketch
-
-
-Carolina Botero Cabrera
-Directora
-Fundación Karisma
-
-Para ver los comentarios, da click [**aquí**](/documents/comentarios-resolucion-ds.pdf)
+Para ver todos los comentarios realizados por las dos organizaciones, da click [**aquí**](/documents/comentarios-resolucion-ds.pdf)
