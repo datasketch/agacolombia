@@ -1,6 +1,6 @@
 ---
-title: "La Alianza por el Gobierno Abierto global lanzó su reporte anual"
-date: "2017-08-24T19:27:53-05:00"
+title: "La Alianza por el Gobierno Abierto lanzó su reporte anual 2020"
+date: "2020-08-24T19:27:53-05:00"
 author: Alianza Gobierno Abierto
 hideTitle: false
 cover: true
