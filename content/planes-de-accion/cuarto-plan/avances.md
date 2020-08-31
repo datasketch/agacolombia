@@ -1,8 +1,7 @@
 ---
-title: "Avances del IV Plan de Acción"
-date: "2020-08-28T17:00:58-05:00"
+title: "Ambiente"
+date: "2020-08-28T14:01:08-05:00"
 draft: false
-author: Alianza Gobierno Abierto
 ---
 Colombia se encuentra en la fase final de la creación de su IV Plan de acción, por eso nos parece importante recapitular y revisar los pasos dados hasta llegar a este momento y explicar qué pasos faltan.
 
