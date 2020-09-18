@@ -1,6 +1,6 @@
 ---
 title: Consulta ciudadana para construir el IV Plan de Acción
-date: "2020-08-18"
+date: "2020-09-18"
 draft: false
 author: Alianza Gobierno Abierto
 ---
