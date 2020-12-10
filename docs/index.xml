@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content in Inicio on AGA Colombia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 04 Nov 2020 16:55:03 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 16:55:03 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +17,15 @@
       
       <guid>/recursos/</guid>
       <description> Renovación Comité Estado Abierto Recomendación del consejo OCDE sobre Gobierno Abierto Informe de Avance (2011-2013) Mecanismo de Revisión Independiente (2015-2017) Ingreso a OGP de Colombia III Plan de Acción Nacional de Gobierno Abierto II Plan de Acción Nacional de Gobierno Abierto I Plan de Acción Nacional de Gobierno Abierto Folleto de la Red de la OCDE sobre Gobierno Abierto e Innovador en ALC Declaración de Congreso Abierto Declaración de compromisos por un Estado Abierto Informe de la OCDE sobre Gobernanza Pública - Colombia Carta Iberoamericana de Gobierno Abierto  </description>
+    </item>
+    
+    <item>
+      <title>Lanzamiento IV Plan de Acción</title>
+      <link>/blog/lanzamiento-iv-plan/</link>
+      <pubDate>Thu, 10 Dec 2020 16:55:03 -0500</pubDate>
+      
+      <guid>/blog/lanzamiento-iv-plan/</guid>
+      <description>El día de hoy estamos realizando el lanzamiento del IV Plan de Acción Nacional de Estado Abierto 2020-2022. Colombia: Un Estado Abierto para la consolidación de la equidad y el fortalecimiento de la confianza ciudadana, el resultado de varios meses de esfuerzo por consolidar unos compromisos con el Gobierno Abierto basado en la transparencia, rendición de cuentas, innovación y tecnología como vía para el fortalecimiento de la democracia, recuperación de la confianza y fortalecimiento de la relación Estado-ciudadano.</description>
     </item>
     
     <item>
@@ -310,15 +319,6 @@ Este documento pretende ser una hoja de ruta que traza el cómo, el cuándo y la
       <guid>/planes-de-accion/cuarto-plan/mapeo-actores/</guid>
       <description>Es el listado de entidades del Estado colombiano y organizaciones de sociedad civil que han tenido iniciativas relacionadas con Gobierno Abierto en Colombia, relacionados con Planes nacionales pasados, y otras iniciativas que no necesariamente están relacionadas directamente con la Alianza por el Gobierno Abierto.
 Esta identificación se realizó antes de la puesta en marcha de las diferentes campañas de comunicaciones de información en el marco de la co-creación del IV Plan de Acción.</description>
-    </item>
-    
-    <item>
-      <title>Lanzamiento IV Plan de Acción</title>
-      <link>/blog/lanzamiento-iv-plan/</link>
-      <pubDate>Tue, 10 Dec 2019 16:55:03 -0500</pubDate>
-      
-      <guid>/blog/lanzamiento-iv-plan/</guid>
-      <description>El día de hoy estamos realizando el lanzamiento del IV Plan de Acción Nacional de Estado Abierto 2020-2022. Colombia: Un Estado Abierto para la consolidación de la equidad y el fortalecimiento de la confianza ciudadana, el resultado de varios meses de esfuerzo por consolidar unos compromisos con el Gobierno Abierto basado en la transparencia, rendición de cuentas, innovación y tecnología como vía para el fortalecimiento de la democracia, recuperación de la confianza y fortalecimiento de la relación Estado-ciudadano.</description>
     </item>
     
     <item>
