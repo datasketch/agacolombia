@@ -2,40 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Planes de acción on AGA Colombia</title>
-    <link>/planes-de-accion/</link>
+    <link>https://agacolombia.org/planes-de-accion/</link>
     <description>Recent content in Planes de acción on AGA Colombia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 13 Feb 2020 13:31:08 -0500</lastBuildDate>
-    
-	<atom:link href="/planes-de-accion/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 28 Aug 2020 14:01:08 -0500</lastBuildDate><atom:link href="https://agacolombia.org/planes-de-accion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>III Plan De Accion</title>
-      <link>/planes-de-accion/tercer-plan/</link>
+      <link>https://agacolombia.org/planes-de-accion/tercer-plan/</link>
       <pubDate>Thu, 13 Feb 2020 13:31:08 -0500</pubDate>
       
-      <guid>/planes-de-accion/tercer-plan/</guid>
+      <guid>https://agacolombia.org/planes-de-accion/tercer-plan/</guid>
       <description>El III Plan de Acción de la Alianza Gobierno Abierto Colombia extendió los compromisos a los poderes Ejecutivo, Legislativo y Judicial, los órganos del Estado, gobiernos subnacionales y la sociedad civil, como un aporte a la consolidación de la paz, la democracia y la equidad.
 El III Plan de Acción de la AGA, para el período 2017-2019, se construyó a partir de los aportes y recomendaciones del Comité de Estado Abierto de Colombia y del Mecanismo de Revisión Independiente de la Alianza que identificaron dos necesidades fundamentales: la primera, ampliar la participación ciudadana hacia nuevos actores provenientes de la academia y del sector privado; y la segunda, la de consolidar la iniciativa de Estado Abierto a nivel subnacional.</description>
     </item>
     
     <item>
       <title>II Plan De Accion</title>
-      <link>/planes-de-accion/segundo-plan/</link>
+      <link>https://agacolombia.org/planes-de-accion/segundo-plan/</link>
       <pubDate>Thu, 13 Feb 2020 13:30:00 -0500</pubDate>
       
-      <guid>/planes-de-accion/segundo-plan/</guid>
+      <guid>https://agacolombia.org/planes-de-accion/segundo-plan/</guid>
       <description>Documento del II Plan de Acción
 Mecanismo de Revisión Independiente</description>
     </item>
     
     <item>
       <title>I Plan De Accion</title>
-      <link>/planes-de-accion/primer-plan/</link>
+      <link>https://agacolombia.org/planes-de-accion/primer-plan/</link>
       <pubDate>Thu, 13 Feb 2020 13:25:54 -0500</pubDate>
       
-      <guid>/planes-de-accion/primer-plan/</guid>
+      <guid>https://agacolombia.org/planes-de-accion/primer-plan/</guid>
       <description>Para la construcción del I Plan de Acción de la Alianza para Gobierno Abierto se creó un grupo de trabajo interinstitucional, coordinado desde la Alta Consejería Presidencial para el Buen Gobierno y la Eficiencia Administrativa, con la participación de la Secretaría de Transparencia de la Presidencia de la República, el Programa de Gobierno en Línea del Ministerio de las Tecnologías de la Información y las Comunicaciones y el Departamento Nacional de Planeación con el fin de proponer las acciones que se desarrollarán en el marco de gobierno abierto.</description>
     </item>
     

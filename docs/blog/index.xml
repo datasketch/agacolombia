@@ -2,39 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on AGA Colombia</title>
-    <link>/blog/</link>
+    <link>https://agacolombia.org/blog/</link>
     <description>Recent content in Blog on AGA Colombia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 May 2020 08:35:59 -0500</lastBuildDate>
-    
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 06 May 2020 08:35:59 -0500</lastBuildDate><atom:link href="https://agacolombia.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lanzamiento IV Plan de Acción</title>
-      <link>/blog/lanzamiento-iv-plan/</link>
+      <link>https://agacolombia.org/blog/lanzamiento-iv-plan/</link>
       <pubDate>Thu, 10 Dec 2020 16:55:03 -0500</pubDate>
       
-      <guid>/blog/lanzamiento-iv-plan/</guid>
+      <guid>https://agacolombia.org/blog/lanzamiento-iv-plan/</guid>
       <description>El día de hoy estamos realizando el lanzamiento del IV Plan de Acción Nacional de Estado Abierto 2020-2022. Colombia: Un Estado Abierto para la consolidación de la equidad y el fortalecimiento de la confianza ciudadana, el resultado de varios meses de esfuerzo por consolidar unos compromisos con el Gobierno Abierto basado en la transparencia, rendición de cuentas, innovación y tecnología como vía para el fortalecimiento de la democracia, recuperación de la confianza y fortalecimiento de la relación Estado-ciudadano.</description>
     </item>
     
     <item>
       <title> Las entidades responden a los comentarios ciudadanos</title>
-      <link>/blog/las-entidades-responden/</link>
+      <link>https://agacolombia.org/blog/las-entidades-responden/</link>
       <pubDate>Wed, 04 Nov 2020 16:55:03 -0500</pubDate>
       
-      <guid>/blog/las-entidades-responden/</guid>
+      <guid>https://agacolombia.org/blog/las-entidades-responden/</guid>
       <description>Como parte del proceso de cocreación del IV Plan de Acción se solicitó a los ciudadanos, mediante consulta ciudadana que leyesen los compromisos y dieran sus aportes, comentarios y apreciaciones a fin de mejorar el contenido de los mismos así como las actividades previstas en su implementación, para ello se dio acceso a las versiones preliminares de los compromisos que las instituciones habían trabajado con apoyo de Comité.
 Estas versiones se pueden encontrar en:</description>
     </item>
     
     <item>
       <title>Consulta ciudadana para construir el IV Plan de Acción</title>
-      <link>/blog/consulta-ciudadana-iv-plan/</link>
+      <link>https://agacolombia.org/blog/consulta-ciudadana-iv-plan/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/consulta-ciudadana-iv-plan/</guid>
+      <guid>https://agacolombia.org/blog/consulta-ciudadana-iv-plan/</guid>
       <description>¡El Estado Abierto lo construimos entre todos!
 Entramos en la última fase del proceso de cocreación de su IV Plan de Acción Nacional de Estado Abierto. Lanzamos hoy, hasta el 30 de septiembre, la consulta ciudadana para recibir insumos que nos permitan mejorar los compromisos que serán incluidos en el Plan.
 Se trata de un formulario en el que se podrá encontrar un resumen de cada uno de los compromisos, un enlace en PDF con el compromiso completo y un espacio para proporcionar recomendaciones de mejora a cada uno de ellos.</description>
@@ -42,38 +38,38 @@ Se trata de un formulario en el que se podrá encontrar un resumen de cada uno d
     
     <item>
       <title>Avances del IV Plan de Acción</title>
-      <link>/blog/avance-iv-plan/</link>
+      <link>https://agacolombia.org/blog/avance-iv-plan/</link>
       <pubDate>Fri, 28 Aug 2020 17:00:58 -0500</pubDate>
       
-      <guid>/blog/avance-iv-plan/</guid>
+      <guid>https://agacolombia.org/blog/avance-iv-plan/</guid>
       <description>Colombia se encuentra en la fase final de la creación de su IV Plan de acción, por eso nos parece importante recapitular y revisar los pasos dados hasta llegar a este momento y explicar qué pasos faltan.
 Los planes de Acción de Colombia apuestan por el avance hacia las metas y objetivos del gobierno abierto desde el gobierno, pero también desde las demás ramas que conforman el poder público y con el apoyo de la ciudadanía.</description>
     </item>
     
     <item>
       <title>La Alianza por el Gobierno Abierto lanzó su reporte anual</title>
-      <link>/blog/reporte-anual-ogp/</link>
+      <link>https://agacolombia.org/blog/reporte-anual-ogp/</link>
       <pubDate>Mon, 24 Aug 2020 19:27:53 -0500</pubDate>
       
-      <guid>/blog/reporte-anual-ogp/</guid>
+      <guid>https://agacolombia.org/blog/reporte-anual-ogp/</guid>
       <description>La Alianza por el Gobierno Abierto (OGP) acaba de lanzar su reporte anual sobre el proceso de gobierno abierto llevado a cabo por los distintos países miembros. Los planes de acción son el núcleo de la participación de estos países, y son el producto de un proceso de cocreación en el que el gobierno y la sociedad civil definen compromisos ambiciosos para fomentar la transparencia, la rendición de cuentas y la participación.</description>
     </item>
     
     <item>
       <title>Comentarios al “proyecto de resolución de transparencia en el acceso a la información</title>
-      <link>/blog/comentarios-resolucion-transparencia-acceso-informacion/</link>
+      <link>https://agacolombia.org/blog/comentarios-resolucion-transparencia-acceso-informacion/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/comentarios-resolucion-transparencia-acceso-informacion/</guid>
+      <guid>https://agacolombia.org/blog/comentarios-resolucion-transparencia-acceso-informacion/</guid>
       <description>En el marco de la apertura de la resolución &amp;ldquo;Por la cual se definen los estándares y directrices para publicar la información señalada en la Ley 1712 del 2014 y se definen los requisitos en materia de acceso a la información pública, accesibilidad web, seguridad digital y datos abiertos&amp;rdquo; publicado por el Ministerio de Tecnologías de la Información, desde Datasketch y Fundación Karisma quisimos emitir nuestros comentarios con el fin de mejorar el texto definitivo.</description>
     </item>
     
     <item>
       <title>COVID 19 | Carta de respuesta a Organizaciones de Sociedad Civil de América Latina a Gobierno y OGP</title>
-      <link>/blog/carta-respuesta-osc/</link>
+      <link>https://agacolombia.org/blog/carta-respuesta-osc/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/carta-respuesta-osc/</guid>
+      <guid>https://agacolombia.org/blog/carta-respuesta-osc/</guid>
       <description>Estimados miembros de sociedad civil,
 Reciban un cordial saludo.
 Con motivo de la &amp;ldquo;Carta de Organizaciones de Sociedad Civil América Latina a Gobiernos y OGP&amp;rdquo;, que en días pasados fue publicada y compartida por ustedes; las entidades líderes de la Política Pública de Transparencia, Acceso a la Información, Integridad y Lucha contra la Corrupción (más el Ministerio de Hacienda), hemos elaborado el documento ejecutivo adjunto a modo de respuesta.
@@ -82,114 +78,114 @@ En dicho documento, pueden encontrar una relación de las principales acciones q
     
     <item>
       <title>COVID 19 | Carta de Organizaciones de Sociedad Civil América Latina a Gobiernos y OGP</title>
-      <link>/blog/carta-msf-covid/</link>
+      <link>https://agacolombia.org/blog/carta-msf-covid/</link>
       <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/carta-msf-covid/</guid>
+      <guid>https://agacolombia.org/blog/carta-msf-covid/</guid>
       <description>Estimados miembros de los MSF y OGP,
 En la última semana avanzamos en conversaciones y reuniones distintas organizaciones de sociedad civil latinoamericanas, con el objetivo de intercambiar experiencias, saberes y posturas sobre las nuevas necesidades y desafíos que se nos presentan ante la crisis del COVID-19, cómo el contexto afecta nuestras agendas y, sobre todo, cómo actuamos y utilizamos los MSF para generar cambios o alinear ideas. Creemos que en momentos donde los gobiernos tienen que tomar decisiones rápidas y eficaces, la agenda de gobierno abierto debe tener un rol importante.</description>
     </item>
     
     <item>
       <title>Términos y condiciones de la Convocatoria de compromisos territoriales para el IV Plan de Acción Nacional de Estado Abierto</title>
-      <link>/blog/terminos-y-condiciones-compromisos-territoriales/</link>
+      <link>https://agacolombia.org/blog/terminos-y-condiciones-compromisos-territoriales/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/terminos-y-condiciones-compromisos-territoriales/</guid>
+      <guid>https://agacolombia.org/blog/terminos-y-condiciones-compromisos-territoriales/</guid>
       <description>Descripción General El IV Plan de Acción de Estado Abierto será la hoja de ruta de las acciones que adelantan las entidades públicas de la mano de la sociedad civil durante los dos siguientes años, para garantizar la interacción ciudadana en la construcción de lo público.
 Por esta razón, y teniendo en cuenta que las mayores y mejores interacciones ciudadanas suceden en los entornos locales, se realiza esta convocatoria que tiene como fin llamar a las alcaldías y gobernaciones a postular compromisos que atendiendo las necesidades o requerimientos de los ciudadanos contribuya con la transparencia, la participación y la rendición de cuentas, usando tecnología e innovación, en los sectores priorizados por los ciudadanos de salud, ambiente, lucha contra la corrupción y finanzas públicas.</description>
     </item>
     
     <item>
       <title>Estamos co-creando el IV Plan de Estado Abierto: Conversación virtual con expertos en ambiente</title>
-      <link>/blog/conversacion-virtual-expertos-ambiente/</link>
+      <link>https://agacolombia.org/blog/conversacion-virtual-expertos-ambiente/</link>
       <pubDate>Thu, 13 Feb 2020 12:51:27 -0500</pubDate>
       
-      <guid>/blog/conversacion-virtual-expertos-ambiente/</guid>
+      <guid>https://agacolombia.org/blog/conversacion-virtual-expertos-ambiente/</guid>
       <description>En el marco del Proceso de Co-Creación del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para un Estado Abierto. Una de las primeras acciones a llevar a cabo es el desarrollo de Conversaciones Virtuales con Expertos de cada una de las temáticas seleccionadas, buscando identificar problemáticas desde un nivel mucho más técnico.</description>
     </item>
     
     <item>
       <title>Estamos co-creando el IV Plan de Estado Abierto: Taller de ambiente</title>
-      <link>/blog/taller-co-creacion-ambiente/</link>
+      <link>https://agacolombia.org/blog/taller-co-creacion-ambiente/</link>
       <pubDate>Thu, 13 Feb 2020 12:28:47 -0500</pubDate>
       
-      <guid>/blog/taller-co-creacion-ambiente/</guid>
+      <guid>https://agacolombia.org/blog/taller-co-creacion-ambiente/</guid>
       <description>En el marco del Proceso de Cocreación del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para el Estado Abierto. Una acción fundamental en éste proceso es el desarrollo de talleres de cocreación para la identificación de problemáticas y acciones, entre entidades públicas relacionadas con las temáticas priorizadas, y sociedad civil experta en éstas temáticas.</description>
     </item>
     
     <item>
       <title>Estamos co-creando el IV Plan de Estado Abierto: Conversación virtual con expertos en Estado Abierto</title>
-      <link>/blog/conversacion-virtual-estado-abierto/</link>
+      <link>https://agacolombia.org/blog/conversacion-virtual-estado-abierto/</link>
       <pubDate>Thu, 30 Jan 2020 12:51:27 -0500</pubDate>
       
-      <guid>/blog/conversacion-virtual-estado-abierto/</guid>
+      <guid>https://agacolombia.org/blog/conversacion-virtual-estado-abierto/</guid>
       <description>En el marco del Proceso de Co-Creación del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para un Estado Abierto. Una de las primeras acciones a llevar a cabo es el desarrollo de Conversaciones Virtuales con Expertos de cada una de las temáticas seleccionadas, buscando identificar problemáticas desde un nivel mucho más técnico.</description>
     </item>
     
     <item>
       <title>Estamos co-creando el IV Plan de Estado Abierto: Conversación virtual con expertos en Finanzas públicas</title>
-      <link>/blog/conversacion-virtual-finanzas-publicas/</link>
+      <link>https://agacolombia.org/blog/conversacion-virtual-finanzas-publicas/</link>
       <pubDate>Thu, 30 Jan 2020 12:51:27 -0500</pubDate>
       
-      <guid>/blog/conversacion-virtual-finanzas-publicas/</guid>
+      <guid>https://agacolombia.org/blog/conversacion-virtual-finanzas-publicas/</guid>
       <description>En el marco del Proceso de Co-Creación del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para un Estado Abierto. Una de las primeras acciones a llevar a cabo es el desarrollo de Conversaciones Virtuales con Expertos de cada una de las temáticas seleccionadas, buscando identificar problemáticas desde un nivel mucho más técnico.</description>
     </item>
     
     <item>
       <title>Estamos co-creando el IV Plan de Estado Abierto: Conversación virtual con expertos en lucha contra la corrupción</title>
-      <link>/blog/conversacion-virtual-lucha-corrupcion/</link>
+      <link>https://agacolombia.org/blog/conversacion-virtual-lucha-corrupcion/</link>
       <pubDate>Thu, 30 Jan 2020 12:51:27 -0500</pubDate>
       
-      <guid>/blog/conversacion-virtual-lucha-corrupcion/</guid>
+      <guid>https://agacolombia.org/blog/conversacion-virtual-lucha-corrupcion/</guid>
       <description>En el marco del Proceso de Co-Creación del IV Plan de Estado Abierto, el Comité de Estado Abierto en Colombia ha diseñado una metodología encaminada hacia la generación de Compromisos del Gobierno Nacional para un Estado Abierto. Una de las primeras acciones a llevar a cabo es el desarrollo de Conversaciones Virtuales con Expertos de cada una de las temáticas seleccionadas, buscando identificar problemáticas desde un nivel mucho más técnico.</description>
     </item>
     
     <item>
       <title>IV Plan de Acción. Hacia un Estado Abierto</title>
-      <link>/blog/iv-plan-de-accion-hacia-un-estado-abierto/</link>
+      <link>https://agacolombia.org/blog/iv-plan-de-accion-hacia-un-estado-abierto/</link>
       <pubDate>Fri, 25 Oct 2019 16:55:03 -0500</pubDate>
       
-      <guid>/blog/iv-plan-de-accion-hacia-un-estado-abierto/</guid>
+      <guid>https://agacolombia.org/blog/iv-plan-de-accion-hacia-un-estado-abierto/</guid>
       <description>Colombia arranca con el proceso de cocreación de su IV Plan de Acción Nacional de Gobierno Abierto. En este sentido, el Comité de Gobierno Abierto y el Gobierno colombiano, encabezado por la Secretaría de Transparencia, han mapeado una serie de temáticas relevantes en materia de Estado Abierto para el país.
 Necesitamos que nos ayudes a priorizar aquellas que te parezcan más importantes: esas áreas serán sobre las que trabajemos en nuestro Plan de Acción, que incluirá compromisos que fomenten la transparencia, la participación ciudadana, la rendición de cuentas, el uso de tecnologías y la innovación.</description>
     </item>
     
     <item>
       <title>Avances hacia el IV Plan de Acción</title>
-      <link>/blog/avances-hacia-el-iv-plan-de-accion/</link>
+      <link>https://agacolombia.org/blog/avances-hacia-el-iv-plan-de-accion/</link>
       <pubDate>Mon, 12 Aug 2019 17:00:58 -0500</pubDate>
       
-      <guid>/blog/avances-hacia-el-iv-plan-de-accion/</guid>
+      <guid>https://agacolombia.org/blog/avances-hacia-el-iv-plan-de-accion/</guid>
       <description>El Comité de Estado Abierto de la Alianza en Colombia ha avanzado en la concertación de una hoja de ruta y de las directrices para el diseño del IV Plan de Acción Nacional de Gobierno Abierto de Colombia para el periodo 2019-2023. Por ello se ha aprobado un cronograma de planificación, que deberá guiar la acciones del Comité para lograr este fin, si bien se contempla que puedan realizarse ajustes a lo largo de la implementación del mismo.</description>
     </item>
     
     <item>
       <title>Nuevo Comité De Estado Abierto De La Alianza en Colombia</title>
-      <link>/blog/nuevo-comite-estado-abierto-de-la-alianza-colombia/</link>
+      <link>https://agacolombia.org/blog/nuevo-comite-estado-abierto-de-la-alianza-colombia/</link>
       <pubDate>Thu, 21 Jun 2018 18:39:50 -0500</pubDate>
       
-      <guid>/blog/nuevo-comite-estado-abierto-de-la-alianza-colombia/</guid>
+      <guid>https://agacolombia.org/blog/nuevo-comite-estado-abierto-de-la-alianza-colombia/</guid>
       <description>El pasado miércoles 6 de junio se conocieron los nombres de los representantes de la sociedad civil y del Gobierno que integrarán durante los próximos 2 años el Comité de Estado Abierto de la Alianza para Gobierno Abierto en Colombia.
 La Corporación Somos Más, Datasketch, Fundación Corona, Seamos, Departamento Administrativo de la Función Pública, MinAmbiente, MinHacienda, Ministerio de Tecnologías de la Información y las Telecomunicaciones, y la Alcaldía de Cali, serán los encargados de guiar estratégicamente el desarrollo y seguimiento de los planes de acción del Gobierno de Colombia, en el marco de los principios de Gobierno Abierto.</description>
     </item>
     
     <item>
       <title>El documento del III Plan de Acción Nacional de Gobierno Abierto está listo</title>
-      <link>/blog/iii-plan-de-acci%C3%B3n-nacional-de-gobierno-abierto/</link>
+      <link>https://agacolombia.org/blog/iii-plan-de-acci%C3%B3n-nacional-de-gobierno-abierto/</link>
       <pubDate>Mon, 02 Oct 2017 18:58:02 -0500</pubDate>
       
-      <guid>/blog/iii-plan-de-acci%C3%B3n-nacional-de-gobierno-abierto/</guid>
+      <guid>https://agacolombia.org/blog/iii-plan-de-acci%C3%B3n-nacional-de-gobierno-abierto/</guid>
       <description>COLOMBIA ARTICULA ESFUERZOS HACIA LA CONSOLIDACIÓN DE UN GOBIERNO ABIERTO El III Plan de Acción de la Alianza Gobierno Abierto Colombia extiende los compromisos a los poderes Ejecutivo, Legislativo y Judicial, los órganos del Estado, gobiernos subnacionales y la sociedad civil, como un aporte a la consolidación de la paz, la democracia y la equidad.
 “Colombia, hacia un Estado Abierto” es el documento que recoge los compromisos del Gobierno Nacional y de seis gobiernos subnacionales en el marco de la Alianza Gobierno Abierto (AGA), y que confirman su voluntad política en la creación e implementación de acciones concretas que le permitan al país avanzar hacia un estado más abierto y, por lo tanto, garantizar la participación efectiva de los ciudadanos.</description>
     </item>
     
     <item>
       <title>¿Qué Aprendimos Con El II Plan De Acción Y Qué Esperamos Del Tercero?</title>
-      <link>/blog/que-aprendimos-ii-plan-de-acci%C3%B3n-y-que-esperamos-del-tercero/</link>
+      <link>https://agacolombia.org/blog/que-aprendimos-ii-plan-de-acci%C3%B3n-y-que-esperamos-del-tercero/</link>
       <pubDate>Mon, 17 Apr 2017 19:27:53 -0500</pubDate>
       
-      <guid>/blog/que-aprendimos-ii-plan-de-acci%C3%B3n-y-que-esperamos-del-tercero/</guid>
+      <guid>https://agacolombia.org/blog/que-aprendimos-ii-plan-de-acci%C3%B3n-y-que-esperamos-del-tercero/</guid>
       <description>El pasado 23 de marzo se llevó a cabo el encuentro de lecciones aprendidas del II Plan de Acción de la Alianza para Gobierno Abierto en Colombia, representantes de gobierno y sociedad civil se reunieron para conocer los avances del proceso, dialogar sobre las lecciones aprendidas, y abrir la discusión acerca de los desafíos que se deberían abordar en el III Plan de Acción Nacional.
 Los xx asistentes al encuentro y los casi 100 participantes virtuales, conocieron de primera mano los avances del II Plan de Acción y dialogaron sobre las lecciones aprendidas con su implementación, entre las que se destacan: Relatoría Dani</description>
     </item>
