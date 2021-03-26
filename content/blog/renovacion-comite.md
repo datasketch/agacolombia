@@ -1,8 +1,11 @@
 ---
-title: "Términos de Referencia de Renovación de Estado Abierto"
-date: "2021-03-26T13:41:49-05:00"
+title: "Términos de referencia de renovación de Estado Abierto"
+date: 2021-03-26T11:53:08-05:00
 draft: false
+author: Alianza Gobierno Abierto
 ---
+
+Términos de referencia de renovación de Estado Abierto
 
 ## 1. ¿Qué es el Comité de Estado Abierto?
 
@@ -13,8 +16,8 @@ Este foro surge con la finalidad de articular y aunar esfuerzos entre entidades 
 A la fecha, el Comité de Estado Abierto de Colombia garantiza asientos para cuatro (4) entidades públicas del nivel nacional, una (1) entidad pública del nivel subnacional y cuatro (4) organizaciones de la sociedad civil. La siguiente imagen permite observar la estructura y miembros actuales del Comité:
 
 Imagen #1: Comité de Estado Abierto de Colombia 2017-2020
-{{< figure src="/images/imagen1-renovacion.png" >}}
 
+{{< figure src="/images/imagen1-renovacion.png" >}}
 
 Las entidades resaltadas con la estrella, no dejarán de ser miembros del foro por decisión del actual Comité de Estado Abierto, debido a que, por su naturaleza, competencias e historial de compromiso, son las entidades líderes de las políticas de transparencia, rendición de cuentas, integridad, participación ciudadana, tecnologías e innovación en el país.
 
@@ -66,6 +69,7 @@ Todas las entidades públicas que deseen postularse parar ser miembros del Comit
 ## 6. ¿Cuál es el proceso para la elección de los nuevos miembros del Comité de Estado Abierto y cuáles son las fechas clave?:
 
 Imagen #2: Proceso y fechas clave para la renovación del Comité de Estado Abierto
+
 {{< figure src="/images/imagen2-renovacion.png" >}}
 
 - La invitación para postularse al Comité de Estado Abierto se hará de forma escrita y directa para las entidades públicas, mientras que para las organizaciones de sociedad civil se realizará mediante convocatoria pública por redes sociales y otros canales.
@@ -93,3 +97,4 @@ El hecho de participar en el proceso de renovación del Comité de Estado Abiert
 Los actuales miembros del Comité de Estado Abierto se reservan el derecho de modificar sin previo aviso y en cualquier momento los términos y condiciones del presente proceso. No obstante, dichas modificaciones serán informadas de manera oportuna a través de una publicación en nuestras páginas web, redes sociales y/o correo electrónico.
 
 [Formato de postulación para Organizaciones de Sociedad Civil](/documents/Formatos de Postulación OSC_Comité de Estado Abierto.xlsx)
+

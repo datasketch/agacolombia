@@ -4,6 +4,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir="docs"
 paginate = 5
 paginatePath = 'pagina'
+taxonomies = []
 
 [blackfriday]
   hrefTargetBlank = true
