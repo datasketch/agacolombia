@@ -5,7 +5,22 @@
     <link>https://agacolombia.org/blog/</link>
     <description>Recent content in Blog on AGA Colombia</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 May 2020 08:35:59 -0500</lastBuildDate><atom:link href="https://agacolombia.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 May 2020 08:35:59 -0500</lastBuildDate>
+    
+	<atom:link href="https://agacolombia.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Términos de referencia de renovación de Estado Abierto</title>
+      <link>https://agacolombia.org/blog/renovacion-comite/</link>
+      <pubDate>Fri, 26 Mar 2021 11:53:08 -0500</pubDate>
+      
+      <guid>https://agacolombia.org/blog/renovacion-comite/</guid>
+      <description>Términos de referencia de renovación de Estado Abierto
+1. ¿Qué es el Comité de Estado Abierto? El Comité de Estado Abierto de Colombia es el foro multiactor del país en el marco de la Alianza para el Gobierno Abierto (https://www.opengovpartnership.org), iniciativa multilateral de más de 70 naciones del mundo comprometidas con los principios de la transparencia, rendición de cuentas, participación ciudadana, tecnología e innovación.
+Este foro surge con la finalidad de articular y aunar esfuerzos entre entidades públicas del nivel nacional y territorial con organizaciones de la sociedad civil, con el fin de definir la estrategia para la co-creación, implementación, seguimiento, divulgación y evaluación de los planes de acción nacionales de Gobierno/Estado Abierto de Colombia.</description>
+    </item>
+    
     <item>
       <title>Lanzamiento IV Plan de Acción</title>
       <link>https://agacolombia.org/blog/lanzamiento-iv-plan/</link>

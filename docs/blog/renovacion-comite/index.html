@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link rel="stylesheet" href="https://agacolombia.org/css/tailwind.css">
+  
+  <title>Términos de referencia de renovación de Estado Abierto · AGA Colombia</title>
+  
+</head>
+
+<body class="font-helvetica font-medium" x-data="setup()" @scroll.window="handleScroll(event)">
+  <header :class="{ 'lg:items-center': !onTop }" class="bg-blue-stone text-white flex flex-col sticky top-0 z-10 lg:flex-row lg:justify-between lg:items-start">
+  <div class="flex items-center justify-between">
+    <a href="https://agacolombia.org">
+      <img x-show="onTop" class="h-20 md:h-32" src='https://agacolombia.org/images/logos/logo_xl.svg' alt="Visitar página principal">
+      <img x-show="!onTop" class="h-auto" src='https://agacolombia.org/images/logos/logo_sm.svg' alt="Visitar página principal">
+    </a>
+    <button class="text-gray-200 block lg:hidden pr-4 hover:text-white focus:text-white focus:outline-none" @click="toggleOpen()">
+      <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path x-show="open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+        <path x-show="!open" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+      </svg>
+    </button>
+  </div>
+  <div :class="{ hidden: !open }" class="flex flex-col px-2 py-4 lg:flex lg:flex-row lg:items-center">
+    
+      <a href="/acerca-de/" class="px-2 py-1 hover:text-orange-peel">Acerca de</a>
+    
+      <a href="/planes-de-accion/" class="px-2 py-1 hover:text-orange-peel">Planes de acción</a>
+    
+      <a href="/blog/" class="px-2 py-1 hover:text-orange-peel">Blog</a>
+    
+      <a href="/cronograma/" class="px-2 py-1 hover:text-orange-peel">Cronograma</a>
+    
+    <div class="flex flex-row items-center px-2 py-1 mt-1 ml-0 lg:mt-0 lg:ml-4">
+      <a href="https://twitter.com/aga_colombia?lang=es" target="_blank">
+        <img class="h-4" src='https://agacolombia.org/images/icons/twitter.svg' alt="Twitter AGA">
+      </a>
+      <a href="https://www.facebook.com/gobiernoabiertocolombia/"  target="_blank" class="ml-4">
+        <img class="h-4" src='https://agacolombia.org/images/icons/facebook.svg' alt="Facebook AGA">
+      </a>
+    </div>
+  </div>
+</header>
+  <main class="flex">
+    <div class="w-full lg:w-3/4">
+      
+<div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
+  <div class="w-full md:w-3/4">
+    <h2 class="text-2xl leading-none md:text-4xl font-bold">Términos de referencia de renovación de Estado Abierto</h2>
+    <div class="mt-6 text-lg font-bold">
+      <p class="italic">Alianza Gobierno Abierto</p>
+      <p class="italic text-alto">
+        Marzo 26, 2021
+      </p>
+    </div>
+    <div class="mt-16 leading-relaxed text-lg single-post-content"><p>Términos de referencia de renovación de Estado Abierto</p>
+<h2 id="1-qué-es-el-comité-de-estado-abierto">1. ¿Qué es el Comité de Estado Abierto?</h2>
+<p>El Comité de Estado Abierto de Colombia es el foro multiactor del país en el marco de la Alianza para el Gobierno Abierto (<a href="https://www.opengovpartnership.org">https://www.opengovpartnership.org</a>), iniciativa multilateral de más de 70 naciones del mundo comprometidas con los principios de la transparencia, rendición de cuentas, participación ciudadana, tecnología e innovación.</p>
+<p>Este foro surge con la finalidad de articular y aunar esfuerzos entre entidades públicas del nivel nacional y territorial con organizaciones de la sociedad civil, con el fin de definir la estrategia para la co-creación, implementación, seguimiento, divulgación y evaluación de los planes de acción nacionales de Gobierno/Estado Abierto de Colombia.</p>
+<p>A la fecha, el Comité de Estado Abierto de Colombia garantiza asientos para cuatro (4) entidades públicas del nivel nacional, una (1) entidad pública del nivel subnacional y cuatro (4) organizaciones de la sociedad civil. La siguiente imagen permite observar la estructura y miembros actuales del Comité:</p>
+<p>Imagen #1: Comité de Estado Abierto de Colombia 2017-2020</p>
+<figure>
+    <img src="/images/imagen1-renovacion.png"/> 
+</figure>
+
+<p>Las entidades resaltadas con la estrella, no dejarán de ser miembros del foro por decisión del actual Comité de Estado Abierto, debido a que, por su naturaleza, competencias e historial de compromiso, son las entidades líderes de las políticas de transparencia, rendición de cuentas, integridad, participación ciudadana, tecnologías e innovación en el país.</p>
+<h2 id="2-cuáles-son-las-funciones-del-comité-de-estado-abierto">2. ¿Cuáles son las funciones del Comité de Estado Abierto?</h2>
+<p>Son funciones del Comité de Estado Abierto de Colombia:</p>
+<ul>
+<li>Definir la metodología de co-creación, implementación, seguimiento y evaluación del Plan de Acción Nacional de Estado Abierto.</li>
+<li>Convocar a los grupos de apoyo necesarios para hacerle seguimiento al Plan de Acción Nacional de Estado Abierto.</li>
+<li>Desarrollar su propio proceso de planeación y gobernanza.</li>
+<li>Diseñar estrategias para sensibilizar y socializar información relativa al Gobierno Abierto y los Planes de Acción.</li>
+<li>Promover la participación activa de la sociedad civil en la formulación, seguimiento e implementación de los Planes de Acción.</li>
+<li>Aportar propuestas para la sostenibilidad institucional del Comité.</li>
+<li>Reportar periódicamente a un público más amplio los avances en el Plan de Acción y la gestión del Comité.</li>
+<li>Participar activamente en todas las sesiones programadas.</li>
+<li>Participar en la evaluación que se llevará a cabo anualmente por parte del Mecanismo de Evaluación Independiente.</li>
+</ul>
+<h2 id="3-en-qué-consiste-la-renovación-del-comité-de-estado-abierto-de-colombia">3. ¿En qué consiste la renovación del Comité de Estado Abierto de Colombia?</h2>
+<p>El Comité de Estado Abierto de Colombia se tiene previsto renovar cada dos años, de forma posterior a la co-creación y lanzamiento de cada Plan de Acción Nacional de Estado Abierto.</p>
+<p>En este marco, con motivo del lanzamiento del IV Plan de Acción Nacional de Estado Abierto 2020-2022, procede llevar a cabo la renovación del 80% de las entidades públicas y organizaciones de la sociedad civil miembros del Comité de Estado Abierto; así:</p>
+<ul>
+<li>Dos (2) entidades públicas del nivel nacional.</li>
+<li>Una (1) entidad pública del nivel subnacional.</li>
+<li>Cuatro (4) organizaciones de la sociedad civil.</li>
+</ul>
+<h2 id="4-qué-requisitos-deben-cumplir-las-entidades-públicas-que-quieran-ser-parte-del-comité-de-estado-abierto">4. ¿Qué requisitos deben cumplir las entidades públicas que quieran ser parte del Comité de Estado Abierto?</h2>
+<p>Todas las entidades públicas que deseen postularse parar ser miembros del Comité de Estado Abierto de Colombia deben cumplir con los siguientes requisitos:</p>
+<ul>
+<li>Tener compromisos en el Plan de Acción Nacional de Estado Abierto para el periodo 2020-2022.</li>
+<li>Conocer y contar con una estrategia relacionada con alguno de los principios del Estado Abierto.</li>
+<li>Manifestar por escrito su interés para ser miembro del Comité de Estado Abierto.</li>
+<li>Mantener la permanencia de 2 años en el Comité.</li>
+<li>Designar a un representante titular con funciones directivas y un suplente.</li>
+<li>Diligenciar de forma completa el formato de postulación definido por el actual Comité de Estado Abierto.</li>
+<li>Aceptar los términos y condiciones del proceso de renovación.</li>
+</ul>
+<h2 id="5-qué-requisitos-deben-cumplir-las-organizaciones-de-la-sociedad-civil-que-quieran-ser-parte-del-comité-de-estado-abierto">5. ¿Qué requisitos deben cumplir las organizaciones de la sociedad civil que quieran ser parte del Comité de Estado Abierto?</h2>
+<ul>
+<li>Conocer y contar con una estrategia relacionada con alguno de los principios del Estado Abierto.</li>
+<li>Manifestar por escrito su interés para ser miembro del Comité de Estado Abierto.</li>
+<li>Mantener la permanencia de 2 años en el Comité.</li>
+<li>Designar a un representante titular con funciones directivas y un suplente.</li>
+<li>Diligenciar de forma completa el formato de postulación definido por el actual Comité de Estado Abierto.</li>
+<li>Aceptar los términos y condiciones del proceso de renovación.</li>
+</ul>
+<h2 id="6-cuál-es-el-proceso-para-la-elección-de-los-nuevos-miembros-del-comité-de-estado-abierto-y-cuáles-son-las-fechas-clave">6. ¿Cuál es el proceso para la elección de los nuevos miembros del Comité de Estado Abierto y cuáles son las fechas clave?:</h2>
+<p>Imagen #2: Proceso y fechas clave para la renovación del Comité de Estado Abierto</p>
+<figure>
+    <img src="/images/imagen2-renovacion.png"/> 
+</figure>
+
+<ul>
+<li>La invitación para postularse al Comité de Estado Abierto se hará de forma escrita y directa para las entidades públicas, mientras que para las organizaciones de sociedad civil se realizará mediante convocatoria pública por redes sociales y otros canales.</li>
+<li>Luego de recibir las cartas de interés y formatos diligenciados de las entidades públicas y organizaciones de la sociedad civil, se llevará a cabo una consulta ciudadana para dar a conocer las postulaciones allegadas. Lo anterior con la finalidad de contar con la retroalimentación de los colombianos sobre las propuestas recibidas.</li>
+<li>Posterior a la recepción de las postulaciones y de la consulta ciudadana para dar a conocer las mismas, el Comité de Estado Abierto hará una revisión para verificar que se hayan cumplido todos los requisitos y contrastar con los comentarios allegados por los ciudadanos que participaron en el marco de la consulta ciudadana.</li>
+<li>Adicionalmente se conformará un Comité de Expertos, integrado por actores de organismos internacionales, academia u organizaciones de la sociedad civil, quienes también harán una revisión a las postulaciones revisadas, mirarán la retroalimentación de los ciudadanos que participaron en la consulta precitada y emitirán una valoración con su sugerencia o pre-selección de nuevos miembros.</li>
+<li>Finalmente, se hará la notificación a los miembros pre-seleccionados para que confirmen su participación como miembros del Comité de Estado Abierto de Colombia.</li>
+</ul>
+<h2 id="7-cuáles-son-los-criterios-de-evaluación-de-las-postulaciones-al-comité-de-estado-abierto">7. ¿Cuáles son los criterios de evaluación de las postulaciones al Comité de Estado abierto?</h2>
+<p>Todas las postulaciones recibidas serán evaluadas de la siguiente forma:</p>
+<figure>
+    <img src="/images/imagen3-renovacion.png"/> 
+</figure>
+
+<h2 id="8-modificaciones-y-exoneración-de-responsabilidades">8. Modificaciones y exoneración de responsabilidades:</h2>
+<ul>
+<li>En caso de que el proceso de renovación no pudiera desarrollarse bien sea por vicios detectados en el misma, errores técnicos, o cualquier otro que afecte su normal desarrollo, los actuales miembros del Comité de Estado Abierto se reservan el derecho a cancelarla, modificarla, o suspenderla.</li>
+<li>Los actuales miembros del Comité de Estado Abierto se reservan el derecho de descalificar a cualquier entidad u organización que se postule sin presentar los requisitos solicitados y descritos previamente.</li>
+<li>Los actuales miembros del Comité de Estado Abierto no se responsabilizan de que los datos de las entidades u organizaciones que se postulen sean erróneos o no se pueda contactar con los mismos por causas ajenas.</li>
+</ul>
+<h2 id="9-aceptación-de-condiciones">9. Aceptación de condiciones:</h2>
+<p>El hecho de participar en el proceso de renovación del Comité de Estado Abierto implica la aceptación de los Términos y Condiciones que se describen en este documento.</p>
+<p>Los actuales miembros del Comité de Estado Abierto se reservan el derecho de modificar sin previo aviso y en cualquier momento los términos y condiciones del presente proceso. No obstante, dichas modificaciones serán informadas de manera oportuna a través de una publicación en nuestras páginas web, redes sociales y/o correo electrónico.</p>
+<p><a href="/documents/formatos-de-postulacio%CC%81n.xlsx">Formato de postulación para Organizaciones de Sociedad Civil</a></p>
+</div>
+    <a href="/blog" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none text-sm mt-10 md:text-base">Volver</a>
+  </div>
+</div>
+
+    </div>
+    <div class="hidden lg:block lg:w-1/4 relative">
+      <div class="absolute inset-0 overflow-y-scroll">
+        <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/AGA_Colombia?ref_src=twsrc%5Etfw">Tweets by AGA_Colombia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+    </div>
+  </main>
+  <footer class="text-white">
+  <div class="bg-mine-shaft text-center p-4">
+    <p>Cómite de la <strong>Alianza para el Gobierno Abierto</strong> en Colombia</p>
+  </div>
+  <div class="bg-white p-4 flex items-center flex-wrap justify-center md:justify-between">
+    <div class="w-56 mb-4 lg:mb-0">
+      <img src='https://agacolombia.org/images/org/logo_gc.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='https://agacolombia.org/images/org/logo_ac.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='https://agacolombia.org/images/org/logo_sm.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='https://agacolombia.org/images/org/logo_fc.webp'>
+    </div>
+    <div class="w-40 mb-4 lg:mb-0">
+      <img src='https://agacolombia.org/images/org/logo_ds.webp'>
+    </div>
+  </div>
+  <div class="bg-mine-shaft">
+    <div class="w-full mx-auto lg:w-5/6 p-4">
+      <div class="flex flex-col md:flex-row md:items-center md:justify-between md:-mx-4">
+        <div class="w-full px-4 flex-shrink-0 md:w-1/3 lg:w-1/4">
+          <img class="w-48 mx-auto" src='https://agacolombia.org/images/logos/logo_negro.webp' alt="Logo Alianza para el Gobierno Abierto">
+        </div>
+        <div class="w-full px-4 mt-10 md:mt-0 md:w-1/3 lg:w-1/4">
+          <p class="font-bold text-2xl">Comparte</p>
+          <div class="flex items-center mt-4">
+            <a href="https://twitter.com/aga_colombia?lang=es" target="_blank" class="mr-4">
+              <img src='https://agacolombia.org/images/icons/twitter.svg' alt="Twitter AGA">
+            </a>
+            <a href="" target="_blank" class="mr-4">
+              <img src='https://agacolombia.org/images/icons/email.svg' alt="Correo electrónico AGA">
+            </a>
+            <a href="https://www.facebook.com/gobiernoabiertocolombia/" target="_blank">
+              <img src='https://agacolombia.org/images/icons/facebook.svg' alt="Facebook AGA">
+            </a>
+          </div>
+          <p class="font-bold text-2xl mt-8">Escríbenos</p>
+          <p>transparencia@aga.com</p>
+        </div>
+        <div class="w-full px-4 mt-10 md:w-1/3 md:mt-0 lg:w-1/4">
+          <img src='https://agacolombia.org/images/icons/cc.svg' class="h-8">
+          <p class="text-sm mt-2 md:text-xs">Todo el material en esta página, cuando no se indique lo contrario, es
+            CC-BY-SA. Si reúsas o adaptas recursos de esta página por favor vincúlalos y referéncialos.</p>
+          <a href="https://agacolombia.orgterminos-y-condiciones" class="font-bold underline mt-4 inline-block">Términos y condiciones</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+  <script src='https://agacolombia.org/js/site.js'></script>
+</body>
+
+</html>

@@ -96,5 +96,4 @@ El hecho de participar en el proceso de renovación del Comité de Estado Abiert
 
 Los actuales miembros del Comité de Estado Abierto se reservan el derecho de modificar sin previo aviso y en cualquier momento los términos y condiciones del presente proceso. No obstante, dichas modificaciones serán informadas de manera oportuna a través de una publicación en nuestras páginas web, redes sociales y/o correo electrónico.
 
-[Formato de postulación para Organizaciones de Sociedad Civil](/documents/Formatos de Postulación OSC_Comité de Estado Abierto.xlsx)
-
+[Formato de postulación para Organizaciones de Sociedad Civil](/documents/formatos-de-postulación.xlsx)
