@@ -63,7 +63,7 @@ Todas las entidades públicas que deseen postularse parar ser miembros del Comit
 - Manifestar por escrito su interés para ser miembro del Comité de Estado Abierto.
 - Mantener la permanencia de 2 años en el Comité.
 - Designar a un representante titular con funciones directivas y un suplente.
-- Diligenciar de forma completa el formato de postulación definido por el actual Comité de Estado Abierto.
+- Diligenciar de forma completa el formato de postulación definido por el actual Comité de Estado Abierto, el cual se encuentra al final de este escrito, y enviarlo al correo stransparencia@presidencia.gov.co 
 - Aceptar los términos y condiciones del proceso de renovación.
 
 ## 6. ¿Cuál es el proceso para la elección de los nuevos miembros del Comité de Estado Abierto y cuáles son las fechas clave?:
