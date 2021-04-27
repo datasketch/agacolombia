@@ -8,7 +8,9 @@
         {{ index .Site.Data.months (printf "%d" .Date.Month) }} {{ .Date.Day }}, {{ .Date.Year }}
       </p>
     </div>
-    <div class="mt-16 leading-relaxed text-lg single-post-content">{{ .Content }}</div>
+    <div class="mt-16 leading-relaxed text-lg single-post-content">
+      {{ or .Description .Content }}
+    </div>
     <a href="{{.Site.BaseURL}}/planes-de-accion" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none text-sm mt-10 md:text-base">Volver</a>
   </div>
 </div>
