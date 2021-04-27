@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
-  <div class="w-full md:w-3/4">
+  <div class="w-full {{ if not .Params.full_width }}md:w-3/4{{ end }}">
     <h2 class="text-2xl leading-none md:text-4xl font-bold">{{ .Title }}</h2>
     <div class="mt-6 text-lg font-bold">
       <p class="italic">{{ .Params.author }}</p>
@@ -9,7 +9,7 @@
       </p>
     </div>
     <div class="mt-16 leading-relaxed text-lg single-post-content">
-      {{ or .Description .Content }}
+      {{ .Content }}
     </div>
     <a href="{{.Site.BaseURL}}/planes-de-accion" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none text-sm mt-10 md:text-base">Volver</a>
   </div>
