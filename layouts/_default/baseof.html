@@ -15,15 +15,16 @@
 
 <body class="font-helvetica font-medium" x-data="setup()" @scroll.window="handleScroll(event)">
   {{ partial "header.html" . }}
+  {{ $show_sidebar := or (not (isset .Params "sidebar")) (eq .Params.sidebar true) }}
   <main class="flex">
-    <div class="w-full lg:w-3/4">
+    <div class="w-full {{ if $show_sidebar }}lg:w-3/4{{ end }}">
       {{ block "main" . }}{{ end }}
     </div>
-    <div class="hidden lg:block lg:w-1/4 relative">
-      <div class="absolute inset-0 overflow-y-scroll">
-        <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/AGA_Colombia?ref_src=twsrc%5Etfw">Tweets by AGA_Colombia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
-    </div>
+    {{ if $show_sidebar }}
+      {{ block "sidebar" . }}
+        {{ partial "twitter-feed.html" . }}
+      {{ end }}
+    {{ end }}
   </main>
   {{ partial "footer.html" . }}
   <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
@@ -31,3 +32,6 @@
 </body>
 
 </html>
+
+
+
