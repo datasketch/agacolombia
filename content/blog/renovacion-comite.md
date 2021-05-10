@@ -63,7 +63,7 @@ Todas las entidades públicas que deseen postularse parar ser miembros del Comit
 - Manifestar por escrito su interés para ser miembro del Comité de Estado Abierto.
 - Mantener la permanencia de 2 años en el Comité.
 - Designar a un representante titular con funciones directivas y un suplente.
-- Diligenciar de forma completa el formato de postulación definido por el actual Comité de Estado Abierto, el cual se encuentra al final de este escrito, y enviarlo al correo stransparencia@presidencia.gov.co 
+- Diligenciar de forma completa el formato de postulación definido por el actual Comité de Estado Abierto, el cual se encuentra al final de este escrito, y enviarlo al correo stransparencia@presidencia.gov.co
 - Aceptar los términos y condiciones del proceso de renovación.
 
 ## 6. ¿Cuál es el proceso para la elección de los nuevos miembros del Comité de Estado Abierto y cuáles son las fechas clave?:
@@ -74,7 +74,6 @@ Imagen #2: Proceso y fechas clave para la renovación del Comité de Estado Abie
 
 - La invitación para postularse al Comité de Estado Abierto se hará de forma escrita y directa para las entidades públicas, mientras que para las organizaciones de sociedad civil se realizará mediante convocatoria pública por redes sociales y otros canales.
 - Luego de recibir las cartas de interés y formatos diligenciados de las entidades públicas y organizaciones de la sociedad civil, se llevará a cabo una consulta ciudadana para dar a conocer las postulaciones allegadas. Lo anterior con la finalidad de contar con la retroalimentación de los colombianos sobre las propuestas recibidas.
-- Posterior a la recepción de las postulaciones y de la consulta ciudadana para dar a conocer las mismas, el Comité de Estado Abierto hará una revisión para verificar que se hayan cumplido todos los requisitos y contrastar con los comentarios allegados por los ciudadanos que participaron en el marco de la consulta ciudadana.
 - Adicionalmente se conformará un Comité de Expertos, integrado por actores de organismos internacionales, academia u organizaciones de la sociedad civil, quienes también harán una revisión a las postulaciones revisadas, mirarán la retroalimentación de los ciudadanos que participaron en la consulta precitada y emitirán una valoración con su sugerencia o pre-selección de nuevos miembros.
 - Finalmente, se hará la notificación a los miembros pre-seleccionados para que confirmen su participación como miembros del Comité de Estado Abierto de Colombia.
 
