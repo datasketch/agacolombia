@@ -70,7 +70,9 @@ Todas las entidades públicas que deseen postularse parar ser miembros del Comit
 
 Imagen #2: Proceso y fechas clave para la renovación del Comité de Estado Abierto
 
-{{< figure src="/images/imagen2-renovacion.png" >}}
+{{< figure src="/images/imagen4-renovacion.png" >}}
+
+*Teniendo en cuenta la sesión del Comité de Estado Abierto del pasado 6 de mayo del 2021, se tomó la decisión conjuntamente de postergar el proceso de renovación, teniendo en cuenta la contingencia que se presenta en el país. Para los efectos, estaremos informando con anticipación la reactivación de los pasos pendientes.
 
 - La invitación para postularse al Comité de Estado Abierto se hará de forma escrita y directa para las entidades públicas, mientras que para las organizaciones de sociedad civil se realizará mediante convocatoria pública por redes sociales y otros canales.
 - Luego de recibir las cartas de interés y formatos diligenciados de las entidades públicas y organizaciones de la sociedad civil, se llevará a cabo una consulta ciudadana para dar a conocer las postulaciones allegadas. Lo anterior con la finalidad de contar con la retroalimentación de los colombianos sobre las propuestas recibidas.
@@ -81,7 +83,8 @@ Imagen #2: Proceso y fechas clave para la renovación del Comité de Estado Abie
 
 Todas las postulaciones recibidas serán evaluadas de la siguiente forma:
 
-{{< figure src="/images/imagen3-renovacion.png" >}}
+{{< figure src="/images/imagen5-renovacion" >}}
+*Teniendo en cuenta la sesión del Comité de Estado Abierto del pasado 6 de mayo del 2021, se tomó la decisión conjuntamente de modificar los criterios de evaluación para los postulados tal y como se describe en la tabla. 
 
 ## 8. Modificaciones y exoneración de responsabilidades:
 
