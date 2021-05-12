@@ -83,8 +83,9 @@ Imagen #2: Proceso y fechas clave para la renovación del Comité de Estado Abie
 
 Todas las postulaciones recibidas serán evaluadas de la siguiente forma:
 
-{{< figure src="/images/imagen5-renovacion" >}}
-*Teniendo en cuenta la sesión del Comité de Estado Abierto del pasado 6 de mayo del 2021, se tomó la decisión conjuntamente de modificar los criterios de evaluación para los postulados tal y como se describe en la tabla. 
+{{< figure src="/images/imagen5-renovacion.png" >}}
+
+*Teniendo en cuenta la sesión del Comité de Estado Abierto del pasado 6 de mayo del 2021, se tomó la decisión conjuntamente de modificar los criterios de evaluación para los postulados tal y como se describe en la tabla.
 
 ## 8. Modificaciones y exoneración de responsabilidades:
 
