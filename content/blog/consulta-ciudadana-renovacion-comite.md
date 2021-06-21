@@ -19,7 +19,7 @@ En este marco, con motivo del lanzamiento del IV Plan de Acción Nacional de Est
 •	Una (1) entidad pública del nivel subnacional.
 •	Cuatro (4) organizaciones de la sociedad civil.
 
-Para participar haz clic en el siguiente enlace https://t.co/dIFm3Vc9F8?amp=1
+Para participar haz clic en el siguiente enlace (https://t.co/dIFm3Vc9F8?amp=1)
 
 {{< figure src="/images/consultaciudadana1.jpeg" >}}
 
