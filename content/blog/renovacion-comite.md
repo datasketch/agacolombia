@@ -70,7 +70,7 @@ Todas las entidades públicas que deseen postularse parar ser miembros del Comit
 
 Imagen #2: Proceso y fechas clave para la renovación del Comité de Estado Abierto
 
-{{< figure src="/images/imagen4-renovacion.png" >}}
+{{< figure src="/images/imagen6-renovacion.png" >}}
 
 *Teniendo en cuenta la sesión del Comité de Estado Abierto del pasado 6 de mayo del 2021, se tomó la decisión conjuntamente de postergar el proceso de renovación, teniendo en cuenta la contingencia que se presenta en el país. Para los efectos, estaremos informando con anticipación la reactivación de los pasos pendientes.
 
