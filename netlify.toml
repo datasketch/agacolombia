@@ -1,4 +1,4 @@
 [build]
-  command = "hugo --gc"
+  command = "hugo --minify"
   publish = "docs"
   environment = { HUGO_VERSION = "0.80.0" }
