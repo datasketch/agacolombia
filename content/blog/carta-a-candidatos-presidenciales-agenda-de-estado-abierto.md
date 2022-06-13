@@ -27,7 +27,7 @@ En su nuevo gobierno, les invitamos a **comprometerse a formular e implementar e
 
 Respetuosamente,
 
-![](/uploads/comité-1-.png)
+![](/uploads/comité-2-.png)
 
 Descargar: 
 
