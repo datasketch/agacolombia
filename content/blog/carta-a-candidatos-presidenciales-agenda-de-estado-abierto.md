@@ -1,6 +1,6 @@
 ---
 title: "Carta a Candidatos Presidenciales: Agenda de Estado Abierto. "
-author: Datasketch
+author: Organizaciones de Sociedad Civil del Comité de Estado Abierto de Colombia
 date: 2022-06-13T15:09:10.822Z
 ---
 Bogotá, 13 de junio de 2022 
