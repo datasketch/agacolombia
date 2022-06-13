@@ -31,7 +31,7 @@ Respetuosamente,
 
 Descargar: 
 
-* Carta[ de Presentación AGA a candidatos políticos a la presidencia](https://drive.google.com/file/d/1R_vzS7NQe80TOm6z9lFhSC1OX7CXezdl/view?usp=sharing) (PDF). 
+* [Carta de Presentación AGA a candidatos políticos a la presidencia](https://drive.google.com/file/d/1R_vzS7NQe80TOm6z9lFhSC1OX7CXezdl/view?usp=sharing) (PDF). 
 * **[IV Plan de Acción](https://www.opengovpartnership.org/wp-content/uploads/2020/12/Colombia_Action-Plan_2020-2022.pdf).**
 
 ![](/uploads/comité.png)
