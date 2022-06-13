@@ -13,8 +13,6 @@ Rodolfo Hernández
 
 **Candidatos a la Presidencia de la República de Colombia** 
 
- 
-
 Respetados candidatos,
 
 La Alianza para el Gobierno Abierto [(AGA)](https://www.opengovpartnership.org/es/) es una iniciativa multilateral voluntaria fundada en el 2011, en la cual participan líderes gubernamentales y organizaciones de la sociedad civil para promover una **gobernanza transparente, participativa, inclusiva y responsable.** Este modelo de gobernanza y colaboración garantiza que las organizaciones de la sociedad civil tengan un papel en la configuración, colaboración y veeduría de los gobiernos en esta agenda. Como parte de esta alianza global, todos los países y regiones que pertenecen a AGA **firman la [Declaración de Gobierno Abierto](https://www.opengovpartnership.org/es/declaracion-de-gobierno-abierto/)** y están obligados a trabajar con organizaciones de la sociedad civil para cocrear reformas como parte de **un plan de acción que pueda brindar beneficios reales a sus ciudadanos.**
@@ -27,13 +25,16 @@ En cumplimiento del compromiso adquirido, Colombia se encuentra implementando su
 
 En su nuevo gobierno, les invitamos a **comprometerse a formular e implementar el V Plan de Acción de Estado Abierto** bajo los principios de transparencia, participación, rendición de cuentas, innovación y colaboración. De igual manera, les invitamos a manifestar su compromiso para que toda la agenda de **Estado Abierto sea prioridad e insumo base para la construcción de sus estrategias anticorrupción y de Plan Nacional de Desarrollo**. Con su apoyo, nos comprometemos desde la sociedad civil a seguir trabajando sin descanso en esta agenda que consideramos fundamental para nuestro país, y de la cual esperamos impactos importantes en beneficio de todos los colombianos.
 
- 
-
 Respetuosamente,
 
 ![](/uploads/comité-1-.png)
 
-**[IV Plan de Acción](https://www.opengovpartnership.org/wp-content/uploads/2020/12/Colombia_Action-Plan_2020-2022.pdf).**
+Descargar: 
+
+* Carta[ de Presentación AGA a candidatos políticos a la presidencia](https://drive.google.com/file/d/1R_vzS7NQe80TOm6z9lFhSC1OX7CXezdl/view?usp=sharing) (PDF). 
+* **[IV Plan de Acción](https://www.opengovpartnership.org/wp-content/uploads/2020/12/Colombia_Action-Plan_2020-2022.pdf).**
+
+![](/uploads/comité.png)
 
 **Compromisos del ejecutivo: nacionales**
 
@@ -62,8 +63,6 @@ Compromisos del ejecutivo: territoriales
 6.      Escuela de Gobierno Abierto y diálogos vallecaucanos de la Gobernación del Valle del Cauca.
 
 7.      Transparencia activa y datos abiertos del departamento del Valle del Cauca (Gobernación del Valle del Cauca).
-
-
 
 **Compromisos de otras ramas del poder público y órganos de control.**
 
