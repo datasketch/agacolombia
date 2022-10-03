@@ -10,8 +10,8 @@ taxonomies = []
   hrefTargetBlank = true
 [menu]
   [[menu.main]]
-    url = "/acerca-de/"
-    name = "Acerca de"
+    url = "/acerca-del-comite/"
+    name = "Acerca del Comité"
     weight = 1
   [[menu.main]]
     url = "/planes-de-accion/"
@@ -21,10 +21,6 @@ taxonomies = []
     url = "/blog/"
     name = "Blog"
     weight = 3
-  [[menu.main]]
-    url = "/cronograma/"
-    name = "Cronograma"
-    weight = 4
   # [[menu.main]]
   #   url = "/datos-abiertos/"
   #   name = "Datos abiertos"

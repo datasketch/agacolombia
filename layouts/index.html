@@ -13,24 +13,23 @@
     {{ end }}
   </div>
 </div>
-<!-- Cronograma -->
+<!-- IV PLAN -->
 <div class="bg-blue-stone px-4 py-16 md:p-16 text-white">
   <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
-    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl">Cronograma</h2>
-    <a href="{{.Site.BaseURL}}cronograma" class="inline-block bg-white text-blue-stone px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver todo</a>
+    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl">IV Plan</h2>
+    <a href="{{ relref . "planes-de-accion/cuarto-plan" }}" class="inline-block bg-white text-blue-stone px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base" target="_blank">Ver todo</a>
   </div>
-  {{ $events := (where .Site.RegularPages "Section" "cronograma") }}
-  {{ if len $events }}
-    <div class="grid mt-16 gap-16 grid-cols-1 md:grid-cols-2">
-      {{ range first 4 $events }}
-        <div class="bg-surfie-green text-white p-8">
-          {{ partial "event-brief.html" . }}
-        </div>
-      {{ end }}
-    </div>
-  {{ else }}
-    <p class="mt-16 text-white">Aún no se han creado eventos</p>
-  {{ end }}
+    <p class="mt-16 text-white">Lee el <a class="underline" href="https://drive.google.com/file/d/1BS72qUxZzuA4dXa-0J95Ef_QYWhkj1Ey/view">Plan completo</a> (PDF), <a class="underline" href="{{ relref . "planes-de-accion/cuarto-plan/seguimiento-a-la-implementacion-del-plan" }}">haz seguimiento al cumplimiento</a> y explora <a class="underline" href="https://drive.google.com/drive/folders/1rwzSxhZi-ADANdPoxIixEkil-GFmbwln" target="_blank">las evidencias de cumplimiento por cada compromiso</a>. </p>
+</div>
+<!-- Actas del Comité -->
+<div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
+  <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
+    <h2 class="text-mine-shaft text-4xl leading-none md:text-5xl lg:text-6xl">Actas del Comité</h2>
+    <a href="https://drive.google.com/drive/folders/1YCf0eQyqMpG2ZPpV9Tr4VdH1NCmAl249" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base" target="_blank">Ver todo</a>
+  </div>
+  <div class="w-full mt-16 mx-auto md:w-11/12 text-lg">
+    <p>Conoce las actas de las reuniones del Comité de Estado Abierto y las decisiones tomadas en ellas.</p>
+  </div>
 </div>
 <!-- ¿Qué es estado abierto? -->
 <div class="bg-orange-peel px-4 py-16 md:p-16 text-white">
@@ -43,7 +42,7 @@
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
   <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
     <h2 class="text-mine-shaft text-4xl leading-none md:text-5xl lg:text-6xl">¿Qué es AGA?</h2>
-    <a href="{{.Site.BaseURL}}acerca-de" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver todo</a>
+    <a href="{{ relref . "acerca-del-comite" }}" class="inline-block bg-mine-shaft text-white px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base">Ver todo</a>
   </div>
   <div class="w-full mt-16 mx-auto md:w-11/12 text-lg">
     <p>La Alianza para el Gobierno Abierto (AGA/OGP por sus siglas en inglés) es una iniciativa multilateral que busca mejorar el desempeño gubernamental, fomentar la participación efectiva y mejorar la capacidad de respuesta de los gobiernos hacia sus ciudadanos mediante la implementación de estrategias en materia de transparencia, acceso a la información, participación ciudadana, innovación y uso de nuevas tecnologías que logren generar cambios concretos y visibles.</p>
