@@ -1,5 +1,12 @@
 {{ define "main" }}
-{{ .Content }}
+{{ range first 1 (where .Site.Pages "Section" "planes-de-accion")}}
+<a href="{{.Permalink}}" style="background-color: {{.Params.color}};" class="block text-white flex flex-col justify-center items-center text-center px-16 py-20 font-bold text-3xl">
+  <p>Conoce el</p>
+  <p class="bg-white px-4 py-2" style="color: {{.Params.color}}">
+    {{ .Title }}
+  </p>
+</a>
+{{ end }}
 <!-- Blog -->
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
   <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
@@ -12,14 +19,6 @@
       {{ partial "post-brief.html" (dict "Page" . "IsHome" $IsHome) }}
     {{ end }}
   </div>
-</div>
-<!-- IV PLAN -->
-<div class="bg-blue-stone px-4 py-16 md:p-16 text-white">
-  <div class="font-bold flex flex-col items-start md:flex-row md:items-baseline md:justify-between">
-    <h2 class="text-4xl leading-none md:text-5xl lg:text-6xl">IV Plan</h2>
-    <a href="{{ relref . "planes-de-accion/cuarto-plan" }}" class="inline-block bg-white text-blue-stone px-6 py-2 leading-none mt-4 text-sm md:mt-0 md:text-base" target="_blank">Ver todo</a>
-  </div>
-    <p class="mt-16 text-white">Lee el <a class="underline" href="https://drive.google.com/file/d/1BS72qUxZzuA4dXa-0J95Ef_QYWhkj1Ey/view">Plan completo</a> (PDF), <a class="underline" href="{{ relref . "planes-de-accion/cuarto-plan/seguimiento-a-la-implementacion-del-plan" }}">haz seguimiento al cumplimiento</a> y explora <a class="underline" href="https://drive.google.com/drive/folders/1rwzSxhZi-ADANdPoxIixEkil-GFmbwln" target="_blank">las evidencias de cumplimiento por cada compromiso</a>. </p>
 </div>
 <!-- Actas del Comité -->
 <div class="bg-wild-sand px-4 py-16 md:p-16 text-mine-shaft">
