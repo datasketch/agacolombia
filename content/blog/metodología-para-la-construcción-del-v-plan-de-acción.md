@@ -1,6 +1,6 @@
 ---
 title: Metodología para la construcción del V Plan de Acción
-author: Datasketch
+author: Comité de Gobierno Abierto de Colombia
 date: 2023-04-14T21:02:13.588Z
 ---
 El Comité de Estado Abierto ha diseñado de manera consensuada la metodología para la construcción del V Plan de Estado Abierto para Colombia, que se divide en varias secciones:
