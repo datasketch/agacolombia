@@ -18,22 +18,20 @@
         {{ partial "post-brief.html" (dict "Page" . "IsHome" $IsHome) }}
         {{ end }}
         <ul class="flex items-center justify-center mt-10">
-            <li class="mr-2{{ if not .Paginator.HasPrev }} cursor-not-allowed{{end}}">
-                <a {{ if .Paginator.HasPrev }}href="{{ .Paginator.Prev.URL }}" {{ end }} {{ if not .Paginator.HasPrev
-                    }}class="text-gray-500" {{ end }}>
+            <li class="mr-2 {{ if not .Paginator.HasPrev }} cursor-not-allowed {{ end }}">
+                <a {{ if .Paginator.HasPrev }} href="{{ .Paginator.Prev.URL }}" {{ end }} {{ if not .Paginator.HasPrev }} class="text-gray-500" {{ end }}>
                     <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
                     </svg>
                 </a>
             </li>
             {{ range .Paginator.Pagers }}
-            <li class="mr-2 p-2 leading-none{{ if eq . $.Paginator}} bg-mine-shaft text-white{{end}}">
+            <li class="mr-2 p-2 leading-none{{ if eq . $.Paginator}} bg-mine-shaft text-white{{ end }}">
                 <a href="{{.URL}}">{{ .PageNumber }}</a>
             </li>
             {{ end }}
-            <li class="{{ if not .Paginator.HasNext }} cursor-not-allowed{{end}}">
-                <a {{ if .Paginator.HasNext }}href="{{ .Paginator.Next.URL }}" {{ end }} {{ if not .Paginator.HasNext
-                    }}class="text-gray-500" {{ end }}>
+            <li class="{{ if not .Paginator.HasNext }} cursor-not-allowed {{end}}">
+                <a {{ if .Paginator.HasNext }} href="{{ .Paginator.Next.URL }}" {{ end }} {{ if not .Paginator.HasNext }} class="text-gray-500" {{ end }}>
                     <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
                     </svg>
