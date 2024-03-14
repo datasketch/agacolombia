@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ $link := .Params.post }}
+{{ if $link }}
 <div class="py-4 bg-orange-peel">
   <p class="text-center font-normal text-lg">
     <b>Disponible en</b>
@@ -7,6 +8,7 @@
     <b>/</b> <a href="/repository/{{ .Params.post }}">English<em></em></a>
   </p>
 </div>
+{{ end }}
 <div class="py-12 lg:py-16 xl:py-20">
   <div class="mx-auto w-11/12 md:w-10/12 max-w-screen-xl">
     <h1 class="text-3xl lg:text-4xl">{{ .Title }}</h1>

@@ -1,11 +1,10 @@
 ---
 title: V Plan en Datos
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+description: Explora el tablero de visualización interactivo con las cifras clave del proceso de cocreación del V Plan de Acción Nacional de Estado Abierto de Colombia. Desde el número de participantes que aportaron en las diferentes instancias del proceso, hasta los compromisos formulados, cada cifra refleja nuestro compromiso con un enfoque participativo y la transparencia.
 weight: 5
 bgColor: "#FFFFFF"
 color: "#282828"
 variantButton: "dark"
-post: v-plan-en-datos
 ---
 
-<iframe width="600" height="1825" src="https://lookerstudio.google.com/embed/reporting/6aa8e8c4-aa4c-44f4-ae1a-31d2e60791c9/page/JkxpD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+{{< iframe url="https://lookerstudio.google.com/embed/reporting/6aa8e8c4-aa4c-44f4-ae1a-31d2e60791c9/page/JkxpD" >}}
