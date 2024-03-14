@@ -5,13 +5,14 @@ weight: 3
 bgColor: "#FF5331"
 color: "#282828"
 variantButton: "dark"
+post: exploring-the-tools-resources-for-the-v-national-open-state-action-plan-of-colombia
 ---
 
 En la búsqueda constante por fomentar la transparencia y la participación ciudadana, Colombia ha dado pasos significativos con la construcción de su V Plan de Acción de Estado Abierto. El Plan no solo busca promover los pilares del gobierno abierto, sino también fortalecer los lazos entre el gobierno y la sociedad civil. Pero, ¿cómo se ha gestado este plan? ¿Qué herramientas y recursos han sido utilizados para su construcción?
 
 Sumergiéndonos en el proceso metodológico, encontramos una variedad de guías, matrices, derroteros y otros instrumentos que han sido fundamentales en la creación de este plan. Estos recursos no solo han sido utilizados como apoyo durante la planificación, sino que ahora se ponen a disposición del público en un repositorio accesible, con la intención de servir como insumo para futuras construcciones similares.
 
-# Listado de recursos disponibles
+## Listado de recursos disponibles
 
 - Base de datos previa a las entrevistas: recopilación de datos y referencias internacionales relevantes que se utilizarán como punto de partida antes de realizar una entrevista.
 

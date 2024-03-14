@@ -1,4 +1,11 @@
-{{ define "main" }} {{ partial "repository-language" . }}
+{{ define "main" }}
+<div class="py-4 bg-orange-peel">
+  <p class="text-center font-normal text-lg">
+    <b>Disponible en</b>
+    <a href="{{ relref . " repositorio" }}"><em>Español</em></a>
+    <b>/</b> <a href="{{ relref . " repository" }}">English<em></em></a>
+  </p>
+</div>
 <div class="bg-mine-shaft py-16">
   <div class="mx-auto w-11/12 md:w-10/12 max-w-screen-xl">
     <div class="flex flex-col gap-y-8 md:flex-row md:gap-x-12 text-white">
@@ -16,20 +23,111 @@
 </div>
 <div class="grid grid-cols-1 md:grid-cols-2">
   {{ range where site.RegularPages "Type" "repositorio" }}
-  <div
-    class="p-10"
-    style="background-color: {{ .Params.bgColor }}; color: {{ .Params.color }}"
-  >
+  <div class="p-10" style="background-color: {{ .Params.bgColor }}; color: {{ .Params.color }}">
     <h2 class="text-xl lg:text-2xl">{{ .Title }}</h2>
     <p class="mt-3 font-normal">{{.Params.description}}</p>
-    <a
-      class="mt-8 inline-block text-white lg:text-lg bg-mine-shaft py-2 px-6"
+    <a class="mt-8 inline-block text-white lg:text-lg bg-mine-shaft py-2 px-6"
       style='background-color: {{ if eq .Params.variantButton "dark" }}#282828{{ else }}#FFFFFF{{ end }};'
-      href="{{ .RelPermalink }}"
-      >Leer más
+      href="{{ .RelPermalink }}">Leer más
     </a>
   </div>
   {{ end }}
 </div>
-<div class="py-12 lg:py-16 xl:py-20"></div>
+<div class="py-12 lg:py-16 xl:py-20">
+  <div class="mx-auto w-11/12 md:w-10/12 max-w-screen-xl">
+    <div class="text-center">
+      <h2 class="text-2xl lg:text-3xl">Citas</h2>
+    </div>
+    <div class="mt-4 glide">
+      <div class="glide__track max-w-4xl mx-auto" data-glide-el="track">
+        <ul class="glide__slides">
+          <li class="glide__slide">
+            <div>
+              <p class="font-light text-lg lg:text-xl text-center">
+                “El enfoque género va más allá del dato y el indicador para medir (…) va con las formas en que se hace,
+                con la estructura de trabajo, con el impacto que se tiene, con la cantidad de mujeres o personas
+                disidentes de género que logran reconocer, entender, apropiarse e involucrarse en el proceso”
+              </p>
+              <div class="mt-8">
+                <div class="flex items-center gap-4">
+                  <div class="flex-shrink-0">
+                    <img src="/images/icons/person.svg" alt="person">
+                  </div>
+                  <div>
+                    <p>Ana Gabriel Zúñiga Aponte</p>
+                    <p class="font-light">Responsable de la política de género y datos en ILDA</p>
+                    <p class="font-light">Entrevista, 24 de agosto</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="glide__slide">
+            <div>
+              <p class="font-light text-lg lg:text-xl text-center">
+                “Cuando pensamos en la participación individual, es importante promover las políticas necesarias de
+                “cuidado”. Por lo tanto, cuando aumentamos los espacios, las compensaciones y otros tipos de elementos,
+                estamos mejorando la participación de las mujeres, porque el “cuidado” se percibe socialmente como el
+                trabajo de una mujer."
+              </p>
+              <div class="mt-8">
+                <div class="flex items-center gap-4">
+                  <div class="flex-shrink-0">
+                    <img src="/images/icons/person.svg" alt="person">
+                  </div>
+                  <div>
+                    <p>Silvana Fumega</p>
+                    <p class="font-light">Directora del Barómetro Global de Datos</p>
+                    <p class="font-light">Tomado de OGP: Rostros de Gobierno Abierto, 19 de noviembre de 2019</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="glide__slide">
+            <div>
+              <p class="font-light text-lg lg:text-xl text-center">
+                “La participación y representación debe ser significativa y efectiva, es decir que tengan injerencia en
+                la toma de decisiones y no solamente como órgano consultivo. Esta participación debe tener en cuenta la
+                diversidad dentro de los distintos grupos de mujeres y personas LGBTIQ+”
+              </p>
+              <div class="mt-8">
+                <div class="flex items-center gap-4">
+                  <div class="flex-shrink-0">
+                    <img src="/images/icons/person.svg" alt="person">
+                  </div>
+                  <div>
+                    <p>Hassel Fallas</p>
+                    <p class="font-light">Coordinadora de datos e inclusión en ILDA</p>
+                    <p class="font-light">Entrevista, 27 de agosto</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="glide__arrows" data-glide-el="controls">
+        <button class="glide__arrow glide__arrow--left" data-glide-dir="<">
+          <div>
+            <img src="/images/icons/arrow-left.svg" alt="arrow left">
+          </div>
+        </button>
+        <button class="glide__arrow glide__arrow--right" data-glide-dir=">">
+          <div>
+            <img src="/images/icons/arrow-right.svg" alt="arrow right">
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+{{ define "head" }}
+{{ $glide := resources.Get "css/glide.css" | postCSS | fingerprint }}
+<link rel="stylesheet" href="{{ $glide.Permalink }}">
+{{ end }}
+{{ define "js" }}
+{{ $repository := resources.Get "js/api/repository.js" | js.Build (dict "minify" hugo.IsProduction)}}
+<script src="{{ $repository.Permalink }}"></script>
 {{ end }}

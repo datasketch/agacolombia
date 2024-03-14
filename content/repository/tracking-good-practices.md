@@ -5,6 +5,7 @@ weight: 7
 bgColor: "#006699"
 color: "#FFFFFF"
 variantButton: "dark"
+post: rastreo-de-buenas-practicas
 ---
 
 Tracking good practices in the implementation of the gender perspective becomes an invaluable tool to become more equitable and inclusive societies. In the context of Open Government, where transparency and citizen participation are fundamental, the gender approach takes on even greater relevance. That's why we're diving into the Guide to Gender Responsive Action Plans, a roadmap designed to ensure that Open Government commitments are not only inclusive but also address the specific needs and priorities of women, non-binary and other underrepresented groups.

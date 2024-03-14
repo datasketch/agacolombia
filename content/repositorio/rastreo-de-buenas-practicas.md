@@ -5,6 +5,7 @@ weight: 7
 bgColor: "#006699"
 color: "#FFFFFF"
 variantButton: "dark"
+post: tracking-good-practices
 ---
 
 El rastreo de buenas prácticas de la implementación de la perspectiva de género se convierte en una herramienta invaluable para ser sociedades más equitativas e inclusivas. En el contexto del Gobierno Abierto, donde la transparencia y la participación ciudadana son fundamentales, el enfoque de género cobra una relevancia aún mayor. Es por ello que nos sumergimos en la Guía para Planes de Acción Género Responsivos, una hoja de ruta diseñada para asegurar que los compromisos del Gobierno Abierto no solo sean inclusivos, sino que también aborden las necesidades y prioridades específicas de mujeres, no binarios y otros grupos subrepresentados.

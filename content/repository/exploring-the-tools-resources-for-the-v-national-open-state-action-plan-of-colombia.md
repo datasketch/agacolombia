@@ -5,6 +5,7 @@ weight: 3
 bgColor: "#FF5331"
 color: "#282828"
 variantButton: "dark"
+post: explorando-las-herramientas-recursos-para-el-v-plan-de-accion-nacional-de-estado-abierto-de-colombia
 ---
 
 Exploring the Tools: Resources for the V National Open State Action Plan of Colombia
@@ -13,7 +14,7 @@ In the constant search to promote transparency and citizen participation, Colomb
 
 Diving into the methodological process, we find a variety of guides, matrices, routes and other instruments that have been fundamental in the creation of this plan. These resources have not only been used as support during planning but are now made available to the public in an accessible repository, with the intention of serving as input for future similar constructions.
 
-# List of available resources
+## List of available resources
 
 - Database prior to interviews: collection of data and relevant international references to be used as a starting point before conducting an interview.
 

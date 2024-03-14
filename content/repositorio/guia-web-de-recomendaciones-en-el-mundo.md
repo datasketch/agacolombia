@@ -5,9 +5,10 @@ weight: 2
 bgColor: "#0F827F"
 color: "#FFFFFF"
 variantButton: "dark"
+post: global-recommendations-guide
 ---
 
-# Introducción
+## Introducción
 
 Hemos desarrollado esta Guía de Recomendaciones durante la creación del [V Plan de Acción Nacional de Estado Abierto de Colombia](https://agacolombia.org/blog/el-v-plan-de-acci%C3%B3n-nacional-de-estado-abierto-de-colombia-est%C3%A1-disponible/) (2023-2025). Su propósito es compartir con distintos grupos de interés las recomendaciones clave que, como organizaciones de la sociedad civil del [Comité de Estado Abierto de Colombia](https://agacolombia.org/acerca-del-comite/), consideramos fundamentales para implementar efectivamente Planes de Acción de Estado Abierto o Gobierno Abierto, según aplique, con perspectiva de género. Estas sugerencias son relevantes tanto para Colombia como para otros países.
 
@@ -21,7 +22,7 @@ Esta guía es el resultado de tres productos que hicimos para la investigación:
 
 Realizamos el mapeo de actores para identificar y analizar las características, interacciones y necesidades de personas y organizaciones dedicadas a gobernanza de datos con perspectiva de género en Colombia. Por último, hicimos un mapeo de datos para identificar y examinar tanto la disponibilidad como la calidad de los datos existentes con perspectiva de género. Conoce más de la investigación en el [reporte diagnóstico](https://drive.google.com/file/d/1USw-ZmUS-q7-rP4CZl3itlT2G_pjkk8d/view?usp=sharing).
 
-# Conceptos previos
+## Conceptos previos
 
 Esta guía trata tres aspectos clave: el Estado Abierto, la gobernanza de datos y la perspectiva de género. Vamos a partir de algunas definiciones para entender mejor cómo se relacionan y por qué son importantes en los Planes de Acción de Gobierno Abierto.
 
@@ -97,7 +98,7 @@ La apertura y transparencia en la gestión de datos hace que las organizaciones 
 
 - Separar los datos por género permite un análisis detallado y una mejor comprensión de las características específicas de cada grupo.
 
-# Recomendaciones
+## Recomendaciones
 
 La inclusión de la perspectiva de género en el Gobierno Abierto es más que las mujeres y las diversidades participen en la discusión. Además, es necesario que sus aportes se tengan en cuenta a la hora de tomar decisiones para lograr una participación efectiva de verdad. Abordar los problemas que les afectan de manera diferenciada nos permite establecer soluciones específicas. Por eso, necesitamos incorporar la perspectiva de género en los Planes de Acción.
 
@@ -171,7 +172,7 @@ El monitoreo y la evaluación en la cocreación de un Plan de Acción son fundam
 
 De este modo, podemos hacer ajustes y asegurar que el Plan de Acción responda adecuadamente a las necesidades y objetivos planteados.
 
-# Conclusiones
+## Conclusiones
 
 El V Plan de Acción Nacional de Estado Abierto de Colombia ha sido un proceso colaborativo y enriquecedor, marcado por la inclusión activa de la perspectiva de género. Este enfoque ha sido clave en fortalecer la calidad y relevancia del Plan, gracias a la participación de la ciudadanía, personas expertas y organizaciones de la sociedad civil, especialmente mujeres. La integración de la perspectiva de género en todas las etapas, desde la metodología hasta la formulación de compromisos, ha permitido una visión más completa y equitativa en la construcción de un estado abierto. Además, hemos hecho énfasis en la importancia de una gestión de datos inclusiva y sensible al género.
 

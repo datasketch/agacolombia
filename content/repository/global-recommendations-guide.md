@@ -6,9 +6,10 @@ weight: 2
 bgColor: "#0F827F"
 color: "#FFFFFF"
 variantButton: "dark"
+post: guia-web-de-recomendaciones-en-el-mundo
 ---
 
-# Introduction
+## Introduction
 
 We have developed this Recommendations Guide during the creation of the V National Open State Action Plan of Colombia (2023-2025). Its purpose is to share with different interest groups the key recommendations that, as civil society organizations of the [Open State Committee of Colombia](https://agacolombia-org.translate.goog/acerca-del-comite/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=es&_x_tr_pto=wapp), we consider fundamental to effectively implement Open State or Open Government Action Plans, as applicable, with a gender focus. These suggestions are relevant both for Colombia and for other countries.
 
@@ -22,7 +23,7 @@ This guide is the result of three research products: the international benchmark
 
 We carried out the stakeholder mapping to identify and analyze the characteristics, interactions and needs of people and organizations dedicated to data governance with a gender perspective in Colombia. Finally, we conducted data mapping to identify and examine both the availability and quality of existing gender-sensitive data. Learn more about the research in the [diagnostic report](https://drive.google.com/file/d/1WhBE5aW-2EaJXC3B0ndjfmLVJgZJwkCv/view?usp=sharing).
 
-# Previous concepts
+## Previous concepts
 
 This guide addresses three key aspects: Open State, data governance, and gender perspective. Let's start with some definitions to better understand how they relate and why they are important in Open Government Action Plans.
 
@@ -98,7 +99,7 @@ What does this entail?
 
 - Separating the data by gender allows for detailed analysis and a better understanding of the specific characteristics of each group.
 
-# Recommendations
+## Recommendations
 
 The inclusion of the gender perspective in Open Government is more than women and diversities participating in the discussion. Furthermore, their contributions must be taken into account when making decisions to achieve truly effective participation. Addressing the problems that affect them in a differentiated way allows us to establish specific solutions. Therefore, we need to incorporate the gender perspective into Action Plans.
 

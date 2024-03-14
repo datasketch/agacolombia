@@ -1,29 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {{ $style := resources.Get "css/tailwind.pcss" | toCSS | postCSS }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}" />
-    {{ if .Title }}
-    <title>{{ .Title }} · {{ .Site.Title }}</title>
-    {{ else }}
-    <title>{{ .Site.Title }}</title>
-    {{ end }}
-  </head>
 
-  <body
-    class="font-helvetica font-medium"
-    x-data="setup()"
-    @scroll.window="handleScroll(event)"
-  >
-    {{ partial "header.html" . }}
-    <main>{{ block "main" . }}{{ end }}</main>
-    {{ partial "footer.html" . }}
-    <script
-      src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js"
-      defer
-    ></script>
-    <script src='{{ "js/site.js" | absURL }}'></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  {{ $style := resources.Get "css/tailwind.pcss" | toCSS | postCSS }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" />
+  {{ block "head" . }}{{ end }}
+  {{ if .Title }}
+  <title>{{ .Title }} · {{ .Site.Title }}</title>
+  {{ else }}
+  <title>{{ .Site.Title }}</title>
+  {{ end }}
+</head>
+
+<body class="font-helvetica font-medium" x-data="setup()" @scroll.window="handleScroll(event)">
+  {{ partial "header.html" . }}
+  <main>{{ block "main" . }}{{ end }}</main>
+  {{ partial "footer.html" . }}
+  <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+  <script src='{{ "js/site.js" | absURL }}'></script>
+  {{ block "js" . }}{{ end }}
+</body>
+
 </html>

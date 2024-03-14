@@ -5,9 +5,10 @@ weight: 1
 bgColor: "#FFFFFF"
 color: "#282828"
 variantButton: "dark"
+post: recommendations-guide-for-colombia
 ---
 
-# Introducción
+## Introducción
 
 Hemos desarrollado esta Guía de Recomendaciones durante la creación del [V Plan de Acción Nacional de Estado Abierto de Colombia](https://agacolombia.org/blog/el-v-plan-de-acci%C3%B3n-nacional-de-estado-abierto-de-colombia-est%C3%A1-disponible/) (2023-2025). Su propósito es compartir con distintos grupos de interés las recomendaciones clave que, como organizaciones de la sociedad civil del [Comité de Estado Abierto de Colombia](https://agacolombia.org/acerca-del-comite/), consideramos fundamentales para implementar efectivamente Planes de Acción de Estado Abierto o Gobierno Abierto, según aplique, con perspectiva de género. Estas sugerencias son relevantes tanto para Colombia como para otros países.
 
@@ -29,7 +30,7 @@ Un aspecto destacado del proceso fue la participación activa de diversas person
 
 Esta colaboración amplió el alcance del V Plan. La participación ciudadana, especialmente de mujeres de diferentes regiones del país, fue fundamental. Nos ayudaron a identificar temas de interés, problemas y posibles soluciones relacionadas con los cuatro pilares del Gobierno Abierto. Esto condujo a la creación de un Plan de Acción con múltiples perspectivas integradas y una mayor solidez en las acciones a implementar en los próximos dos años.\
 
-# Conceptos previos
+## Conceptos previos
 
 Esta guía trata tres aspectos clave: el Estado Abierto, la gobernanza de datos y la perspectiva de género. Vamos a partir de algunas definiciones para entender mejor cómo se relacionan y por qué son importantes en los Planes de Acción de Gobierno Abierto.
 
@@ -121,7 +122,7 @@ La apertura y transparencia en la gestión de datos hace que las organizaciones 
 
 - Separar los datos por género permite un análisis detallado y una mejor comprensión de las características específicas de cada grupo.
 
-# Recomendaciones
+## Recomendaciones
 
 La inclusión de la perspectiva de género en el Gobierno Abierto es más que las mujeres y las diversidades participen en la discusión. Además, es necesario que sus aportes se tengan en cuenta a la hora de tomar decisiones para lograr una participación efectiva de verdad. Abordar los problemas que les afectan de manera diferenciada nos permite establecer soluciones específicas. Por eso, necesitamos incorporar la perspectiva de género en los Planes de Acción.
 
