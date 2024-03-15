@@ -1,0 +1,111 @@
+{{ define "main" }}
+<div class="py-4 bg-orange-peel">
+  <p class="text-center font-normal text-lg">
+    <b>Available in</b>
+    <a href="{{ relref . " repositorio" }}"><em>Español</em></a>
+    <b>/</b> <a href="{{ relref . " repository" }}">English<em></em></a>
+  </p>
+</div>
+<div class="bg-mine-shaft py-16">
+  <div class="mx-auto w-11/12 md:w-10/12 max-w-screen-xl">
+    <div class="flex flex-col gap-y-8 md:flex-row md:gap-x-12 text-white">
+      <div class="md:w-1/2">
+        <h1 class="text-5xl lg:text-6xl leading-none">{{ .Title }}</h1>
+      </div>
+      <div class="md:w-1/2">
+        <p class="lg:text-lg font-normal">{{ .Params.description }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div>
+  <img src="/images/repositorio/banner.jpg" alt="banner" />
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2">
+  {{ range where site.RegularPages "Type" "repository" }}
+  <div class="p-10" style="background-color: {{ .Params.bgColor }}; color: {{ .Params.color }}">
+    <h2 class="text-xl lg:text-2xl">{{ .Title }}</h2>
+    <p class="mt-3 font-normal">{{.Params.description}}</p>
+    <a class="mt-8 inline-block text-white lg:text-lg bg-mine-shaft py-2 px-6"
+      style='background-color: {{ if eq .Params.variantButton "dark" }}#282828{{ else }}#FFFFFF{{ end }};'
+      href="{{ .RelPermalink }}">Read more
+    </a>
+  </div>
+  {{ end }}
+</div>
+<div class="py-12 lg:py-16 xl:py-20">
+  <div class="mx-auto w-11/12 md:w-10/12 max-w-screen-xl">
+    <div class="text-center">
+      <h2 class="text-2xl lg:text-3xl">Quotes</h2>
+    </div>
+    <div class="mt-4 glide">
+      <div class="glide__track max-w-4xl mx-auto" data-glide-el="track">
+        <ul class="glide__slides">
+          <li class="glide__slide">
+            <div>
+              <p class="font-light text-lg lg:text-xl text-center">
+                “The gender approach goes beyond the data and the indicator to measure (…) it goes with the ways in
+                which it is done, with the work structure, with the impact it has, with the number of women or gender
+                dissidents who manage to recognize, understand, appropriate and get involved in the process”
+              </p>
+              <div class="mt-8 text-center">
+                <p>Ana Gabriel Zúñiga Aponte</p>
+                <p class="font-light">Responsible for gender and data policy at ILDA</p>
+                <p class="font-light">Interview, August 24</p>
+              </div>
+            </div>
+          </li>
+          <li class="glide__slide">
+            <div>
+              <p class="font-light text-lg lg:text-xl text-center">
+                “When we think about individual participation, it is important to promote the necessary “care” policies.
+                Therefore, when we increase spaces, compensations and other types of elements, we are improving women's
+                participation, because “care” is socially perceived as a woman's job.”
+              </p>
+              <div class="mt-8 text-center">
+                <p>Silvana Fumega</p>
+                <p class="font-light">Director of the Global Data Barometer</p>
+                <p class="font-light">Taken from OGP: Faces of Open Government, November 19, 2019</p>
+              </div>
+            </div>
+          </li>
+          <li class="glide__slide">
+            <div>
+              <p class="font-light text-lg lg:text-xl text-center">
+                “Participation and representation must be significant and effective, that is, they have influence in
+                decision-making and not only as a consultative body. This participation must take into account the
+                diversity within the different groups of women and LGBTIQ+ people”
+              </p>
+              <div class="mt-8 text-center">
+                <p>Hassel Fallas</p>
+                <p class="font-light">Data and inclusion coordinator at ILDA</p>
+                <p class="font-light">Interview, August 27</p>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div class="glide__arrows" data-glide-el="controls">
+        <button class="glide__arrow glide__arrow--left" data-glide-dir="<">
+          <div>
+            <img src="/images/icons/arrow-left.svg" alt="arrow left">
+          </div>
+        </button>
+        <button class="glide__arrow glide__arrow--right" data-glide-dir=">">
+          <div>
+            <img src="/images/icons/arrow-right.svg" alt="arrow right">
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+{{ define "head" }}
+{{ $glide := resources.Get "css/glide.css" | postCSS | fingerprint }}
+<link rel="stylesheet" href="{{ $glide.Permalink }}">
+{{ end }}
+{{ define "js" }}
+{{ $repository := resources.Get "js/api/repository.js" | js.Build (dict "minify" hugo.IsProduction)}}
+<script src="{{ $repository.Permalink }}"></script>
+{{ end }}

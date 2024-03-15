@@ -18,9 +18,13 @@ taxonomies = []
     name = "Planes de acción"
     weight = 2
   [[menu.main]]
+    url = "/repositorio/"
+    name = "Repositorio"
+    weight = 3
+  [[menu.main]]
     url = "/blog/"
     name = "Blog"
-    weight = 3
+    weight = 4
   # [[menu.main]]
   #   url = "/datos-abiertos/"
   #   name = "Datos abiertos"

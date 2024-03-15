@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ $link := .Params.post }}
+{{ if $link }}
+<div class="py-4 bg-orange-peel">
+  <p class="text-center font-normal text-lg">
+    <b>Disponible en</b>
+    <a href="{{ .RelPermalink }}"><em>Español</em></a>
+    <b>/</b> <a href="/repository/{{ .Params.post }}">English<em></em></a>
+  </p>
+</div>
+{{ end }}
+<div class="py-12 lg:py-16 xl:py-20">
+  <div class="mx-auto w-11/12 md:w-10/12 max-w-screen-xl">
+    <h1 class="text-3xl lg:text-4xl">{{ .Title }}</h1>
+    <div class="mt-8 flex flex-col gap-6 markdown">{{.Content}}</div>
+    <div class="mt-8">
+      <a class="mt-8 inline-block text-white lg:text-lg bg-mine-shaft py-2 px-6" href="{{ relref . " repositorio" }}">
+        Volver
+      </a>
+    </div>
+  </div>
+</div>
+{{ end }}
