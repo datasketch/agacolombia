@@ -8,6 +8,6 @@ En un esfuerzo continuo por fortalecer los principios democráticos, las organiz
 
 La adopción de esta ley no solo creará un entorno de confianza entre el Estado y la ciudadanía, sino que también será esencial para salvaguardar vidas y asegurar la garantía de los derechos humanos.
 
-Confiamos en que nuestra solicitud será atendida para avanzar hacia un Colombia más transparente y justa. Agradecemos al Honorable Representante Sánchez León por su atención a este asunto tan significativo.
+Confiamos en que nuestra solicitud será atendida para avanzar hacia una Colombia más transparente y justa. Agradecemos al Honorable Representante Sánchez León por su atención a este asunto tan significativo.
 
 [Conoce la carta](https://drive.google.com/file/d/1H08DgFRYS1rH30E3UEc73A8lllkdeszO/view)
