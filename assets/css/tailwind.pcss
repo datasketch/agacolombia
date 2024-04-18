@@ -27,7 +27,7 @@
 }
 
 .single-post-content ul {
-  @apply list-disc pl-8
+  @apply list-disc pl-8;
 }
 
 .single-post-content ol {
@@ -52,12 +52,22 @@
   }
 }
 
-.markdown h1, h2, h3, h4, h5, h6 {
+.markdown h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   @apply font-bold text-xl;
 }
 
 @screen lg {
-  .markdown h1, h2, h3, h4, h5, h6 {
+  .markdown h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     @apply text-2xl;
   }
 }
@@ -68,6 +78,10 @@
 
 .markdown ul {
   @apply flex flex-col gap-4 list-disc pl-4;
+}
+
+.markdown ol {
+  @apply flex flex-col gap-4 list-decimal pl-4;
 }
 
 @tailwind components;

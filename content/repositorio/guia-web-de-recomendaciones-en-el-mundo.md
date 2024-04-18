@@ -2,9 +2,9 @@
 title: Guía web de recomendaciones en el mundo
 description: Este documento es parte del proyecto “Inclusión de la perspectiva de género en el V Plan de Acción Nacional de Estado Abierto de Colombia”, cuyos hallazgos son esenciales para aplicar Planes de Acción con perspectiva de género y abordar acciones pendientes para tener políticas equitativas.
 weight: 2
-bgColor: "#0F827F"
-color: "#FFFFFF"
-variantButton: "dark"
+bgColor: '#0F827F'
+color: '#FFFFFF'
+variantButton: 'dark'
 post: global-recommendations-guide
 ---
 
@@ -98,6 +98,24 @@ La apertura y transparencia en la gestión de datos hace que las organizaciones 
 
 - Separar los datos por género permite un análisis detallado y una mejor comprensión de las características específicas de cada grupo.
 
+## Espacios de cocreación territorial en Colombia
+
+El V Plan de Acción Nacional de Estado Abierto en Colombia se ha desarrollado con la participación activa de la ciudadanía a través de 9 espacios de cocreación territorial, ocho de los cuales fueron presenciales en diversas ciudades del país (Cartagena, Cali, Medellín, Florencia, Quibdó, Bucaramanga, Buenaventura y Bogotá), mientras que uno se llevó a cabo de manera virtual. Estos encuentros contaron con un total de 792 participantes, y es destacable la representación significativa de mujeres, con un 52% en el total de ciudades visitadas frente al 48% de hombres.
+
+En el espíritu de la participación, se convocó a la participación de la ciudadanía, academia, instituciones públicas y diferentes organizaciones de la sociedad civil para entender las problemáticas de cada uno de los territorios. La finalidad de una metodología que prioriza la voz de quienes estaban presentes fue construir insumos en torno a los pilares de gobierno abierto para posteriormente discutirlos con las instituciones públicas, las cuales asumen los compromisos dentro de un plan de acción de estado abierto.
+
+La cocreación se llevó a cabo en tres momentos metodológicos que se pueden ahondar en el [documento final del V Plan de Estado Nacional Abierto de Colombia](https://opengovpartnership.org/wp-content/uploads/2024/01/Colombia_Action-Plan_2023-2025_December.pdf). Aquí nos interesa presentar algunas pistas que brinden claridades al emprender la construcción de un Plan de Acción.
+
+En cuanto a la rendición de cuentas, se sistematizaron 75 problemas, abarcando sectores como Defensa Nacional, Educación, Salud, entre otros. Se identificaron causas, consecuencias y responsables, destacando la falta de transparencia en la ejecución de recursos y la dificultad de acceso a la información en ciudades pequeñas. Los temas prioritarios fueron Paz Total, Derechos Humanos e Integridad en la Gestión Institucional, revelando preocupaciones sobre seguridad, justicia y corrupción. Además, se señalaron desafíos en educación, salud, infraestructura y discriminación, evidenciando la necesidad de garantizar igualdad y equidad en el acceso a la información.
+
+Los sectores de función pública, interior, planeación, transporte y TIC concentraron el 58% de los problemas relacionados con el pilar de Transparencia, que reflejaron la importancia de políticas transparentes en áreas clave como contratación pública y seguridad. A pesar de la votación mayoritaria por transparencia en las finanzas públicas, los problemas identificados abarcan diversas áreas, principalmente obstáculos en acceso a información y claridad en procesos de contratación. Se evidenciaron discrepancias respecto al enfoque diferencial de género y grupos específicos, aunque la mayoría abogó por un trato igualitario.
+
+El pilar de Participación Ciudadana destaca con 96 problemas identificados de un total de 303 en los espacios de cocreación. Estos estuvieron mayormente asociados al sector de función pública, seguido de inclusión y equidad, representando el 75% de los sectores identificados. Aunque la consulta ciudadana priorizó la participación en el presupuesto de gobiernos locales, en los diálogos regionales se destacó el fortalecimiento institucional para la democracia participativa. Se señalaron barreras tanto desde la institucionalidad como desde la ciudadanía, como la falta de interés, la preparación y la desarticulación institucional, así como la inseguridad y la importancia de enfocarse en grupos vulnerables como niños, niñas, adolescentes y mujeres.
+
+Con respecto al pilar de Innovación Pública y Tecnológica, se registraron problemas en los talleres de cocreación asociados principalmente con entidades públicas como el Departamento Administrativo de la Función Pública. Los desafíos incluyen deficiencias en infraestructura y capacitación para innovación, afectando áreas como contratación pública, movilidad y medio ambiente. Se identificaron riesgos de perpetuar desigualdades y falta de confianza en las instituciones debido a la ineficiencia y la corrupción. Se destacó la necesidad de mejorar la comunicación y la participación ciudadana mediante la innovación tecnológica. Las soluciones propuestas se centraron en cambios culturales y capacitación, especialmente desde la educación primaria. Se enfatizó la importancia de abordar estos problemas a nivel local y regional, con un énfasis en niños y adolescentes en las soluciones de innovación.
+
+El proceso de cocreación del V Plan de Acción de Estado Abierto en Colombia ha sido un ejemplo destacado de participación ciudadana y colaboración interinstitucional. La inclusión se ha reflejado tanto en la representación diversa de la sociedad, con una significativa presencia de mujeres, como en la identificación y el análisis profundo de problemas clave en áreas como rendición de cuentas, transparencia, participación ciudadana e innovación pública y tecnológica. Este proceso no solo ha permitido visibilizar desafíos y preocupaciones en diversos sectores, como seguridad, educación y discriminación, sino que también ha propiciado el surgimiento de soluciones innovadoras. Por esta razón, la experiencia de esos espacios sirve de referencia para replicarlos en otras partes del país y el mundo. En este sentido, presentamos a continuación una serie de recomendaciones para tener en cuenta.
+
 ## Recomendaciones
 
 La inclusión de la perspectiva de género en el Gobierno Abierto es más que las mujeres y las diversidades participen en la discusión. Además, es necesario que sus aportes se tengan en cuenta a la hora de tomar decisiones para lograr una participación efectiva de verdad. Abordar los problemas que les afectan de manera diferenciada nos permite establecer soluciones específicas. Por eso, necesitamos incorporar la perspectiva de género en los Planes de Acción.
@@ -166,7 +184,7 @@ Estos procesos nos permiten verificar si estamos en el camino correcto o si es n
 
 - ¿Cómo integra la perspectiva de género?
 
-7.  Retroalimentación continua: Después de cada actividad, es útil hacer la retroalimentación para una evaluación más informal. Esto permite identificar qué ha funcionado y qué ajustes son necesarios para futuras actividades.
+6.  Retroalimentación continua: Después de cada actividad, es útil hacer la retroalimentación para una evaluación más informal. Esto permite identificar qué ha funcionado y qué ajustes son necesarios para futuras actividades.
 
 El monitoreo y la evaluación en la cocreación de un Plan de Acción son fundamentales para asegurar que el proceso sea efectivo y cumpla con sus objetivos, especialmente en la inclusión de la perspectiva de género.
 
@@ -179,3 +197,5 @@ El V Plan de Acción Nacional de Estado Abierto de Colombia ha sido un proceso c
 Para una implementación exitosa, recomendamos mantener una participación activa, considerar las diferencias territoriales y étnicas, y asegurar la transparencia y acceso a la información. La inclusión de métricas específicas con perspectiva de género es crucial para evaluar el impacto y cerrar brechas. El proceso requiere un aprendizaje continuo y la identificación de buenas prácticas.
 
 La creación del V Plan de Acción Nacional de Estado Abierto en Colombia ha establecido un modelo para un Gobierno Abierto y equitativo en términos de género. La cocreación y participación ciudadana, junto con la aplicación de lecciones internacionales, han sido fundamentales para desarrollar un Plan que promueve la equidad de género. Es un proceso en el que la implementación y el monitoreo continuo son esenciales para lograr resultados concretos y significativos, sirviendo de ejemplo para otros países en la búsqueda de gobiernos más inclusivos.
+
+[Accede a la guía](https://drive.google.com/file/d/1OjbUmPT0xFKhN6ATk2LC5keyBmJa6Z5v/view?usp=drive_link)

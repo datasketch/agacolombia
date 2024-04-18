@@ -99,6 +99,24 @@ What does this entail?
 
 - Separating the data by gender allows for detailed analysis and a better understanding of the specific characteristics of each group.
 
+## Territorial Co-creation Spaces in Colombia
+
+The V National Action Plan for Open Government in Colombia has been developed with the active participation of citizens through 9 territorial co-creation spaces, eight of which were face-to-face in various cities of the country (Cartagena, Cali, Medellín, Florencia, Quibdó, Bucaramanga, Buenaventura, and Bogotá), while one was conducted virtually. These meetings had a total of 792 participants, with a significant representation of women, accounting for 52% in the total cities visited compared to 48% of men.
+
+In the spirit of participation, citizens, academia, public institutions, and different civil society organizations were called to participate to understand the problems of each territory. The purpose of a methodology that prioritizes the voice of those present was to build inputs around the pillars of open government to later discuss them with public institutions, which assume the commitments within an open state action plan.
+
+The co-creation was carried out in three methodological moments that can be delved into in the [final document of the V Plan of National Open State of Colombia](https://opengovpartnership.org/wp-content/uploads/2024/01/Colombia_Action-Plan_2023-2025_December.pdf). Here we are interested in presenting some clues that provide clarity when undertaking the construction of an Action Plan.
+
+Regarding accountability, 75 problems were systematized, covering sectors such as National Defense, Education, Health, among others. Causes, consequences, and responsible parties were identified, highlighting the lack of transparency in resource execution and difficulty accessing information in small cities. The priority themes were Total Peace, Human Rights, and Integrity in Institutional Management, revealing concerns about security, justice, and corruption. In addition, challenges in education, health, infrastructure, and discrimination were pointed out, demonstrating the need to ensure equality and equity in access to information.
+
+The sectors of public function, interior, planning, transport, and ICT concentrated 58% of the problems related to the Transparency pillar, reflecting the importance of transparent policies in key areas such as public contracting and security. Despite the majority vote for transparency in public finances, the identified problems span various areas, mainly obstacles in access to information and clarity in contracting processes. Discrepancies regarding the differential gender approach and specific groups were evidenced, although the majority advocated for equal treatment.
+
+The Citizen Participation pillar stands out with 96 problems identified out of a total of 303 in the co-creation spaces. These were mostly associated with the public function sector, followed by inclusion and equity, representing 75% of the identified sectors. Although citizen consultation prioritized participation in local government budgets, regional dialogues highlighted institutional strengthening for participatory democracy. Barriers were pointed out both from the institutionality and the citizenry, such as lack of interest, preparation, and institutional disarticulation, as well as insecurity and the importance of focusing on vulnerable groups like children, adolescents, and women.
+
+Regarding the Public and Technological Innovation pillar, problems were recorded in the co-creation workshops mainly associated with public entities like the Administrative Department of Public Function. Challenges include deficiencies in infrastructure and training for innovation, affecting areas such as public contracting, mobility, and environment. Risks of perpetuating inequalities and lack of trust in institutions due to inefficiency and corruption were identified. The need to improve communication and citizen participation through technological innovation was highlighted. Proposed solutions focused on cultural changes and training, especially from primary education. The importance of addressing these problems at the local and regional levels was emphasized, with a focus on children and adolescents in innovation solutions.
+
+The co-creation process of the V Action Plan for Open State in Colombia has been a notable example of citizen participation and interinstitutional collaboration. Inclusion has been reflected both in the diverse representation of society, with a significant presence of women, and in the identification and deep analysis of key problems in areas such as accountability, transparency, citizen participation, and public and technological innovation. This process has not only made it possible to visualize challenges and concerns in various sectors, such as security, education, and discrimination, but has also fostered the emergence of innovative solutions. For this reason, the experience of these spaces serves as a reference to replicate them in other parts of the country and the world. In this sense, we present below a series of recommendations to take into account.
+
 ## Recommendations
 
 The inclusion of the gender perspective in Open Government is more than women and diversities participating in the discussion. Furthermore, their contributions must be taken into account when making decisions to achieve truly effective participation. Addressing the problems that affect them in a differentiated way allows us to establish specific solutions. Therefore, we need to incorporate the gender perspective into Action Plans.
@@ -167,7 +185,7 @@ These processes allowed us to verify whether we are on the right path or if it i
 
 - How does it integrate the gender perspective?
 
-7.  Continuous feedback: After each activity, it is useful to provide feedback for a more informal evaluation. This allows for identifying what has worked and what adjustments are necessary for future activities.
+6.  Continuous feedback: After each activity, it is useful to provide feedback for a more informal evaluation. This allows for identifying what has worked and what adjustments are necessary for future activities.
 
 Monitoring and evaluation in the co-creation of an Action Plan are essential to ensure that the process is effective and meets its objectives, especially in the inclusion of the gender perspective.
 
@@ -180,3 +198,5 @@ The V National Open State Action Plan of Colombia has been a collaborative and e
 For successful implementation, it is recommended to foster active participation, consider territorial and ethnic differences, and ensure transparency and access to information. The inclusion of specific metrics with gender perspective is crucial to evaluate the impact and closing gender gaps. The process requires continuous learning and the identification of good practices.
 
 In summary, the creation of the V National Open State Action Plan in Colombia has established a model for an open and gender-equitable government. Co-creation and citizen participation, along with the application of international lessons, have been fundamental to developing a Plan that promotes gender equality. Implementation and continuous monitoring are essential to achieve concrete and significant results, serving as an example for other countries in the search for more inclusive governments.
+
+[Access the guide](https://drive.google.com/file/d/1Ma7CQVdhW-vqU5njvIrgW6O7WTYfJqIf/view?usp=drive_link)
