@@ -9,4 +9,4 @@ El V Plan es el resultado del Comité de Estado Abierto, que componen seis entid
 
 Este plan se distingue por su enfoque inclusivo, abarcando responsabilidades de entidades ejecutivas nacionales y territoriales, órganos de control, altas cortes y, por primera vez, la rama legislativa. La visión de Estado Abierto permite fortalecer la presencia del Estado y brindar herramientas para garantizar los derechos fundamentales de toda la ciudadanía.
 
-[Descarga el V Plan de Acción Nacional de Estado Abierto de Colombia](https://www.opengovpartnership.org/wp-content/uploads/2024/01/Colombia_Action-Plan_2023-2025_December_Revised.pdf)
+[Descarga la versión revisada del V Plan de Acción Nacional de Estado Abierto de Colombia](https://www.opengovpartnership.org/wp-content/uploads/2024/01/Colombia_Action-Plan_2023-2025_December_Revised.pdf)
