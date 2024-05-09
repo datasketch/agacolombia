@@ -2,7 +2,7 @@
 title: Comentarios al borrador de decreto de la Estrategia Nacional de Lucha
   contra la Corrupción
 author: Organizaciones de la Sociedad Civil del Comité de Estado Abierto de Colombia
-date: 2024-04-16T15:44:56.154Z
+date: 2024-05-09T16:12:03.572Z
 ---
 Las organizaciones de sociedad civil (OSC) que actualmente hacemos parte del Comité de Estado Abierto en Colombia reconocemos la importancia de la Estrategia Nacional de Lucha Contra la Corrupción, que es un compromiso del Gobierno Nacional en el Plan Nacional de Desarrollo 2022-2026 y del [V Plan de Acción de Estado Abierto de Colombia](https://www.opengovpartnership.org/wp-content/uploads/2024/01/Colombia_Action-Plan_2023-2025_December_Revised.pdf) en el marco de la participación del país en la Open Government Partnership (OGP). En ese sentido, valoramos los esfuerzos del Gobierno Nacional en la elaboración y publicación del respectivo borrador de decreto reglamentario.
 
