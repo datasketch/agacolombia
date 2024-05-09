@@ -1,7 +1,7 @@
 ---
 title: Así fueron los espacios de cocreación V Plan de Acción de Estado Abierto
   Colombia
-author: Datasketch
+author: Organizaciones de la Sociedad Civil del Comité de Estado Abierto de Colombia
 date: 2023-12-12T20:02:05.477Z
 ---
 Durante la construcción del V Plan de Acción de Estado abierto en Colombia se realizaron  nueve espacios de cocreación territorial, de los cuales ocho fueron de manera presencial en diferentes ciudades del país y uno de manera virtual.
