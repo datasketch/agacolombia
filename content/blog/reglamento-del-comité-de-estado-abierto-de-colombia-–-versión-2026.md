@@ -1,6 +1,6 @@
 ---
 title: Reglamento del Comité de Estado Abierto de Colombia – Versión 2026
-author: Comité del Estado Abierto
+author: Comité del Estado Abierto de Colombia
 date: 2026-04-23T16:54:57.495Z
 ---
 Colombia sigue fortaleciendo su compromiso con la transparencia, la participación ciudadana y la rendición de cuentas. En este contexto, el Comité de Estado Abierto presenta su reglamento actualizado, un instrumento clave que orienta el trabajo colaborativo entre entidades públicas y sociedad civil.
