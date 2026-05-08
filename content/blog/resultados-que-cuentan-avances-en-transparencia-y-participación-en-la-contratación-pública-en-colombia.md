@@ -64,4 +64,6 @@ El gobierno abierto no se limita a la publicación de datos. Es un proceso que r
 
 Los resultados presentados en este evento no solo evidencian avances, sino que también ofrecen una hoja de ruta para seguir construyendo un Estado más transparente, participativo y cercano a la ciudadanía.
 
-<!--EndFragment-->
+Con apoyo de:
+
+![Con apoyo de Unión Europea y Open Government Partnership](/uploads/ue-ogp.png "Con apoyo de Unión Europea y Open Government Partnership")
