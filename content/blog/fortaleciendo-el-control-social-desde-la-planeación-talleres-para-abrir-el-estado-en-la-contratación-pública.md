@@ -25,3 +25,7 @@ Hasta la fecha, hemos llevado a cabo talleres con servidores públicos de las al
 ## Hacia unas contrataciones transparentes
 
 Estas capacitaciones buscan **trascender la teoría** para brindar herramientas prácticas y generar capacidades sostenibles. El control social es posible si hay canales de participación desde el inicio de los procesos de contratación, y para ello es indispensable **una ciudadanía informada y entidades comprometidas**. Continuaremos promoviendo este enfoque a lo largo del país con la convicción de que **abrir el Estado desde la contratación no solo es posible, sino urgente**.
+
+Con apoyo de:
+
+![Con apoyo de Unión Europea y OGP](/uploads/ue-ogp.png "Con apoyo de Unión Europea y OGP")
